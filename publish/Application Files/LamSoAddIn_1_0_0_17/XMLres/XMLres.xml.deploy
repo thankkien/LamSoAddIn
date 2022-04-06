@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+    <dsThienCan>
+		<ThienCan MaSo="0">Canh</ThienCan>
+		<ThienCan MaSo="1">Tân</ThienCan>
+		<ThienCan MaSo="2">Nhâm</ThienCan>
+		<ThienCan MaSo="3">Quý</ThienCan>
+		<ThienCan MaSo="4">Giáp</ThienCan>
+		<ThienCan MaSo="5">Ất</ThienCan>
+		<ThienCan MaSo="6">Bính</ThienCan>
+		<ThienCan MaSo="7">Đinh</ThienCan>
+		<ThienCan MaSo="8">Mậu</ThienCan>
+		<ThienCan MaSo="9">Kỷ</ThienCan>
+	</dsThienCan>
+	<dsDiaChi>
+		<DiaChi MaSo="0">Thân</DiaChi>
+		<DiaChi MaSo="1">Dậu</DiaChi>
+		<DiaChi MaSo="2">Tuất</DiaChi>
+		<DiaChi MaSo="3">Hợi</DiaChi>
+		<DiaChi MaSo="4">Tý</DiaChi>
+		<DiaChi MaSo="5">Sửu</DiaChi>
+		<DiaChi MaSo="6">Dần</DiaChi>
+		<DiaChi MaSo="7">Mão</DiaChi>
+		<DiaChi MaSo="8">Thìn</DiaChi>
+		<DiaChi MaSo="9">Tỵ</DiaChi>
+		<DiaChi MaSo="10">Ngọ</DiaChi>
+		<DiaChi MaSo="11">Mùi</DiaChi>
+	</dsDiaChi>
+	<dsChuMenh>
+		<ChuMenh MaSo="0">Đệ Ngũ Vũ Khúc</ChuMenh>
+		<ChuMenh MaSo="1">Đệ Tứ Văn Khúc</ChuMenh>
+		<ChuMenh MaSo="2">Đệ Tam Lộc Tồn</ChuMenh>
+		<ChuMenh MaSo="3">Đệ Nhị Cự Môn</ChuMenh>
+		<ChuMenh MaSo="4">Đệ Nhất Tham Lang</ChuMenh>
+		<ChuMenh MaSo="5">Đệ Nhị Cự Môn</ChuMenh>
+		<ChuMenh MaSo="6">Đệ Tam Lộc Tồn</ChuMenh>
+		<ChuMenh MaSo="7">Đệ Tứ Văn Khúc</ChuMenh>
+		<ChuMenh MaSo="8">Đệ Ngũ Vũ Khúc</ChuMenh>
+		<ChuMenh MaSo="9">Đệ Lục Liêm Trinh</ChuMenh>
+		<ChuMenh MaSo="10">Đệ Thất Phá</ChuMenh>
+		<ChuMenh MaSo="11">Đệ Lục Liêm Trinh</ChuMenh>
+	</dsChuMenh>
+	<dsSao>
+		<Sao MaSo="0" GioiTinh="Nam">Mộc Đức</Sao>
+		<Sao MaSo="1" GioiTinh="Nam">La Hầu</Sao>
+		<Sao MaSo="2" GioiTinh="Nam">Thổ Tú</Sao>
+		<Sao MaSo="3" GioiTinh="Nam">Thuỷ Diệu</Sao>
+		<Sao MaSo="4" GioiTinh="Nam">Thái Bạch</Sao>
+		<Sao MaSo="5" GioiTinh="Nam">Thái Dương</Sao>
+		<Sao MaSo="6" GioiTinh="Nam">Vân Hán</Sao>
+		<Sao MaSo="7" GioiTinh="Nam">Kế Đô</Sao>
+		<Sao MaSo="8" GioiTinh="Nam">Thái Âm</Sao>
+		<Sao MaSo="0" GioiTinh="Nữ">Thuỷ Diệu</Sao>
+		<Sao MaSo="1" GioiTinh="Nữ">Kế Đô</Sao>
+		<Sao MaSo="2" GioiTinh="Nữ">Vân Hán</Sao>
+		<Sao MaSo="3" GioiTinh="Nữ">Mộc Đức</Sao>
+		<Sao MaSo="4" GioiTinh="Nữ">Thái Âm</Sao>
+		<Sao MaSo="5" GioiTinh="Nữ">Thổ Tú</Sao>
+		<Sao MaSo="6" GioiTinh="Nữ">La Hầu</Sao>
+		<Sao MaSo="7" GioiTinh="Nữ">Thái Dương</Sao>
+		<Sao MaSo="8" GioiTinh="Nữ">Thái Bạch</Sao>
+	</dsSao>
+	<dsHan>
+		<Han MaSo="10" GioiTinh="Nam">Huỳnh Tuyền</Han>
+		<Han MaSo="11" GioiTinh="Nam">Tam Kheo</Han>
+		<Han MaSo="12" GioiTinh="Nam">Ngũ Hộ</Han>
+		<Han MaSo="13" GioiTinh="Nam">Thiên Tinh</Han>
+		<Han MaSo="14" GioiTinh="Nam">Tán Tận</Han>
+		<Han MaSo="15" GioiTinh="Nam">Thiên La</Han>
+		<Han MaSo="16" GioiTinh="Nam">Địa Võng</Han>
+		<Han MaSo="17" GioiTinh="Nam">Diêm Vương</Han>
+		<Han MaSo="10" GioiTinh="Nữ">Tán Tận</Han>
+		<Han MaSo="11" GioiTinh="Nữ">Thiên Tinh</Han>
+		<Han MaSo="12" GioiTinh="Nữ">Ngũ Hộ</Han>
+		<Han MaSo="13" GioiTinh="Nữ">Tam Kheo</Han>
+		<Han MaSo="14" GioiTinh="Nữ">Huỳnh Tuyền</Han>
+		<Han MaSo="15" GioiTinh="Nữ">Diêm Vương</Han>
+		<Han MaSo="16" GioiTinh="Nữ">Địa Võng</Han>
+		<Han MaSo="17" GioiTinh="Nữ">Thiên La</Han>
+	</dsHan>
+	<dsVan>
+		<Van MaSo="0" GioiTinh="Nam">Âm Dương</Van>
+		<Van MaSo="1" GioiTinh="Nam">Kim Ngưu</Van>
+		<Van MaSo="2" GioiTinh="Nam">Bạch Dương</Van>
+		<Van MaSo="3" GioiTinh="Nam">Song Ngư</Van>
+		<Van MaSo="4" GioiTinh="Nam">Bảo Bình</Van>
+		<Van MaSo="5" GioiTinh="Nam">Ma Kết</Van>
+		<Van MaSo="6" GioiTinh="Nam">Nhân Mã</Van>
+		<Van MaSo="7" GioiTinh="Nam">Thiên Hạt</Van>
+		<Van MaSo="8" GioiTinh="Nam">Thiên Xứng</Van>
+		<Van MaSo="9" GioiTinh="Nam">Song Nữ</Van>
+		<Van MaSo="10" GioiTinh="Nam">Sư Tử</Van>
+		<Van MaSo="11" GioiTinh="Nam">Cự Giải</Van>
+		<Van MaSo="0" GioiTinh="Nữ">U Hiền</Van>
+		<Van MaSo="1" GioiTinh="Nữ">U Thống</Van>
+		<Van MaSo="2" GioiTinh="Nữ">Kỉ Cương</Van>
+		<Van MaSo="3" GioiTinh="Nữ">Khai Môn</Van>
+		<Van MaSo="4" GioiTinh="Nữ">Thái Thượng</Van>
+		<Van MaSo="5" GioiTinh="Nữ">Nguyên Bồng</Van>
+		<Van MaSo="6" GioiTinh="Nữ">Minh Kỷ</Van>
+		<Van MaSo="7" GioiTinh="Nữ">U Tổng</Van>
+		<Van MaSo="8" GioiTinh="Nữ">Cương Thần</Van>
+		<Van MaSo="9" GioiTinh="Nữ">Kỷ Minh</Van>
+		<Van MaSo="10" GioiTinh="Nữ">Khai Hội</Van>
+		<Van MaSo="11" GioiTinh="Nữ">Kỷ Võng</Van>
+	</dsVan>
+	<dsDongLam>
+		<DongLam MaSo="0" GioiTinh="Nam">Ly</DongLam>
+		<DongLam MaSo="1" GioiTinh="Nam">Khôn</DongLam>
+		<DongLam MaSo="2" GioiTinh="Nam">Đoài</DongLam>
+		<DongLam MaSo="3" GioiTinh="Nam">Càn</DongLam>
+		<DongLam MaSo="4" GioiTinh="Nam">Khảm</DongLam>
+		<DongLam MaSo="5" GioiTinh="Nam">Cấn</DongLam>
+		<DongLam MaSo="6" GioiTinh="Nam">Chấn</DongLam>
+		<DongLam MaSo="7" GioiTinh="Nam">Tốn</DongLam>
+		<DongLam MaSo="0" GioiTinh="Nữ">Khảm</DongLam>
+		<DongLam MaSo="1" GioiTinh="Nữ">Càn</DongLam>
+		<DongLam MaSo="2" GioiTinh="Nữ">Đoài</DongLam>
+		<DongLam MaSo="3" GioiTinh="Nữ">Khôn</DongLam>
+		<DongLam MaSo="4" GioiTinh="Nữ">Ly</DongLam>
+		<DongLam MaSo="5" GioiTinh="Nữ">Tốn</DongLam>
+		<DongLam MaSo="6" GioiTinh="Nữ">Chấn</DongLam>
+		<DongLam MaSo="7" GioiTinh="Nữ">Cấn</DongLam>
+	</dsDongLam>
+	<dsBanMenh>
+		<BanMenh MaSo="0">Hoa Văn Dương</BanMenh>
+		<BanMenh MaSo="1">Đặng Bắc Ngọc</BanMenh>
+		<BanMenh MaSo="2">Nhạc Tiến Khanh</BanMenh>
+		<BanMenh MaSo="3">Tả Tùng Công</BanMenh>
+		<BanMenh MaSo="4">Vương Văn Khanh</BanMenh>
+		<BanMenh MaSo="5">Long Lí Khanh</BanMenh>
+		<BanMenh MaSo="6">Trương Trọng Nương</BanMenh>
+		<BanMenh MaSo="7">Tư Mã Khanh</BanMenh>
+		<BanMenh MaSo="8">Quý Sở Khanh</BanMenh>
+		<BanMenh MaSo="9">Hà Văn Xương</BanMenh>
+		<BanMenh MaSo="10">Phùng Trọng Khanh</BanMenh>
+		<BanMenh MaSo="11">Thổ Văn Chương</BanMenh>
+		<BanMenh MaSo="12">Hầu Truyền Khanh</BanMenh>
+		<BanMenh MaSo="13">Hệ Trọng Phòng</BanMenh>
+		<BanMenh MaSo="14">Thìn Tử Giang</BanMenh>
+		<BanMenh MaSo="15">Bàng Minh Tâm</BanMenh>
+		<BanMenh MaSo="16">Na Vân Khanh</BanMenh>
+		<BanMenh MaSo="17">Triệu Tử Ngũ</BanMenh>
+		<BanMenh MaSo="18">Ngu Tử Trương</BanMenh>
+		<BanMenh MaSo="19">Thạch Văn Dương</BanMenh>
+		<BanMenh MaSo="20">Y Quế Khanh</BanMenh>
+		<BanMenh MaSo="21">Dương Trọng Bình</BanMenh>
+		<BanMenh MaSo="22">Phùng Tử Minh</BanMenh>
+		<BanMenh MaSo="23">Triệu Uy Minh</BanMenh>
+		<BanMenh MaSo="24">Ung Văn Trường</BanMenh>
+		<BanMenh MaSo="25">Khổng Lợi Công</BanMenh>
+		<BanMenh MaSo="26">Xa Nguyên Tôn</BanMenh>
+		<BanMenh MaSo="27">Trương Văn Thông</BanMenh>
+		<BanMenh MaSo="28">Nhạc Thạch Dương</BanMenh>
+		<BanMenh MaSo="29">Phạm Trọng Dương</BanMenh>
+		<BanMenh MaSo="30">Chử Tiến Khanh</BanMenh>
+		<BanMenh MaSo="31">Triệu Tử Ngọc</BanMenh>
+		<BanMenh MaSo="32">Khổng Nhân Khanh</BanMenh>
+		<BanMenh MaSo="33">Sử Công Lai</BanMenh>
+		<BanMenh MaSo="34">Vệ Thượng Khanh</BanMenh>
+		<BanMenh MaSo="35">Phạm Thiếu Dương</BanMenh>
+		<BanMenh MaSo="36">Chu Bá Chúng</BanMenh>
+		<BanMenh MaSo="37">Hàm Văn Công</BanMenh>
+		<BanMenh MaSo="38">Phạm Thiếu Dương</BanMenh>
+		<BanMenh MaSo="39">Đặng Đô Khanh</BanMenh>
+		<BanMenh MaSo="40">Dương Trọng Thăng</BanMenh>
+		<BanMenh MaSo="41">Lâm Vệ Công</BanMenh>
+		<BanMenh MaSo="42">Lập Mạnh Khanh</BanMenh>
+		<BanMenh MaSo="43">Tô Thân Nghi</BanMenh>
+		<BanMenh MaSo="44">Mạnh Phi Khanh</BanMenh>
+		<BanMenh MaSo="45">Đường Văn Khanh</BanMenh>
+		<BanMenh MaSo="46">Ngụy Văn Khanh</BanMenh>
+		<BanMenh MaSo="47">Thạch Trúc Thông</BanMenh>
+		<BanMenh MaSo="48">Phạm Cựu Dương</BanMenh>
+		<BanMenh MaSo="49">Thành Văn Trường</BanMenh>
+		<BanMenh MaSo="50">Sử Tử Nhân</BanMenh>
+		<BanMenh MaSo="51">Doãn Thế Khanh</BanMenh>
+		<BanMenh MaSo="52">Túc THượng Khanh</BanMenh>
+		<BanMenh MaSo="53">Uông Ngư Khanh</BanMenh>
+		<BanMenh MaSo="54">Minh Văn Chương</BanMenh>
+		<BanMenh MaSo="55">Tải Công Dương</BanMenh>
+		<BanMenh MaSo="56">Hoắc Thúc Anh</BanMenh>
+		<BanMenh MaSo="57">Thôi Cự Anh</BanMenh>
+		<BanMenh MaSo="58">Tòng Cửu Quang</BanMenh>
+		<BanMenh MaSo="59">Thời Thông Khanh</BanMenh>
+	</dsBanMenh>
+	<dsMenh>
+		<Menh MaSo="0" GioiTinh="Nam">Quách Tử Lương</Menh>
+		<Menh MaSo="1" GioiTinh="Nam">Giảm Tiến Khanh</Menh>
+		<Menh MaSo="2" GioiTinh="Nam">Sử Công Lai</Menh>
+		<Menh MaSo="3" GioiTinh="Nam">Chính Trĩ Chính</Menh>
+		<Menh MaSo="4" GioiTinh="Nam">Đỗ Trọng Dương</Menh>
+		<Menh MaSo="5" GioiTinh="Nam">Vệ Thượng Khanh</Menh>
+		<Menh MaSo="6" GioiTinh="Nam">Túc Văn Công</Menh>
+		<Menh MaSo="7" GioiTinh="Nam">Chu Bá Chúng</Menh>
+		<Menh MaSo="8" GioiTinh="Nam">Đặng Đô Khanh</Menh>
+		<Menh MaSo="9" GioiTinh="Nam">Phạm Thiếu Khanh</Menh>
+		<Menh MaSo="10" GioiTinh="Nam">Lâm Vệ Công</Menh>
+		<Menh MaSo="11" GioiTinh="Nam">Dương Trọng Thuật</Menh>
+		<Menh MaSo="12" GioiTinh="Nam">Tô Tha Gia</Menh>
+		<Menh MaSo="13" GioiTinh="Nam">Binh Mạnh Khanh</Menh>
+		<Menh MaSo="14" GioiTinh="Nam">Đường Văn Khanh</Menh>
+		<Menh MaSo="15" GioiTinh="Nam">Mạnh Phi Khanh</Menh>
+		<Menh MaSo="16" GioiTinh="Nam">Thạch Tử Thông</Menh>
+		<Menh MaSo="17" GioiTinh="Nam">Ngụy Văn Thông</Menh>
+		<Menh MaSo="18" GioiTinh="Nam">Thành Văn Trường</Menh>
+		<Menh MaSo="19" GioiTinh="Nam">Phạm Bá Ngũ</Menh>
+		<Menh MaSo="20" GioiTinh="Nam">Tả Tử Hành</Menh>
+		<Menh MaSo="21" GioiTinh="Nam">Sử Tử Nhân</Menh>
+		<Menh MaSo="22" GioiTinh="Nam">Giang Hán Khanh</Menh>
+		<Menh MaSo="23" GioiTinh="Nam">Túc Thượng Khanh</Menh>
+		<Menh MaSo="24" GioiTinh="Nam">Nhị Thiếu Dương</Menh>
+		<Menh MaSo="25" GioiTinh="Nam">Minh Văn Chương</Menh>
+		<Menh MaSo="26" GioiTinh="Nam">Thôi Trọng Khanh</Menh>
+		<Menh MaSo="27" GioiTinh="Nam">La Quyền Anh</Menh>
+		<Menh MaSo="28" GioiTinh="Nam">Thời Thông Khanh</Menh>
+		<Menh MaSo="29" GioiTinh="Nam">Triệu Nguyên Quang</Menh>
+		<Menh MaSo="30" GioiTinh="Nam">Đặng Nguyên Vương</Menh>
+		<Menh MaSo="31" GioiTinh="Nam">Hoa Văn Dương</Menh>
+		<Menh MaSo="32" GioiTinh="Nam">Tả Tử Tòng</Menh>
+		<Menh MaSo="33" GioiTinh="Nam">Nhạc Tiến Khanh</Menh>
+		<Menh MaSo="34" GioiTinh="Nam">Long Quý Khanh</Menh>
+		<Menh MaSo="35" GioiTinh="Nam">Vương Văn Khanh</Menh>
+		<Menh MaSo="36" GioiTinh="Nam">Tự Mã Khanh</Menh>
+		<Menh MaSo="37" GioiTinh="Nam">Trương Trọng Khanh</Menh>
+		<Menh MaSo="38" GioiTinh="Nam">Hà Văn Dương</Menh>
+		<Menh MaSo="39" GioiTinh="Nam">Quý Sở Khanh</Menh>
+		<Menh MaSo="40" GioiTinh="Nam">Vương Văn Lập</Menh>
+		<Menh MaSo="41" GioiTinh="Nam">Phùng Trọng Khanh</Menh>
+		<Menh MaSo="42" GioiTinh="Nam">Tôn Trọng Phương</Menh>
+		<Menh MaSo="43" GioiTinh="Nam">Hầu Truyền Khanh</Menh>
+		<Menh MaSo="44" GioiTinh="Nam">Bàng Minh Tâm</Menh>
+		<Menh MaSo="45" GioiTinh="Nam">Bàng Viết Giang</Menh>
+		<Menh MaSo="46" GioiTinh="Nam">Triệu Tử Ngũ</Menh>
+		<Menh MaSo="47" GioiTinh="Nam">Đặng Tôn Khanh</Menh>
+		<Menh MaSo="48" GioiTinh="Nam">Thạch Văn Dương</Menh>
+		<Menh MaSo="49" GioiTinh="Nam">Ngu Đinh Trương</Menh>
+		<Menh MaSo="50" GioiTinh="Nam">Dương Trọng Công</Menh>
+		<Menh MaSo="51" GioiTinh="Nam">Tả Tử Hành</Menh>
+		<Menh MaSo="52" GioiTinh="Nam">Lã Uy Minh</Menh>
+		<Menh MaSo="53" GioiTinh="Nam">Phùng Tử Minh</Menh>
+		<Menh MaSo="54" GioiTinh="Nam">Khổng Lợi Công</Menh>
+		<Menh MaSo="55" GioiTinh="Nam">Ung Văn Trường</Menh>
+		<Menh MaSo="56" GioiTinh="Nam">Trương Văn Đạo</Menh>
+		<Menh MaSo="57" GioiTinh="Nam">Xa Nguyên Thăng</Menh>
+		<Menh MaSo="58" GioiTinh="Nam">Phạm Hòa Khanh</Menh>
+		<Menh MaSo="59" GioiTinh="Nam">Nhạc Thạch DƯơng</Menh>
+		<Menh MaSo="0" GioiTinh="Nữ">Lâm Vệ Công</Menh>
+		<Menh MaSo="1" GioiTinh="Nữ">Doãn Quế Khanh</Menh>
+		<Menh MaSo="2" GioiTinh="Nữ">Tô Tha Gia</Menh>
+		<Menh MaSo="3" GioiTinh="Nữ">Phùng Tử Minh</Menh>
+		<Menh MaSo="4" GioiTinh="Nữ">Đường Văn Khanh</Menh>
+		<Menh MaSo="5" GioiTinh="Nữ">Ung Nữ Trường</Menh>
+		<Menh MaSo="6" GioiTinh="Nữ">Đông Nguyên Thăng</Menh>
+		<Menh MaSo="7" GioiTinh="Nữ">Nhan Huệ</Menh>
+		<Menh MaSo="8" GioiTinh="Nữ">Thành Văn Trường</Menh>
+		<Menh MaSo="9" GioiTinh="Nữ">Nhạc Thạch Dương</Menh>
+		<Menh MaSo="10" GioiTinh="Nữ">Tả Tử Hành</Menh>
+		<Menh MaSo="11" GioiTinh="Nữ">Chử Tiến Khanh</Menh>
+		<Menh MaSo="12" GioiTinh="Nữ">Giang Hán Khanh</Menh>
+		<Menh MaSo="13" GioiTinh="Nữ">Võ Trĩ Khang</Menh>
+		<Menh MaSo="14" GioiTinh="Nữ">Tải Công Dương</Menh>
+		<Menh MaSo="15" GioiTinh="Nữ">Vệ THượng Khanh</Menh>
+		<Menh MaSo="16" GioiTinh="Nữ">Xương Cự Khanh</Menh>
+		<Menh MaSo="17" GioiTinh="Nữ">Vị Nhân Hoàn</Menh>
+		<Menh MaSo="18" GioiTinh="Nữ">Thời Chi Khanh</Menh>
+		<Menh MaSo="19" GioiTinh="Nữ">Phạm Thiếu Khanh</Menh>
+		<Menh MaSo="20" GioiTinh="Nữ">Đặng Nguyên Thân</Menh>
+		<Menh MaSo="21" GioiTinh="Nữ">Dương Trọng Công</Menh>
+		<Menh MaSo="22" GioiTinh="Nữ">Tả Hữu Tùng</Menh>
+		<Menh MaSo="23" GioiTinh="Nữ">Khâu Mạnh Khanh</Menh>
+		<Menh MaSo="24" GioiTinh="Nữ">Hoàn Quý Khanh</Menh>
+		<Menh MaSo="25" GioiTinh="Nữ">Nguyên Phi Khanh</Menh>
+		<Menh MaSo="26" GioiTinh="Nữ">Tư Mã Khanh</Menh>
+		<Menh MaSo="27" GioiTinh="Nữ">Nguỵ Văn Công</Menh>
+		<Menh MaSo="28" GioiTinh="Nữ">Hà Văn Xương</Menh>
+		<Menh MaSo="29" GioiTinh="Nữ">Phạm Trọng DƯơng</Menh>
+		<Menh MaSo="30" GioiTinh="Nữ">Vương Văn Chương</Menh>
+		<Menh MaSo="31" GioiTinh="Nữ">Văn Tử Nhân</Menh>
+		<Menh MaSo="32" GioiTinh="Nữ">Tôn Trọng Phòng</Menh>
+		<Menh MaSo="33" GioiTinh="Nữ">Túc Thượng Khanh</Menh>
+		<Menh MaSo="34" GioiTinh="Nữ">Bàng Minh Tâm</Menh>
+		<Menh MaSo="35" GioiTinh="Nữ">Hồ Văn Học</Menh>
+		<Menh MaSo="36" GioiTinh="Nữ">Triệu Tử Ngọc</Menh>
+		<Menh MaSo="37" GioiTinh="Nữ">Hoắc Thúc Ngô</Menh>
+		<Menh MaSo="38" GioiTinh="Nữ">Thạch Văn Tử</Menh>
+		<Menh MaSo="39" GioiTinh="Nữ">Tòng Nguyên Quang</Menh>
+		<Menh MaSo="40" GioiTinh="Nữ">Dương Trọng Nhân</Menh>
+		<Menh MaSo="41" GioiTinh="Nữ">Hoa Văn Dương</Menh>
+		<Menh MaSo="42" GioiTinh="Nữ">Lã Uy Minh</Menh>
+		<Menh MaSo="43" GioiTinh="Nữ">Nhạc Tiến Khanh</Menh>
+		<Menh MaSo="44" GioiTinh="Nữ">Khổng Lợi Công</Menh>
+		<Menh MaSo="45" GioiTinh="Nữ">Vương Nhân Khanh</Menh>
+		<Menh MaSo="46" GioiTinh="Nữ">Trương Văn Thông</Menh>
+		<Menh MaSo="47" GioiTinh="Nữ">Trương Trọng Tiết</Menh>
+		<Menh MaSo="48" GioiTinh="Nữ">Phạm Hòa Hương</Menh>
+		<Menh MaSo="49" GioiTinh="Nữ">Quý Sở Khanh</Menh>
+		<Menh MaSo="50" GioiTinh="Nữ">Quách Tử Lương</Menh>
+		<Menh MaSo="51" GioiTinh="Nữ">Phùng Trọng Khanh</Menh>
+		<Menh MaSo="52" GioiTinh="Nữ">Sử Công Lai</Menh>
+		<Menh MaSo="53" GioiTinh="Nữ">Hầu Truyền Khanh</Menh>
+		<Menh MaSo="54" GioiTinh="Nữ">Trọng Đỗ Khanh</Menh>
+		<Menh MaSo="55" GioiTinh="Nữ">Triển Tử Giang</Menh>
+		<Menh MaSo="56" GioiTinh="Nữ">Tang Văn Công</Menh>
+		<Menh MaSo="57" GioiTinh="Nữ">Đặng Nguyên Trọng</Menh>
+		<Menh MaSo="58" GioiTinh="Nữ">Đặng Nhân Khanh</Menh>
+		<Menh MaSo="59" GioiTinh="Nữ">Ngu Tử Trương</Menh>
+	</dsMenh>
+	<dsTQTien>
+		<TQTien MaSo="0">Lục Vạn Nhất Thiên</TQTien>
+		<TQTien MaSo="1">Tam Vạn Nhất Thiên</TQTien>
+		<TQTien MaSo="2">Thập Vạn Nhị Thiên</TQTien>
+		<TQTien MaSo="3">Thập Vạn Ngũ Thiên</TQTien>
+		<TQTien MaSo="4">Nhị Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="5">Tam Thập Bát Vạn</TQTien>
+		<TQTien MaSo="6">Lục Vạn</TQTien>
+		<TQTien MaSo="7">Nhị Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="8">Nhị Vạn</TQTien>
+		<TQTien MaSo="9">Thất Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="10">Thập Vạn</TQTien>
+		<TQTien MaSo="11">Thập Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="12">Tứ Vạn Nhị Thiên</TQTien>
+		<TQTien MaSo="13">Ngũ Vạn Nhị Thiên</TQTien>
+		<TQTien MaSo="14">Ngũ Vạn</TQTien>
+		<TQTien MaSo="15">Tứ Vạn Bát Thiên</TQTien>
+		<TQTien MaSo="16">Nhị Vạn Tứ Thiên</TQTien>
+		<TQTien MaSo="17">Nhị Vạn Nhị Thiên</TQTien>
+		<TQTien MaSo="18">Lục Vạn</TQTien>
+		<TQTien MaSo="19">Bát Vạn</TQTien>
+		<TQTien MaSo="20">Ngũ Vạn Thất Thiên</TQTien>
+		<TQTien MaSo="21">Ngũ Vạn Thất Thiên</TQTien>
+		<TQTien MaSo="22">Thập Nhất</TQTien>
+		<TQTien MaSo="23">Ngũ Vạn</TQTien>
+		<TQTien MaSo="24">Thất Thập</TQTien>
+		<TQTien MaSo="25">Tứ Thập</TQTien>
+		<TQTien MaSo="26">Bát Vạn</TQTien>
+		<TQTien MaSo="27">Tam Vạn Cửu Thiên</TQTien>
+		<TQTien MaSo="28">Nhất Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="29">Bát Vạn</TQTien>
+		<TQTien MaSo="30">Ngũ Vạn Nhất Thiên</TQTien>
+		<TQTien MaSo="31">Bát Vạn</TQTien>
+		<TQTien MaSo="32">Ngũ Vạn Tứ Thiên</TQTien>
+		<TQTien MaSo="33">Nhị Vạn Cửu Thiên</TQTien>
+		<TQTien MaSo="34">Tứ Vạn </TQTien>
+		<TQTien MaSo="35">Tam Vạn</TQTien>
+		<TQTien MaSo="36">Tam Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="37">Thập Vạn</TQTien>
+		<TQTien MaSo="38">Nhị Vạn</TQTien>
+		<TQTien MaSo="39">Ngũ Vạn Nhất Thiên</TQTien>
+		<TQTien MaSo="40">Thập Nhị</TQTien>
+		<TQTien MaSo="41">Thập Vạn</TQTien>
+		<TQTien MaSo="42">Nhị Vạn Thất Thiên</TQTien>
+		<TQTien MaSo="43">Nhị Vạn Thất Thiên </TQTien>
+		<TQTien MaSo="44">Tam Vạn Cửu Thiên</TQTien>
+		<TQTien MaSo="45">Cửu Vạn</TQTien>
+		<TQTien MaSo="46">Tam Vạn Tam Thiên</TQTien>
+		<TQTien MaSo="47">Cửu  Vạn Nhất Thiên</TQTien>
+		<TQTien MaSo="48">Bát Vạn</TQTien>
+		<TQTien MaSo="49">Cửu Vạn</TQTien>
+		<TQTien MaSo="50">Thập Vạn</TQTien>
+		<TQTien MaSo="51">Nhất Vạn Nhị Thiên</TQTien>
+		<TQTien MaSo="52">Thập Nhất Vạn</TQTien>
+		<TQTien MaSo="53">Nhị Vạn Thất Thiên</TQTien>
+		<TQTien MaSo="54">Thất Vạn</TQTien>
+		<TQTien MaSo="55">Bát Vạn</TQTien>
+		<TQTien MaSo="56">Tam Vạn Lục Thiên</TQTien>
+		<TQTien MaSo="57">Thất Vạn</TQTien>
+		<TQTien MaSo="58">Cửu Vạn</TQTien>
+		<TQTien MaSo="59">Tứ Vạn Tam Thiên</TQTien>
+	</dsTQTien>
+	<dsTQKinh>
+		<TQKinh MaSo="0">Thập Nhất</TQKinh>
+		<TQKinh MaSo="1">Tam Thập Ngũ</TQKinh>
+		<TQKinh MaSo="2">Nhị Thập Ngũ</TQKinh>
+		<TQKinh MaSo="3">Nhị Thập  Bát</TQKinh>
+		<TQKinh MaSo="4">Tam Thập</TQKinh>
+		<TQKinh MaSo="5">Ngũ Thập Tứ</TQKinh>
+		<TQKinh MaSo="6">Thất Thập Tứ</TQKinh>
+		<TQKinh MaSo="7">Thập Nhất</TQKinh>
+		<TQKinh MaSo="8">Tam Thập</TQKinh>
+		<TQKinh MaSo="9">Nhị Thập Bát</TQKinh>
+		<TQKinh MaSo="10">Thập Nhị</TQKinh>
+		<TQKinh MaSo="11">Thập Thất</TQKinh>
+		<TQKinh MaSo="12">Thập Nhất </TQKinh>
+		<TQKinh MaSo="13">Ngũ</TQKinh>
+		<TQKinh MaSo="14">Lục</TQKinh>
+		<TQKinh MaSo="15">Nhất Bách Tam Thập</TQKinh>
+		<TQKinh MaSo="16">Nhị Thập Thất</TQKinh>
+		<TQKinh MaSo="17">Nhị Thập Ngũ</TQKinh>
+		<TQKinh MaSo="18">Nhị Thập Nhất</TQKinh>
+		<TQKinh MaSo="19">Nhất</TQKinh>
+		<TQKinh MaSo="20">Tam Thật Thất</TQKinh>
+		<TQKinh MaSo="21">Thất Thập</TQKinh>
+		<TQKinh MaSo="22">Tam Thập</TQKinh>
+		<TQKinh MaSo="23">Nhị Thập Nhất</TQKinh>
+		<TQKinh MaSo="24">Tam Thập</TQKinh>
+		<TQKinh MaSo="25">Nhị Thập Tứ</TQKinh>
+		<TQKinh MaSo="26">Nhị Thập Ngũ</TQKinh>
+		<TQKinh MaSo="27">Thập Tam</TQKinh>
+		<TQKinh MaSo="28">Nhị Thập</TQKinh>
+		<TQKinh MaSo="29">Nhị Thập Ngũ</TQKinh>
+		<TQKinh MaSo="30">Lục Thập </TQKinh>
+		<TQKinh MaSo="31">Thập Lục</TQKinh>
+		<TQKinh MaSo="32">Tam Thập</TQKinh>
+		<TQKinh MaSo="33">Tứ Thập Tam</TQKinh>
+		<TQKinh MaSo="34">Tứ Thập Tam</TQKinh>
+		<TQKinh MaSo="35">Thập</TQKinh>
+		<TQKinh MaSo="36">Tam</TQKinh>
+		<TQKinh MaSo="37">Tam Thập Tam</TQKinh>
+		<TQKinh MaSo="38">Thập Tam</TQKinh>
+		<TQKinh MaSo="39">Nhị Thập Tứ</TQKinh>
+		<TQKinh MaSo="40">Thập Lục</TQKinh>
+		<TQKinh MaSo="41">Tứ Thập Ngũ</TQKinh>
+		<TQKinh MaSo="42">Nhị Thập Nhất</TQKinh>
+		<TQKinh MaSo="43">Thập Nhất</TQKinh>
+		<TQKinh MaSo="44">Thập Cửu</TQKinh>
+		<TQKinh MaSo="45">Tam Thập</TQKinh>
+		<TQKinh MaSo="46">Tam Thập</TQKinh>
+		<TQKinh MaSo="47">Tam Thập Tứ</TQKinh>
+		<TQKinh MaSo="48">Nhị Thập Lục</TQKinh>
+		<TQKinh MaSo="49">Nhị Thập</TQKinh>
+		<TQKinh MaSo="50">Tam Thập Ngũ</TQKinh>
+		<TQKinh MaSo="51">Nhị Thập Tứ </TQKinh>
+		<TQKinh MaSo="52">Thập Tam </TQKinh>
+		<TQKinh MaSo="53">Thập Nhất</TQKinh>
+		<TQKinh MaSo="54">Nhị Thập</TQKinh>
+		<TQKinh MaSo="55">Nhị Thập Thất</TQKinh>
+		<TQKinh MaSo="56">Nhị Thập Thất</TQKinh>
+		<TQKinh MaSo="57">Thập Cửu</TQKinh>
+		<TQKinh MaSo="58">Nhị Thập </TQKinh>
+		<TQKinh MaSo="59">Nhị Thập Ngũ</TQKinh>
+	</dsTQKinh>
+	<dsTQKho>
+		<TQKho MaSo="0">Đệ Tứ Thập</TQKho>
+		<TQKho MaSo="1">Đệ Nhị Thập Ngũ</TQKho>
+		<TQKho MaSo="2">Đệ Tứ Thập</TQKho>
+		<TQKho MaSo="3">Đệ Tứ Thập Tam</TQKho>
+		<TQKho MaSo="4">Đệ Tam</TQKho>
+		<TQKho MaSo="5">Tam Thập</TQKho>
+		<TQKho MaSo="6">Thập Tam</TQKho>
+		<TQKho MaSo="7">Thập Nhất</TQKho>
+		<TQKho MaSo="8">Thập Nhât</TQKho>
+		<TQKho MaSo="9">Đệ Tam</TQKho>
+		<TQKho MaSo="10">Đệ Cửu</TQKho>
+		<TQKho MaSo="11">Đệ Thập</TQKho>
+		<TQKho MaSo="12">Thập Lục</TQKho>
+		<TQKho MaSo="13">Đệ Nhất</TQKho>
+		<TQKho MaSo="14">Đệ Thập</TQKho>
+		<TQKho MaSo="15">Đệ Ngũ</TQKho>
+		<TQKho MaSo="16">Đệ Cửu</TQKho>
+		<TQKho MaSo="17">Đệ Nhị</TQKho>
+		<TQKho MaSo="18">Đệ Nhất</TQKho>
+		<TQKho MaSo="19">Đệ Nhi</TQKho>
+		<TQKho MaSo="20">Đệ Thập Cửu</TQKho>
+		<TQKho MaSo="21"> Đệthập Nhất</TQKho>
+		<TQKho MaSo="22">Đệ Nhị Thập Tứ</TQKho>
+		<TQKho MaSo="23">Đệ Tứ Thập Nhị</TQKho>
+		<TQKho MaSo="24">Đệ Ngũ Thập Lục</TQKho>
+		<TQKho MaSo="25">Đệ Nhị</TQKho>
+		<TQKho MaSo="26">Đệ Lục</TQKho>
+		<TQKho MaSo="27">Đệ Thập Tam</TQKho>
+		<TQKho MaSo="28">Đệ Lục</TQKho>
+		<TQKho MaSo="29">Đệ Thất</TQKho>
+		<TQKho MaSo="30">Đệ Ngũ</TQKho>
+		<TQKho MaSo="31">Đệ Tứ </TQKho>
+		<TQKho MaSo="32">Đệ Tam</TQKho>
+		<TQKho MaSo="33">Đệ Ngũ</TQKho>
+		<TQKho MaSo="34">Đệ Nhất</TQKho>
+		<TQKho MaSo="35">Đệ Nhị</TQKho>
+		<TQKho MaSo="36">Đệ Thập Thất</TQKho>
+		<TQKho MaSo="37">Đệ Thập Nhị</TQKho>
+		<TQKho MaSo="38">Đệ Thập Lục</TQKho>
+		<TQKho MaSo="39">Đệ Thập  Tam</TQKho>
+		<TQKho MaSo="40">Đệ Cửu</TQKho>
+		<TQKho MaSo="41">Thập Bát</TQKho>
+		<TQKho MaSo="42">Đệ Thập</TQKho>
+		<TQKho MaSo="43">Đệ Thập</TQKho>
+		<TQKho MaSo="44">Đệ Thập Cửu</TQKho>
+		<TQKho MaSo="45">Đệ Nhị Thập Nhất</TQKho>
+		<TQKho MaSo="46">Nhị Thập</TQKho>
+		<TQKho MaSo="47">Đệ Tam Thập Nhị</TQKho>
+		<TQKho MaSo="48">Đệ Nhị Thập Bát</TQKho>
+		<TQKho MaSo="49">Đệ Nhị Thập Bát</TQKho>
+		<TQKho MaSo="50">Đệ Nhị Thập Tứ</TQKho>
+		<TQKho MaSo="51">Đệ Thập</TQKho>
+		<TQKho MaSo="52">Đệ Tam</TQKho>
+		<TQKho MaSo="53">Đệ Thập Bát</TQKho>
+		<TQKho MaSo="54">Thập Tam</TQKho>
+		<TQKho MaSo="55">Đệ Thập Bát</TQKho>
+		<TQKho MaSo="56">Đệ Tam Thập Ngũ</TQKho>
+		<TQKho MaSo="57">Đệ Thập </TQKho>
+		<TQKho MaSo="58">Đệ Nhị Thập Cửu</TQKho>
+		<TQKho MaSo="59">Đệ Thập Ngũ</TQKho>
+	</dsTQKho>
+	<dsTQChuKho>
+		<TQChuKho MaSo="0">Triệu</TQChuKho>
+		<TQChuKho MaSo="1">Vương</TQChuKho>
+		<TQChuKho MaSo="2">Hình</TQChuKho>
+		<TQChuKho MaSo="3">Cừu</TQChuKho>
+		<TQChuKho MaSo="4">Danh</TQChuKho>
+		<TQChuKho MaSo="5">Cát</TQChuKho>
+		<TQChuKho MaSo="6">Mã</TQChuKho>
+		<TQChuKho MaSo="7">Hứa</TQChuKho>
+		<TQChuKho MaSo="8">Danh</TQChuKho>
+		<TQChuKho MaSo="9">Cao</TQChuKho>
+		<TQChuKho MaSo="10">Lý</TQChuKho>
+		<TQChuKho MaSo="11">Thường An</TQChuKho>
+		<TQChuKho MaSo="12">Phả</TQChuKho>
+		<TQChuKho MaSo="13">Thành</TQChuKho>
+		<TQChuKho MaSo="14">Quyền</TQChuKho>
+		<TQChuKho MaSo="15">Duyệt</TQChuKho>
+		<TQChuKho MaSo="16">Vương</TQChuKho>
+		<TQChuKho MaSo="17">Quyền</TQChuKho>
+		<TQChuKho MaSo="18">Na</TQChuKho>
+		<TQChuKho MaSo="19">Gia</TQChuKho>
+		<TQChuKho MaSo="20">Đổng</TQChuKho>
+		<TQChuKho MaSo="21">Cao</TQChuKho>
+		<TQChuKho MaSo="22">Đào</TQChuKho>
+		<TQChuKho MaSo="23">Tiên</TQChuKho>
+		<TQChuKho MaSo="24">Phạm</TQChuKho>
+		<TQChuKho MaSo="25">An</TQChuKho>
+		<TQChuKho MaSo="26">Cô</TQChuKho>
+		<TQChuKho MaSo="27">Bồi</TQChuKho>
+		<TQChuKho MaSo="28">Hộ </TQChuKho>
+		<TQChuKho MaSo="29">Đồng</TQChuKho>
+		<TQChuKho MaSo="30">Trạch</TQChuKho>
+		<TQChuKho MaSo="31">Trương</TQChuKho>
+		<TQChuKho MaSo="32">Tiêu</TQChuKho>
+		<TQChuKho MaSo="33">Cấn</TQChuKho>
+		<TQChuKho MaSo="34">Ngọ</TQChuKho>
+		<TQChuKho MaSo="35">Hoàng</TQChuKho>
+		<TQChuKho MaSo="36">Phó</TQChuKho>
+		<TQChuKho MaSo="37">Tính</TQChuKho>
+		<TQChuKho MaSo="38">Dục</TQChuKho>
+		<TQChuKho MaSo="39">Bốc</TQChuKho>
+		<TQChuKho MaSo="40">Lý</TQChuKho>
+		<TQChuKho MaSo="41">Cáo</TQChuKho>
+		<TQChuKho MaSo="42">Diệu</TQChuKho>
+		<TQChuKho MaSo="43">Huyền</TQChuKho>
+		<TQChuKho MaSo="44">Trọng</TQChuKho>
+		<TQChuKho MaSo="45">Tiêu</TQChuKho>
+		<TQChuKho MaSo="46">Tái</TQChuKho>
+		<TQChuKho MaSo="47">Cư</TQChuKho>
+		<TQChuKho MaSo="48">Thuận</TQChuKho>
+		<TQChuKho MaSo="49">Hoằng</TQChuKho>
+		<TQChuKho MaSo="50">Tế</TQChuKho>
+		<TQChuKho MaSo="51">Mạnh</TQChuKho>
+		<TQChuKho MaSo="52">Mạnh</TQChuKho>
+		<TQChuKho MaSo="53">Danh</TQChuKho>
+		<TQChuKho MaSo="54">Liễu</TQChuKho>
+		<TQChuKho MaSo="55">Liễu</TQChuKho>
+		<TQChuKho MaSo="56">Quý</TQChuKho>
+		<TQChuKho MaSo="57">Trình</TQChuKho>
+		<TQChuKho MaSo="58">Hoàng</TQChuKho>
+		<TQChuKho MaSo="59">Bốc</TQChuKho>
+	</dsTQChuKho>
+	<dsTQTraThem>
+		<TQTraThem MaSo="0">Nhị Hình Nhân Nữ </TQTraThem>
+		<TQTraThem MaSo="1">Tam Cột Chùa - Nhị Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="2"></TQTraThem>
+		<TQTraThem MaSo="3"></TQTraThem>
+		<TQTraThem MaSo="4"></TQTraThem>
+		<TQTraThem MaSo="5"></TQTraThem>
+		<TQTraThem MaSo="6"></TQTraThem>
+		<TQTraThem MaSo="7"></TQTraThem>
+		<TQTraThem MaSo="8"></TQTraThem>
+		<TQTraThem MaSo="9"></TQTraThem>
+		<TQTraThem MaSo="10">Tam Hình Nhân Tướng</TQTraThem>
+		<TQTraThem MaSo="11">Nhị Hình Nhân Nữ</TQTraThem>
+		<TQTraThem MaSo="12"></TQTraThem>
+		<TQTraThem MaSo="13">Tam Cột Chùa</TQTraThem>
+		<TQTraThem MaSo="14">Tam Xà Chùa</TQTraThem>
+		<TQTraThem MaSo="15"></TQTraThem>
+		<TQTraThem MaSo="16">Tam Bộ Lóc Chùa</TQTraThem>
+		<TQTraThem MaSo="17">Nhị Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="18"></TQTraThem>
+		<TQTraThem MaSo="19">Nhị Hình Nhân Tướng</TQTraThem>
+		<TQTraThem MaSo="20"></TQTraThem>
+		<TQTraThem MaSo="21">Ba Quyển Kinh Phật</TQTraThem>
+		<TQTraThem MaSo="22"></TQTraThem>
+		<TQTraThem MaSo="23"></TQTraThem>
+		<TQTraThem MaSo="24"></TQTraThem>
+		<TQTraThem MaSo="25">Thập Bát Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="26">Thập Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="27">Thập Tam Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="28">Tam Cột Chùa - Nhất Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="29"></TQTraThem>
+		<TQTraThem MaSo="30"></TQTraThem>
+		<TQTraThem MaSo="31"></TQTraThem>
+		<TQTraThem MaSo="32"></TQTraThem>
+		<TQTraThem MaSo="33"></TQTraThem>
+		<TQTraThem MaSo="34"></TQTraThem>
+		<TQTraThem MaSo="35">Thập Cây Cột Chùa</TQTraThem>
+		<TQTraThem MaSo="36"></TQTraThem>
+		<TQTraThem MaSo="37"></TQTraThem>
+		<TQTraThem MaSo="38">Tam Cột Chùa</TQTraThem>
+		<TQTraThem MaSo="39"></TQTraThem>
+		<TQTraThem MaSo="40"></TQTraThem>
+		<TQTraThem MaSo="41">Thập Nhị Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="42">Tam Cột Tự</TQTraThem>
+		<TQTraThem MaSo="43">Tam Cột Trụ</TQTraThem>
+		<TQTraThem MaSo="44">Phóng Sinh Cầu Phúc</TQTraThem>
+		<TQTraThem MaSo="45">Nhất Phướn Vải</TQTraThem>
+		<TQTraThem MaSo="46">Thập Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="47">Sám Hối Cập Phóng Sinh</TQTraThem>
+		<TQTraThem MaSo="48">Thập Hình Nhân</TQTraThem>
+		<TQTraThem MaSo="49">Tam Cột Chùa - Một Bộ Pháp Khí</TQTraThem>
+		<TQTraThem MaSo="50"></TQTraThem>
+		<TQTraThem MaSo="51">Nhất Phườn Phật</TQTraThem>
+		<TQTraThem MaSo="52"></TQTraThem>
+		<TQTraThem MaSo="53"></TQTraThem>
+		<TQTraThem MaSo="54">Thập Hình Nhân - Phóng Sinh</TQTraThem>
+		<TQTraThem MaSo="55">Tam Trụ Chùa - Phóng Sinh</TQTraThem>
+		<TQTraThem MaSo="56"></TQTraThem>
+		<TQTraThem MaSo="57">Tam Hình Nhân - Tam Cột Chùa</TQTraThem>
+		<TQTraThem MaSo="58"></TQTraThem>
+		<TQTraThem MaSo="59">Nhất Bộ Pháp Khí</TQTraThem>
+	</dsTQTraThem>
+  <DanhSachTheXam>
+      <TheXam SoThe="1">
+      <Hang>1</Hang>
+      <XamChu>Ngụy ngụy độc lộ hương vận giang
+Ngọc điện thiên quan đệ nhứt ban
+Phú quý vinh hoa thiên phú nhữ
+Phước như Đông Hải, thọ Nam San.
+	  </XamChu>
+      <YNghia>Một mình cao bước tới mây giang
+Đền ngọc thiên quan nhứt phẩm hàng
+Phú quý vinh hoa trời đã định
+Phước như Đông Hải, thọ Nam San.</YNghia>
+      <ThanhY>Công danh toại, phước lộc toàn, kiện đắc lý, bệnh mau mạnh, hôn nhơn hạp, thai sanh trai, hành nhơn chậm.</ThanhY>
+      <ChieuNghiem>Có người học trò đi thi, đặng quẻ xâm này đậu được hai khoa, làm quan ngồi hoài một chỗ chớ không đi xa.</ChieuNghiem>
+      <CoNhan>Hớn Cao Tổ nhập quan tranh với ông Hạng Võ.</CoNhan>
+      <LoiBanCuaDichGia>Người phước đức, người làm quan hoặc anh học trò xin được xâm này thì tốt, người thường nhơn, người ít phước đức chiếm được quẻ xâm này không tốt, chiếm xâm này cầu công danh thì được, một mình hơn người ta và chắc thi đậu, còn cầu tài thì không đặng, không có tài.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="2">
+      <Hang>2</Hang>
+      <XamChu>Vinh hư tiêu trưởng tổng thiên thời
+Tại thử quân đương bá sự nghi
+Nhược vấn tiền trình qui túc địa
+Cánh tu phan thốn hảo tu vi.
+	  </XamChu>
+      <YNghia>Nên hư đắc thất tại nơi trời
+Trăm việc từ đây đặng gặp thời
+Muốn hỏi tiền trình nơi kết quả
+Tu tâm dè dặt toại danh đời.</YNghia>
+      <ThanhY>Kiện tụng phải hòa, bệnh phải cầu khẩn, công danh có, cầu tài ít, hôn nhơn tốt, thai sanh gái.</ThanhY>
+      <ChieuNghiem>Một người thiếu niên bịnh hoạn, chiếm được xâm này, đau rồi tới chết. Một người đi đường xa hỏi, chiếm được quẻ xâm này ít bữa về tới.</ChieuNghiem>
+      <CoNhan>Trương Tử Phòng đi chơi nơi chỗ xích tòng.</CoNhan>
+      <LoiBanCuaDichGia>Tuy xâm thượng kiết chớ không tốt, người chiếm được xâm này phải tích đức tu nhơn, còn muốn làm việc gì thì phải chậm rãi, đừng lật đật, cuộc phú quí tại trời định phải làm lành mới được, như việc làm có âm đức thì trời mới cho mình được việc, còn việc tổn đức thì bỏ đi.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="3">
+      <Hang>3</Hang>
+      <XamChu>Y thực tự nhiên sanh xứ hữu
+Khuyến quân bất dụng khổ lao tâm
+Bần năng hiếu để tồn trung tín
+Phước lộc lai thành họa bất xâm.
+	  </XamChu>
+      <YNghia>Cơm áo đâu đâu có tự nhiên
+Khuyên người chớ có nhọc lòng phiền
+Gìn lòng hiếu để cùng trung tín
+Phước lộc đến rồi họa phải thuyên.</YNghia>
+      <ThanhY>Danh lợi ít, kiện phải hòa thì tốt, bịnh chậm mạnh, cầu tài bình bình, hôn nhân phải cẩn thận thì sau khỏi lo.</ThanhY>
+      <ChieuNghiem>Một người chiếm quẻ xâm này đi thi nghề nghiệp, đem cái tài của mình ra mà tranh đấu thì được việc và có y lộc tại xứ mình chẳng cần lo lắng nhiều.</ChieuNghiem>
+      <CoNhan>Cổ Nghi gặp ông Hớn Văn Đế.</CoNhan>
+      <LoiBanCuaDichGia>Tuy xâm trung kiết chớ không tốt, ý xâm bảo phải thủ phận tùy duyên, mình có lo đến hết sức rồi cũng vô ích. Giàu sang trời định trước, có cầu cũng không được. Bằng cầu quá càng thêm đau rầu, cứ làm theo lẽ trời thì trời mới giúp cho mình, tự nhiên phước đến thì họa phải đi.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="4">
+      <Hang>4</Hang>
+      <XamChu>Khứ niên bá sự khả tương nghi
+Nhược đáo kim niên thời vận suy
+Hảo bả biện lương cao thần Phật
+Mạc giao phước tọa hối vô tri.</XamChu>
+      <YNghia>Năm rồi trăm việc đặng tươn nghi
+Sánh lại năm nay thời vận suy
+Đốt nén hương nguyền trời với Phật
+Kẻo tiêu phước hối muộn thì nguy.</YNghia>
+      <ThanhY>Công danh không đặng, tài lộc ít, hôn nhơn khó thành, kiện thất, bệnh khó mạnh, đi đường ít may, muốn cầu kiết phải khẩn nguyện trời Phật.</ThanhY>
+      <ChieuNghiem>Một người bệnh nhẹ hứa đi nguyện hương mà chưa đi, sau đau nặng, chiếm quẻ xâm này, rồi chưa kịp cúng hương, kế chết.</ChieuNghiem>
+      <CoNhan>Tiểu Tần Vương ba lần qua sông.</CoNhan>
+      <LoiBanCuaDichGia>Ý xâm bảo mình phải thối, việc cầu đây chớ để sau rồi ăn năn không kịp, nếu không lo xa tránh thì hối ngộ không kịp, vận suy rồi phải tu và lạy trời Phật rồi mới có tiền hung hậu kiết.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="5">
+      <Hang>5</Hang>
+      <XamChu>Tử hữu tam ban bất tự do
+Môn đình tiêu tác lãnh như thu
+Nhược phùng ngưu, thử giao thừa nhựt
+Vạn sự hồi xuân bất dụng ưu.
+	  </XamChu>
+      <YNghia>Người nay ba việc chẳng bằng lòng
+Vắng lạnh mùa thu vận bất thông
+Bằng nếu gặp nhằm ngày Tý, Sửu
+Phỉ tình muôn việc thảy đều xong.</YNghia>
+      <ThanhY>Tài hao, công danh chậm, kiện thưa tiền hung hậu kiết, bệnh gặp thầy, hôn nhơn phải xét đi xét lại, hành nhơn gần về, gặp ngày Tý, ngày Sửu xấu hóa tốt, làm quan có điềm dời chỗ, y thực có văn thơ động, qua đầu mùa xuân thì tốt.</ThanhY>
+      <ChieuNghiem>Một người học trò đi thi hội, chiếm quẻ xâm này đi thi ba lần ba nơi mới thi đậu, nhằm ngày Tý hay ngày Sửu.</ChieuNghiem>
+      <CoNhan>Lữ Mông chánh thủ khổn.</CoNhan>
+      <LoiBanCuaDichGia>Ý xâm bảo đừng có bôn chôn, lật đật vì tại mạng của mình phải đợi thời muôn việc mới đặng tốt. Khi vận tới thì hạnh thông, chừng thời vận tới thì có phong thơ hoặc tờ giấy chi đem lại, thì là thời đỏ và phát, không cầu cũng đặng, như việc mình làm không hợp ý mình thì thôi, phải nhẫn nại, nhịn thua rồi sau mới tốt và có nhiều điều lợi, nếu như nhằm ngày Tý, Sửu hoặc tháng Tý, Sửu thì đặng hanh thông.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="6">
+      <Hang>4</Hang>
+      <XamChu>Hà lao cổ sắc cánh suy sanh
+Thốn bộ như đăng vạn lý tình
+Bỉ thử hoài nghi bất tương tính
+Hữu tương tư ý ức mang tình.</XamChu>
+      <YNghia>To nhỏ tiếng đờn cũng nhọc công
+Bước đường muôn dặm mõi càng trông
+Đó đây chưa chắc sao nên việc
+Mưu vọng bất thành có chớ mong.</YNghia>
+      <ThanhY>Công danh không có, tài hao, bịnh khó mạnh, sanh sản e có lo sợ, hôn nhơn khó thành, kiện còn lâu, phải hòa, người đi đường chậm về.</ThanhY>
+      <ChieuNghiem>công danh thì có nhiều việc không bằng lòng, không vừa ý, phàm muốn việc gì cũng trắc trở.</ChieuNghiem>
+      <CoNhan>Tương Như quờn bích qui Triệu.</CoNhan>
+      <LoiBanCuaDichGia>Xâm xấu, xin nhằm xâm này phải biết hết các việc, đừng có hỏi, đừng có làm nữa, các mưu sự gì cũng khó thành, phải dè dặt lắm mới đặng, làm sự gì phải cẩn thận, kín đáo mới khỏi uổng công mình. Chiếm đặng xâm này nếu đi thi sẽ rớt, trăm chuyện gì cũng đừng nghe ai hết, mình muốn hiệp mà nó không hiệp, muốn tròn mà nó không tròn, mình phải luôn luôn giữ mình, đừng tin người khác mà bị gạt, đừng rối trí, phải bình tĩnh đừng làm gì nữa, phải thôi, phải nghỉ.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="7">
+      <Hang>1</Hang>
+      <XamChu>Tiên phong ??o c?t b?n thiên sanh
+H?u ng? ch?n tiên vi ch? manh
+Ch? nh?c ??n thành t?a nham c?c
+Nh?t tri?u d?n lãnh h??ng thiên hành.</XamChu>
+      <YNghia>Tiên phong ??o c?t v?n tr?i sanh
+L?i g?p tiên gia ch? d?n rành
+Luy?n thu?c tr??ng sanh trong ??ng ?á
+M?t mai nh? bu?c t?i mây xanh.</YNghia>
+      <ThanhY>Công danh to?i chí, c?u tài ??ng tài, b?nh vô h?i, hành nh?n v?, c?u con ??ng, ki?n ??ng. Th? m? ông bà yên t?t, hôn nh?n h?p.</ThanhY>
+      <ChieuNghiem>??i vua Thái Tôn có hai tên Võ S? và ?oàn Tr?ng V?n, chi?m xâm này thì sau thi ??u t?i Thu?ng Th?.</ChieuNghiem>
+      <CoNhan>Ông L? ??ng Tân luy?n linh ??n thành tiên.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, h?i v? công danh phú quí thì t?t, có th?n tr? l?c, h?c trò thi thì ch?c ??u, ng??i buôn bán thì ch?c có ng??i h?o tâm dìu d?t xin ?i tu thì t?t l?m, h?i v? b?nh thì khò, ph?i r??c th?y gi?i m?i tr? ???c, ng??i b?nh là ng??i có nhi?u ph??c ??c m?i qua kh?i, n?i trong ba ngày g?p th?y gi?i thì m?i m?nh ???c, b?ng không ?t khó m?nh, không có s? huy?n ho?c không ch?c ?âu, có quí nh?n giúp ?? s? c?ng không ???c lâu dài.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="8">
+      <Hang>2</Hang>
+      <XamChu>Niên lai canh giá kh? vô thâu
+Kim tu? ?i?n thù ??nh h?u thu
+Hu?ng ng? thái bình vô s? nh?t
+S? nông công c? bá vô ?u.</XamChu>
+      <YNghia>N?m r?i cày ??t th?t mùa màng
+Thu ??nh n?m nay ru?ng m? mang
+L?i g?p thái bình vô s? c?
+S? nông công c? ???c an nhàn.</YNghia>
+      <ThanhY>Công danh to?i chí, mùa thu ??ng, ki?n thì hòa, hành nh?n v?, c?u con s? ??ng con trai, vi?c chi c?ng khá, qua mùa thu t?t, có vi?c m?ng ??n, g?p ngày ho?c tháng D?u, Tu?t, H?i thì t?t nh?ng không tr?n l?m.</ThanhY>
+      <ChieuNghiem>Mu?n làm vi?c gì ?? qua mùa, ??n mùa thu thì t?t và ??ng vi?c.</ChieuNghiem>
+      <CoNhan>Ông Thu?n cày ru?ng trên L?ch s?n trúng mùa.</CoNhan>
+      <LoiBanCuaDichGia>Xâm này ti?n hung h?u ki?t, công danh và ki?n th?a qua t?i mùa thu m?i ???c vi?c. B?y lâu nay th?i v?n d? dang, nay g?p vi?c t?t, nh?ng mình ph?i gìn gi? và th? thành thì m?i có khá, còn b?nh coi n?ng nh?ng tr??c lo sau m?ng ???c yên.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="9">
+      <Hang>1</Hang>
+      <XamChu>V?ng c? tiêu t?c h??ng Tràng An
+Th??ng b? l?ng hoa t? t? khán
+Ki?n thi?t v?n th? t??ng nh?p c?nh
+Kim chiêu h? s?c th??ng my ?oan.
+</XamChu>
+      <YNghia>M?i trông tin t?c ngóng Tràng An
+H?ng n?m nhánh hoa xem k? càng
+Trông th?y v?n th? ?ã ??n c?a
+M?t mày vui v? r?t hân hoan.</YNghia>
+      <ThanhY>Danh l?i không ??ng, ki?n ???c, b?nh ph?i c?u kh?n, thai sanh trai, hôn nh?n h?p, hành nh?n trong 100 ngày m?i v?, làm vi?c gì trong ba ngày m?i có tin t?c.</ThanhY>
+      <ChieuNghiem>Có ng??i ?àn bà mu?n h?i tin ch?ng ch?ng nào v?, khi chi?m ???c qu? xâm này trong ba ngày có tin v?.</ChieuNghiem>
+      <CoNhan>T?ng Thái T? tr?n ki?u t?c v?.</CoNhan>
+      <LoiBanCuaDichGia>Tuy xâm ??i ki?t ch? th?t không t?t, c?u danh không ??ng, buôn bán không ??ng, v? ban ??u thì t?t, sau r?t là chuy?n b?t thành, h?u danh vi vô th?c, có ti?ng mà không thi?t, không ch?c, nh? có c?u l?m thì ph?i c?n th?n m?i ???c, mà m?u s? gì còn lâu m?i g?p.. H?c trò ?i thi mà chi?m ???c xâm này thi không ??u. Xâm này ch? ý ch? có m?t vi?c là h?i th?m tin t?c ng??i ?i xa thì trong ba ngày s? có tin v?, còn làm m?t vi?c gì ?ã lâu r?i mà lòng h?t s?c mong ??i thì có tin m?ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="10">
+      <Hang>4</Hang>
+      <XamChu>B?nh ho?n th?i th?i m?ng ki?u suy
+Hà tu t?a ng?a c?ng to?n qui
+Tr?c giao tùng ki?n nh?t d??ng ph?c
+Thi kh?i c?u th?n t??ng Ph?t trì.</XamChu>
+      <YNghia>B?nh ho?n liên miên m?ng v?n suy
+Nào c?u bói h?i n?a làm chi
+Ch? qua ?ông chí hay tin ??n
+C?u kh?n m?i nh? Ph?t h? trì.</YNghia>
+      <ThanhY>Danh ch?a to?i, ??ng tham c?u, tài l?c th?t, ki?n khó xong, hành nh?n ch?m v?, b?nh qua tháng 10 m?i m?nh, còn không m?nh ?t khó s?ng ph?i c?u th?n giúp.</ThanhY>
+      <ChieuNghiem>M?t ng??i h?c trò thi không ??u.</ChieuNghiem>
+      <CoNhan>Tên Nhi?m Bá Ng?u mang b?nh t?t.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, chi?m ???c xâm này c? vi?c c? mà làm, ??ng thay ??i chi h?t, ph?i th? c?u thì hay, v?n m?ng có nhi?u s? r?i ro, b?nh t?t liên miên, nên ph?i c?n th?n t?nh táo c?u kh?n, phó thác cho tr?i Ph?t ch? qua mùa ?ông thì m?u v?ng m?i ??ng thành. Ng??i ác nh?n hi?m ??c, m?u k? gian tham n?u chi?m ???c xâm này thiò ph?i mau mau c?i l?i b?ng không ?t có h?a ??n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="11">
+      <Hang>4</Hang>
+      <XamChu>Kim niên h?o s? nh?t phiên tân
+Phú quý vinh hoa c?t nh? thân
+Thùy ??o c? quan nan li?u s?
+?áo ??u ??c l?p chuy?n th??ng th?n.</XamChu>
+      <YNghia>M?i vi?c n?m nay tr??c t?t t??i
+Vinh hoa phú quí hi?n thân ng??i
+C? tr?i xoay ??i nào ai bi?t
+Sau r?t kh? tâm c?ng t?i tr?i.</YNghia>
+      <ThanhY>Công danh không ??ng, tài l?c ít, ki?n b?t l?i, b?nh hung, hành nh?n tr?c tr? ch?a v?, vi?c chi c?ng ??ng bàn tính v?i ai, e ph?n phúc, hôn nh?n không ??ng t?t, m?ng v?n d?u cò t?t c?ng không v?a ý, có s? hung ?n ? trong.</ThanhY>
+      <ChieuNghiem>H?c trò ?i thi mà chi?m ???c qu? xâm này thì không ??u, tr? v? không có xe c? nên ph?i ?i b? v? nhà.</ChieuNghiem>
+      <CoNhan>Hàn Tín công lao b?t c?u</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, chi?m ???c xâm này thì ph?i dè d?t, c?n th?n vi?c chi x?y ra thì th?y h?a, có ???c vi?c c?ng kh? tâm mà không ích chi cho mình h?t. N?u nh? c? công làm vi?c ?y thì n?a ???ng ?t b? ph? b?, v?y ph?i canh c?i m?i có tài l?c, và mu?n làm gì thì ??ng cho ng??i khác bi?t công vi?c c?a mình làm, c?u công danh thì h??ng không ???c lâu dài. Xu?t hành b?t l?i, c?u b?nh không t?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="12">
+      <Hang>5</Hang>
+      <XamChu>Vinh quy k? v?ng t?i xuân ti?n
+Thùy li?u thu lai h?u b?t nhiên
+Tr?c ng? thành gian qu?i công t?
+Nh?t sanh ho?t k? th? an toàn.</XamChu>
+      <YNghia>Mùa ?ông v?ng tính vi?c vinh sang
+Ng? l?i thu sang ch?ng v?n toàn
+B?ng g?p qu?i nh?n ng??i giúp ??
+Toan lo m?i ???c tr?n ??i an.</YNghia>
+      <ThanhY>Công danh ch?m, tài ch?a có, b?nh ph?i ??i th?y, ki?n ph?i thôi, hành nh?n v?, thai sinh trai, làm ?n buôn bán thì ph?i dùng ng??i bán lân c?n v?i mình, ki?n th?a thì qua t?i mùa thu m?i th?y tin t?c, ch? nghe k? nói xàm, có ng??i qu? nh?n ? giúp mình thì m?i khá ???c, làm vi?c chi l?n ph?i ??i qua xuân t?i.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò h?i vi?c tr?n ??i, chi?m ???c xâm này lâu r?i mà ch?a ???c danh ph?n, sau qua qu?n Hoài th?m m?t ông quan kia m?i g?p m?t ng??i khách ? ph??ng Tây nhà ??i Thanh dang tay giúp ?? m?i ???c công danh.</ChieuNghiem>
+      <CoNhan>Tô Võ ch?n dê.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, c?u gì c?ng vô ích, khó kh?n ph?i c?n th?n ch? th?i, m?u v?ng r?t m?i ??ng thông.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="13">
+      <Hang>5</Hang>
+      <XamChu>Quân kim Canh Giáp v? hanh thông
+Th? h??ng giang ??u tác ?i?u ông
+Ng?c th? tùng sanh ?ng phát tích
+V?n nh?n ??u th??ng sánh anh hùng
+</XamChu>
+      <YNghia>G?p Canh Giáp v?n ch?a hanh thông
+Câu cá ??i th?i t?a b?c sông
+Ngày M?o là ngày ng??i phát ??t
+Tr??c muôn ng??i rõ m?t anh hùng.</YNghia>
+      <ThanhY>Ngày Canh, ngày Giáp thì không khá, ngày M?o thì phát ??t l?i và danh, b?nh ch?m m?nh, ki?n ??ng mà lâu, hành nh?n v?, g?p ngày M?o thì t?t, g?p ngày Canh và ngày Giáp thì ch?ng hay chút nào.</ThanhY>
+      <ChieuNghiem>M?t ng??i ?i thi chi?m ???c xâm này thi không ??u l?i còn m?c tai h?a mà ch?t, anh h?c trò ?i thi g?p n?m Giáp ng?, ho?c tháng tu?i Giáp ng? thì ?oán r?ng thi ??u.</ChieuNghiem>
+      <CoNhan>Ông Kh??ng Th??ng câu cá sông V?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không t?t ph?i ch? th?i, ch? n?m tháng ngày gi? M?o thì t?t, ph?i gi? mình c?n th?n thì kh?i h?a mà g?p ph??c. Th?i ch?a t?i ph?i th? c?u, ch? sau r?t lâu r?i m?i có ng??i giúp ?? ??ng vi?c. Mình ??ng tham, ??ng gi?n, ??ng ghét, ?? t? nhiên m?i có ph??c. Ý xâm nói ng??i quân t? b? n?n 15 n?m r?i sau m?i phát ??t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="14">
+      <Hang>4</Hang>
+      <XamChu>Nh?t ki?n giai nh?n ti?n h? hoan
+Thùy tri kh? h?u h?u ?a ?oan
+Nh?n tình lãnh h??n quân h?u nhã
+L?ch hi?p ?ng tri hành b? nan.</XamChu>
+      <YNghia>V?a th?y giai nh?n ?ã ??p lòng
+Nào hay sau có vi?c long ?ong
+Nh?n tình lãnh hoãn ng??i ??ng v?i
+???ng khó t?ng ?i m?i rõ thông.</YNghia>
+      <ThanhY>B?nh ch?a an, ki?n ph?n phúc, có thai sanh gái, hành nh?n ch?a v? e g?p vi?c tr?c tr?, tr??c hi?p sau tan, tr??c m?ng sau bu?n, tr??c d? sau khó, danh l?i th?t.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò vì cha m? mu?n c?u hôn xin qu? xâm này sau b? chuy?n giàu nghèo mà t??ng cách nhau, b?i không ti?n nên ch?a ?? 6 l?, anh h?c trò ?n n?n.</ChieuNghiem>
+      <CoNhan>Quách Què m?n ch? D??ng Nguy?t Anh.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, c?u danh không ???c, c?u hòa không ???c, b?nh s? ch?t ph?i u?ng thuôc nhi?u m?i ???c. Muôn vi?c ??u tr??c d? sau khó, vi?c chi làm ra r?i n?a ch?ng c?ng h?, chi?m ???c qu? xâm này e trong nhà có chuy?n r?y rà h?a tai t?i luôn, bà con nó c?ng mu?n gia oán cho mình. Thánh ý nói, khác nào nh? cái bông r?ng mà làm sao nó nguyên l?i ???c. Th? tình nhi?u chuy?n ph?n phúc mình ph?i c?n th?n dè d?t là cái m?u c?a mình. ??ng tin ng??i ta h?i ng? không k?p, ph?i lo s?.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="15">
+      <Hang>5</Hang>
+      <XamChu>L??ng gia môn h? các t??ng ???ng
+B?t th? nh?n duyên m?c ?áo l??ng
+Tr?c ?áo xuân phong h?o tiêu t?c
+Kh??c ?i?u c?m s?c h??ng loan phòng.</XamChu>
+      <YNghia>?ôi bên nhà c?a sánh cùng nhau
+Ch?ng ph?i nh?n duyên ch? ??c ao
+Ch?nh ??i mùa xuân ?i?m ?ng t?t
+V? ch?ng hòa thu?n hi?p cùng nhau.</YNghia>
+      <ThanhY>Hôn nh?n ch?a hi?p, ki?n ch?a x?, danh l?i ch?m, phòng kh?u thi?t, có thai ?? khó, ??i qua mùa xuân làm vi?c chi c?ng khá.</ThanhY>
+      <ChieuNghiem>M?t ng??i ?i buôn qua n??c S? buôn bán, chi?m ???c qu? xâm này thì tính qua mùa thu ?t tr? v? ??n n?i, không dè m?c vi?c c?n tr? nên qua mùa xuân m?i v? ??n nhà.</ChieuNghiem>
+      <CoNhan>Tr??ng Quan Tho?i m?n ch? Lan Anh.</CoNhan>
+      <LoiBanCuaDichGia>Chi?m ???c qu? xâm này thì ph?i ch? th?i vì tr?m vi?c khó hòa, khó nên phòng ngày sau có chuy?n lo r?u nó t?i mà e có s? r?i ro, phòng kh?u thi?t, th? phi, e trong c?t nh?c có s? l?n x?n. Mu?n vi?c chi thì danh b?t thành, l?i b?t t?u, d?u mình làm l?n mà kh? thân vô ích, ch? v?t ??i sao d?i thì m?i ???c vi?c. Ch? mình mu?n mà không ??ng, ??i có vi?c khác thì ???c. ??i qua n?m D?n, M?o, mùa thu x?u, qua mùa xuân m?i nên vi?c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="16">
+      <Hang>4</Hang>
+      <XamChu>V?n s? v?u v?u nan bi?n minh
+B?t nh? túc li?u th? qui canh
+Bàn nh?n phi?n ho?c quân h?u thính
+Th? s? ???ng m?u thân ?? huynh.</XamChu>
+      <YNghia>Quan s? gay go khó rõ hay
+Ch?ng b?ng thôi d?t tr? v? cày
+Ng??i ngoài xúi gi?c ??ng tin t??ng
+Huynh ?? trong thân ph?i t? bày.</YNghia>
+      <ThanhY>Ki?n khó nên, hòa là quí, danh l?i không có, hôn nh?n khó thành, b?nh ph?i c?u kh?n, tài ch? tham phòng ng??i g?t.</ThanhY>
+      <ChieuNghiem>M?t ng??i h?c trò chi?m ???c qu? xâm này thi r?t, sau ng??i em thi ??u nói giùm cho ng??i anh m?i nên vi?c.</ChieuNghiem>
+      <CoNhan>V??ng T??ng hi?u th?o, xu?ng tuy?t ki?m cá cho m? ?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, bình ??a n?i phong ba (không có mà nó làm cho có vì nó âm m?u làm lo?n), ??ng nghe l?i ng??i ta nói, n?u mình tin thì m?c l??i r?p, mau ph?i b? vi?c mình mu?n làm, tr?m vi?c làm c?ng không ??ng, mau ph?i kêu anh em l?i m?t h?i mà tính giùm cho mình, ??ng than thân trách ph?n, ph?i dè d?t, ph?i ??i th?i ch? ch?ng nào g?p th?t là quí nh?n dìu d?t m?i ??ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="17">
+      <Hang>0</Hang>
+      <XamChu>?i?n viên gia quán h?o th??ng l??ng
+S? ?áo công ?ình b? th? th??ng
+Túng th? c? quan ?? ??c th?ng
+?inh vi h?u th? t? tôn v??ng.</XamChu>
+      <YNghia>Ru?ng v??n thi?t giá ph?i lo l??ng
+G?p ki?n ??n quan khó t? t??ng
+D?u tính c? m?u toan ??ng th?ng
+Thì sau con cháu b? tai ??ng.</YNghia>
+      <ThanhY>Ki?n th?t lý, danh l?i không có, hành nh?n ch?a v? e có tr?c tr?, b?nh ph?i c?n th?n và c?u kh?n, c? ngay th?t mà ?.</ThanhY>
+      <ChieuNghiem>Ng??i buôn bán g?o g?p n?m s?t giá.</ChieuNghiem>
+      <CoNhan>Th?ch Sùng b? n?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u l?m muôn vi?c ??u tr?c tr?, có s? ng?n c?n, có k? l?p m?u k? h?i mình. Công vi?c chi c?ng b? ?i ??ng làm n?a, ph?i th?i b? l?i, ph?i gi? mình, th? ph?n thì m?i ???c bình an, còn nh? rán s?c mà làm ???c vi?c ?i n?a thì ngày sau con cháu s? b? thi?t h?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="18">
+      <Hang>5</Hang>
+      <XamChu>Tri quân ch? ngh? th? không hoa
+?? s? mang mang vi h?u nhai
+Lao bã kh??c ng?n ??p th?t ??a
+Thi?n vi thi?n ?ng v?nh vô sai.</XamChu>
+      <YNghia>Ng??i ??ng toan ngh? chuy?n mênh mông
+Nh?ng chuy?n m?t m? ch? có trông
+G?ng chí n??ng theo ???ng l?i c?
+Làm lành lành tr? lu?t thiên công.</YNghia>
+      <ThanhY>Danh l?i khó c?u, ph?i làm lành r?t sau m?i có, b?nh c?u th?y, ??ng ki?n th?a, hành nh?n ch?m v?.</ThanhY>
+      <ChieuNghiem>??o s? g?p gi?c, mu?n tr?n gi?c, chi?m ???c qu? xâm này bèn ?n trong ?ám c? ??ng ?n gi?c nên kh?i b? b?t. Ng??i b? ki?n chi?m ???c qu? xâm này thì ?t ch?ng ph?i ra ch?n nha môn th?a ki?n li?n li?n.</ChieuNghiem>
+      <CoNhan>M?nh Th??ng Quân chiêu hi?n.</CoNhan>
+      <LoiBanCuaDichGia>Chi?m ???c qu? xâm này thì ph?i ch? th?i và ph?i làm lành ??ng c?u ph??c, ph?i ? ngay th?ng ch?m rãi ngày sau t?t, b?ng d?c t?c thì b?t ??t, b?n ph?n ph?i dè d?t, ch? v?ng t??ng s? gì qu?y mà b? tai h?a. Danh l?i th?t thì mau, còn nên thì khó, tài ch?a ??ng n?u có c?u nh?c công vô ích, b?nh ph?i c?u th?n m?i ???c m?nh.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="19">
+      <Hang>2</Hang>
+      <XamChu>Tha t? tùng lai v? ??c th?i
+Kim niên trình v?n khoa t??ng nghi
+?inh c?u ??ng tác ?? nh? ý
+Hòa hi?p hôn nh?n ??ng quý nhi
+</XamChu>
+      <YNghia>Bu?i tr??c th??ng ng??i ch?ng g?p th?i
+N?m nay v?n t?t ?ã ??n n?i
+Vi?c làm s?p ??t ??u nh? ý
+Ch?ng v? hi?p hòa con cháu ?ông.</YNghia>
+      <ThanhY>Danh l?i to?i, hôn nh?n h?p, ki?n ??c lý, thai sanh trai, hành nh?n v?, bình yên qua mùa thu c?u chi ??ng n?y.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò chi?m ???c qu? xâm này thi r?t</ChieuNghiem>
+      <CoNhan>L?u Trí Vi?n g?p v? (là bà Nh?c Th?).</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th?òng, làm vi?c chi nh? thì ???c t?t, vi?c l?n thì khó nên, e không ??ng. B?ng làm vi?c chi nh? mà công bình thì ban ??u khó m?t chút sau d? l?m và ???c to?i ý. Ngày mà mình ??c ý thì không ???c, cái ch? mình vô ý mà ??ng vi?c. Tr?m vi?c chi ??ng lu?n là cao th?p, ho?c sang hèn thì m?i có hòa hi?p ???c. ??i qua mùa thu thì vô quan ??c quan, vô t? ??c t?. Buôn bán ???c, c?u hôn ???c, công danh còn xa, b?nh ???c an. ?i thi s? r?t, ph?i dè d?t l?m m?i ???c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="20">
+      <Hang>4</Hang>
+      <XamChu>Nh?t sanh tâm s? h??ng thi luân
+Th?p bát nan ??u thuy?t d? quân
+Th? s? t?n cùng l?u th?y kh?
+Công danh phú quý ??ng phù vân.</XamChu>
+      <YNghia>M?t ??i tâm s? lu?n cùng ai
+M??i tám n?n ??u nói gã hay
+Th? s? ??i này nh? b?t n??c
+Công danh phú quý t? mây bay.
+</YNghia>
+      <ThanhY>Ki?n khó, ??ng ki?n thì t?t, danh l?i khó c?u, ?i ???ng sông, ???ng bi?n s? b? ch?t trôi, hành nh?n ch?a v?, b?nh ph?i c?u th?y, ph?i l?a th?y gi?i và c?n u?ng thu?c, khó m?nh, hôn nh?n nghi ng?i, mu?n làm vi?c chi ph?i ch? th?i.</ThanhY>
+      <ChieuNghiem>M?t ng??i ch? chi?m qu? xâm này sau tôi t? ?i h?t.</ChieuNghiem>
+      <CoNhan>Nghiêm T? L?ng ??ng ?àng bái t??ng làm quân s? sau ?i tu.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không có quí nh?n giúp, vi?c chi c?ng ph?i dè d?t c?n th?n, tr?m vi?c dù có ??ng ?i n?a r?i sau nó c?ng khó thành ???c, s? e có hung s?, n?u có ng??i qu?i nh?n giúp thì hung s? m?i ???c an. Thánh ý nói ch?ng khác nào ?i t?i ch? hung ??a, có nhi?u chuy?n ph?n phúc, tr?c tr? l?m, v?y thì ph?i lo làm lành làm ph??c, r?i th?ng th?ng sau m?i có th?n phò tr?.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="21">
+      <Hang>4</Hang>
+      <XamChu>Gi? quân túc tích ki?t thành oan
+Kim nh?t t??ng phùng na ??c duyên
+H?o b? kinh v?n ?a phúng t?ng
+K? c?u h? nôi b?o thuy?n quyên.</XamChu>
+      <YNghia>Vì ng??i ki?p tr??c k?t oan khiên
+Tuy g?p m?t nào ?âu ph?i duyên
+Kinh t?ng cho nhi?u lo ni?m Ph?t
+C?u cho con m?nh v? ch?ng yên.</YNghia>
+      <ThanhY>Làm không nên vi?c, b?nh có oan nghi?t, ph?i c?u thu?c c?u th?n thì ??ng m?nh, k? xu?t hành, ki?n ??c lý, ng??i ?i ch?a v?, c?u tài ch?a ??ng, hôn nh?n khó hi?p. Tr??c n?a tháng là t? ngày mùng 4 ??n ngày 14 mà xin nh?m xâm này thì khó nên vi?c mà g?p nhi?u ?i?u th? phi v?i ?àn bà. Sau n?a tháng là ngày 15 t?i 30 chi?m ???c xâm này thì ???c bình an vô s?.</ThanhY>
+      <ChieuNghiem>Có m?t ch? ti?m c?m ?? v? có b?nh chi?m ???c qu? xâm này, ng??i v? b?nh thình lình nói r?ng: Ta ??i tr??c là ng??i ?n tr?m ???c c?a g?i cho ng??i, nên nay ??n ?ây mà h??ng c?a ng??i, ng??i mau ??t h??ng c?u tr?i thì t? nhiên b?nh lành.</ChieuNghiem>
+      <CoNhan>Tôn T?n, Bàng Quyên ??u trí k?t nên c?u.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u không ??ng gì h?t, vi?c hay bi?n r?i lo?n, ph?i dè d?t e sau có b?nh ng?t nghèo, ph?i phòng có s? hao tài t?n c?a l?i thêm có chuy?n bu?n r?u.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="22">
+      <Hang>2</Hang>
+      <XamChu>Bích ng?c trì trung khai b?ch liên
+Trang nghiêm s?c t??ng t? thiên nhiên
+Sanh lai c?t cách siêu phàm t?c
+Chánh th? nh?n gian ?? nh?t tiên.</XamChu>
+      <YNghia>Trong ao bích ng?c b?ch liên khai
+T??ng m?o tr?i sanh ??p ?? thay
+C?t cách sanh ra khác phàm t?c
+Thi?t là tiên t? ? tr?n gian.</YNghia>
+      <ThanhY>Danh d? nên, b?nh mau m?nh, c?u tài ??ng, v? ch?ng hi?p, sanh con hi?n, gia ??o nên qua mùa h? mùa thu thì k?t. Tuy v?y ch? ph?i c?n th?n vì có s? m?u k? kín ?áo, ph?i dè d?t các công chuy?n mình mu?n làm.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi trong làng chi?m ???c qu? xâm này sau qua ??n tr??ng thi thì b? ?u?i, tr? v? n?a ???ng ngó th?y b?c t??ng Quán Âm ng?i trên tòa sen tr?ng bèn mua v? th?.</ChieuNghiem>
+      <CoNhan>Ông Lý Thái B?ch g?p ???ng Minh Hoàng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không ???c t?t h?t, xâm này t?t nh?ng xin v? khoa thi c? thì không ???c ?âu, di ki?n th?a thì không ??t lý, xin h?i v? vi?c ?i tu thì t?t. Hôn nh?n t?t, buôn bán ???c, c?u b?nh nh? b?nh có thai thì b?nh ???c bình yên không sao, b?nh không có thai ph?i lo s?, mà có m?nh ???c c?ng qua ??n mùa thu, tr?m vi?c ch? ch? qua h? và thu m?i ???c yên.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="23">
+      <Hang>4</Hang>
+      <XamChu>Huê khai huê t? t?i xuân phong
+Qu?i ti?n c?ng không bá tu? trung
+Ti?n t? vinh huê kim d? h?
+?áo ??u v?n s? t?ng thành không.</XamChu>
+      <YNghia>Huê khai huê héo t?i xuân phong
+Tr?m tu?i giàu nghèo ch?ng ng?i vòng
+Phú quí c?a ng??i ?à h?t bu?i
+?áo ??u muôn vi?c c?ng nh? không.</YNghia>
+      <ThanhY>Danh l?i c?ng nh? hoa héo, ki?n ph?i hòa, b?nh càng n?ng, hôn nhân không hi?p, ng?òi ?i xa ch?a v?, e có th?t v?t chi ?ây, thai sanh gái.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ch?a g?p th?i chi?m qu? xâm này bèn nói: Mình không th? nào ??ng phát ??t. Khi vào tr??ng thi ng?i nh?m phòng ch? (không) r?i may thi ??ng trúng tuy?n.</ChieuNghiem>
+      <CoNhan>Ngô V??ng n?ch ái Tây Thi.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, chi?m ???c xâm này thì b?t l?i, nh? th? bông n? g?p gió l?n, già c? g?p qu? này b?t l?i l?m, ???c xâm này khó rõ thi?t h?, vi?c t??ng d? mà nó khó, vi?c t??ng khó mà nó d?, ngh?a là vi?c gì c?ng không ch?ng ??i khó bi?t h?t vi?c ??c th?ng. C?u b?nh s? ch?t, khó phòng b?nh lão nhân, ki?n ch?c th?t, hôn nh?n bi?t ly, công danh b?i, v? khoa thi thì c?u may ch? không ch?c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="24">
+      <Hang>2</Hang>
+      <XamChu>Nh?t xuân v?n s? kh? ?u phi?n
+H? lý vinh c?u th? niên nhiên
+Cánh ng? thu thành ?ông chí h?u
+H?p nh? k? h?c gi? yêu ti?n.</XamChu>
+      <YNghia>Mùa xuân muôn vi?c kh? ?u phi?n
+Mùa h? g?ng làm c?ng ch?ng yên
+Thu ??n ?ông qua g?p v?n t?t
+C?ng nh? c?i h?c bu?c ti?n l?ng.</YNghia>
+      <ThanhY>Danh l?i có mà ??ng nóng n?y, ki?n ph?i hòa, hôn nh?n h?p, hành nh?n còn xa, ti?n c?ng mu?n thành mà c?ng mu?n cho nhi?u.</ThanhY>
+      <ChieuNghiem>M?t ng??i ???c b? làm quan ???c qu? xâm này thì nói ?t ???c làm quan t?i ??t D??ng Châu là Tri qu?n. Sau ch?ng dè làm quan T?nh Hà Nam l?n h?n.</ChieuNghiem>
+      <CoNhan>Tr??ng Khiên Ng?u nh?p cung ??u Ng?u.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, ??ng nóng n?y, ph?i ch?u c?c kh? m?t chút mà ??i ch?m rãi thì ?t ???c thành vi?c và có tài l?c, phú quí c?ng nh? ??y ??, nh? chi?c ghe ?i n??c ng??c mà sau ?ó ?i bình an, qua thu ?ông t?t, ???c vi?c, c?u b?nh khó m?nh, công danh thì ???c nh?ng mu?n m?t chút.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="25">
+      <Hang>5</Hang>
+      <XamChu>D?n Ng? Tu?t niên ?a tr? tr?
+H?i Tý S?u ngo?t tiêm hanh gia
+Cánh phùng ng?c th? kim kê h?i
+Khô m?c phùng xuân t? phúng hoa.</XamChu>
+      <YNghia>N?m D?n Ng? Tu?t vi?c long ?ong
+H?i Tý S?u th?i v?n m?i thông
+??i g?p tháng ngày gi? M?o D?u
+Cây khô g?p xuân tr? xanh bông.</YNghia>
+      <ThanhY>Ki?n lo nhi?u, danh l?i ch?m, hôn nhân ki?t, thai ph?i d??ng, ph?i làm lành làm ph??c, hành nh?n ?ã ??nh ngày v?, g?p n?m tháng M?o D?u thì khá, n?m tháng D?n Ng? Tu?t không khá, tháng 10 và tháng 11, tháng ch?p v?n hanh thông, mùa xuân t?i c?ng t?t.</ThanhY>
+      <ChieuNghiem>M?t ng??i ?au lâu chi?m ???c qu? xâm này nói mùa h? r??c th?y thu?c t?i tr?, h?i do c? nào? Th?y nói r?ng tôi m?c coi nh?t th?c, ng??i b?nh h?i sao v?y? Th?y nói Nh?t Nguy?t giao h?i, ng??i b?nh c? m?ng nói ch?c m?nh, bèn u?ng m?t thang thu?c m?nh li?n.</ChieuNghiem>
+      <CoNhan>???ng Minh Hoàng ?i ch?i trên cung tr?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th??ng không t?t, không x?u, mu?n làm vi?c chi có s? lo t?i, lo l?m, qua n?m tháng S?u thì khá và ???c vi?c, khuyên ch?ng nên nghe, tin ng??i ?àn bà e có s? h?i, ng??i quân t? chi?m ???c qu? xâm này thì ???c bình an, ng??i ti?u nhân thì khó lòng l?m, có s? ho?n n?n luôn luôn.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="26">
+      <Hang>3</Hang>
+      <XamChu>Niên lai phong li?m giai thiên s?
+T? th? kim niên t? ??o ?a
+Gi? t? ??nh k? tam nh?t n?i
+?i?n trù triêm túc võ bàn ?a.</XamChu>
+      <YNghia>Mùa t?i ??ng th?t c?ng b?i tr?i
+N?m nay n?ng h?n c?ng ch?i v?i
+Cùng ng??i ??nh ch?c trong ba b?a
+V??n ru?ng g?p m?a r??i kh?p n?i.</YNghia>
+      <ThanhY>Tr??c t?n sau l?i, ki?n ??ng, hôn nh?n hi?p, hành nh?n có tin v?, g?p n?m tháng ngày Canh, Giáp thì t?t, nh? h?i ng??i ?i ???ng thì trong ba ngày v?, 3 ngày ??ng tr??c ngày Canh là ?inh, ??ng sau ngày Canh 3 ngày là Quý- ngh?a là trong 3 ngày ?inh, Canh, Quý.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi chi?m qu? xâm này vào 3 tr??ng ??u b? m?a l?n, r?t sau thi ??u t?i tr??ng th? 3.</ChieuNghiem>
+      <CoNhan>Ông Tri?u Nghiêu Phu c?u tr?i.</CoNhan>
+      <LoiBanCuaDichGia>Xin ???c xâm này thì bây gi? có nhi?u s? tr?c tr? gian nan r?t r?i m?i nên vi?c, rán công nh?c trí, h? ???c thì ???c. Lo nhi?u l?m , mà ???c vi?c r?i thì ph?i c?n th?n cho hung, ph?i ??i th?i t?i m?i có ph??c. Xin vi?c gì ??ng th?t trong 3 ngày thì có tin t?c. B?nh ?au n?ng mà không ch?t, buôn bán có l?i, hôn nh?n ph?i xét k?, thi ??u mà ph?i c?n th?n cho l?m k?o h? danh, ph?i ?n n?n coi ch?ng dè d?t thì m?i th?y ph??c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="27">
+      <Hang>4</Hang>
+      <XamChu>Th? gian v?n v?t các h?u ch?
+Nh?t hi?p nh?t hào quân m?c th?
+Anh hùng hào ki?t tác thiên sanh
+Gi? tu b? b? tu?n qui c?.</XamChu>
+      <YNghia>V?t ??u có ch? ? tr?n gian
+H?t thóc m?y lông ch? có màng
+Hào ki?t anh hùng tr?i ?ã ??nh
+Ph?i gìn t? b??c ch? sai ???ng.</YNghia>
+      <ThanhY>Ki?n ch? g?p, b?nh nuôi cho k?, danh l?i t?i tr?i, hành nh?n ch?m v?, hôn nh?n ch?a ??nh, m?u thâm h?a thâm.</ThanhY>
+      <ChieuNghiem>Trong quân gian ?óng, n?i Thánh mi?u có m?t cây ??i th? ??i nhà Minh vua Thái T? mu?n ??n tr??c chi?m qu? xâm này còn d? d?, sau c?ng chi?m qu? xâm này bèn th?t kinh than r?ng: r?t linh mà ch?ng dám ??n. Có m?t anh tân khoa c? nh? chi?m ???c qu? xâm này thì qua mùa xuân thi ??u, ?ng nghi?m t?i hai ch? b? b?.</ChieuNghiem>
+      <CoNhan></CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, danh l?i khó c?u, khó t?u ???c, m?i ng??i ??u có ph?n ph??c ch? khá c??ng c?u, vi?c chi c?ng ph?i an ph?n, n?u làm càng kh? mang tai, n?u làm b?t t? c?u may thì ?t có h?a, thôi ??ng v?ng t??ng chi h?t, ph?i an ph?n tùy duyên, buôn bán không ???c, b?nh dùng d?ng l?m ph?i c?u th?n, công danh không ???c ph?i dè d?t, lòng ph?i ? cho t?t, cho ngay th?ng và ph?i ?i t? b?c thì ???c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="28">
+      <Hang>2</Hang>
+      <XamChu>Công h?u t??ng t??ng b?n vô h??ng
+H?o b? c?n lao k? th??ng thiên
+Nh?n s? t?n tùng thiên lý ki?n
+Tài cao kh?i ??c kh?n lâm ti?n.</XamChu>
+      <YNghia>T? t??ng công h?u b?i m?ng ph?n
+Tr?i ban cho ?ó b?i lòng c?n
+Ph?n ng??i c?ng b?i do tr?i ??nh
+Tài gi?i có ?âu ch?u kh?n b?n.</YNghia>
+      <ThanhY>B?nh hay ki?n có ng??i gi?i, danh l?i ph?i ch?, th?t v?t ki?m ra, h?t b? r?i th?i, hành nh?n v?.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò h?i vi?c chung, thân chi?m qu? xâm này sau h?c võ th?y ch?ng l?i ph?i b? khoa võ h?c khoa v?n, sau làm quan ph? Ti?u Châu tr?n ??i.</ChieuNghiem>
+      <CoNhan>T??ng Nh? ?? Ki?u.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, b?t c?u tri chí, không c?u c?ng ??ng, con m?t th?y khó, mà th?i mình có, nh?ng ph?i rán công làm ??ng làm bi?ng thì ???c vi?c, nên vi?c. Tuy th?y khó nh?ng ??ng tr? nãi, ??ng b? qua, mau mau s?t s?ng lo làm cho siêng và ph?i tính trong b?ng thì tr?i giúp cho thành công ch?ng sai, b?nh ph?i làm ph??c s? thuyên gi?m.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="29">
+      <Hang>6</Hang>
+      <XamChu>T? tông tích ??c k? ?a niên
+Nguyên vi?n l?u tr??ng khánh t? nhiên
+Nh??c cánh tháo tu vô quy?n k?
+Thiên tu h??n nh? c?u thanh chiêu.</XamChu>
+      <YNghia>T? tông tích ??c ?ã thâm niên
+V?nh vi?n nhi?u ??i ph??c t? nhiên
+Thêm rán làm lành lòng ch?ng m?i
+Tr?i cho ng??i ???c ph??c li?n li?n.</YNghia>
+      <ThanhY>Ph??c tr?i dành ??, thai sanh trai, b?nh ??ng bình yên, ki?n ??c lý, danh l?i ??ng, hành nh?n có tin v?.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi chi?m ???c qu? xâm này ??u ???c ti?u khoa r?i sau ??u ???c Th? khoa.</ChieuNghiem>
+      <CoNhan>T? Mã Ôn Công than nghèo.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t nh?ng ph?i làm lành, làm ph??c, tích ??c, thu?n theo l? tr?i thì tr?i cho nên vi?c, v?t ?ã m?t nh?ng ki?m có l?i, b? mà có th?i lai, bây gi? h?t r?i sau mình có cái khác, ng??i có l?i ph?i ?n n?n ch?a l?i và lo làm lành thì tr?i nh? ph??c cho.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="30">
+      <Hang>3</Hang>
+      <XamChu>Ph?ng công c?n th? m?c khi tâm
+T? h?u hanh thông ki?t l?i lâm
+M?c h? vinh c?u th? h?u h?
+Thu k? d? t? ??nh gian âm.</XamChu>
+      <YNghia>Phép công n?m gi? b? tà tâm
+V?n m?i hanh thông l?i l?c ??y
+M?i vi?c ?ã làm thôi khá bãi
+Sang thu cho gã ph??c thêm ??y.</YNghia>
+      <ThanhY>L?i danh có song ??ng tham, ki?n hòa thì t?t, b?nh ??i thu?c, hôn nh?n ?ã ??c, ti?n nan h?u v? qua thu khá.</ThanhY>
+      <ChieuNghiem>Có ng??i tu?i tr? làm lính gi? lòng trung h?u, ? lâu mà không có lên ch?c, ??n mùa thu s? g?p m?t ng??i h?c trò khá, ng??i này s? g? con gái cho, qua ngày sau cha v? chàng r? ??ng hi?n vinh.</ChieuNghiem>
+      <CoNhan>Li?u Nghi truy?n th?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, nh?ng th?ng th?ng ??i th?i thì t?t, mà ph?i ? cho công bình ??ng d?i lòng, tà tâm thì s? ???c, tr??c khó sau d?, tr?m vi?c ph?i c?n th?n thì sau m?i có ph??c l?c. Ng??i quan nh?n chi?m qu? xâm này ?t b? xâm, h?c trò chi?m xâm này ?i t?i không ???c. Buôn bán có l?i mà ??ng tham, b?nh ??i thu?c, ?i thi ??i qua mùa thu, hôn nh?n có l?i giao ??c v?i nhau.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="31">
+      <Hang>3</Hang>
+      <XamChu>Thu ?ông tác s? ch? t?m th??ng
+Xuân ?áo môn ?ình t?m ki?t x??ng
+Thiên lý tín âm phù vi?n v?ng
+Huyên ???ng khoái l?c t? an kh??ng.</XamChu>
+      <YNghia>Thu ?ông m?i vi?c c?ng t?m th??ng
+Xuân ??n gia ?ình ???c ki?t x??ng
+Ngàn d?m tin lành trông c?ng t?i
+M? cha vui v? ???c an kh??ng.</YNghia>
+      <ThanhY>Ki?n ph?i phòng, b?nh gi?m l?n, tài m?i v??ng, danh m?i v?ng, hành nh?n g?nv?, hôn nh?n t?t, gia ??o hòa, qua thu ?ông s?p t?i sang n?m thì ph??c l?c có.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò chi?m qu? xâm này nh?m mùa thu ?i thi ch?ng ??u, qua mùa ?ông t?m th??ng t?i mùa xuân thì ??u cao.</ChieuNghiem>
+      <CoNhan>Tô Khanh giúp tin.</CoNhan>
+      <LoiBanCuaDichGia>Xuân khá, làm vi?c gì c?ng ph?i h??n h??n ??ng g?p, ??ng nóng n?y, b?ng nóng n?y có s? không hay. Phàm vi?c chi c?n lo c?n làm c?n c?u kh?n thì t?t, nh?ng ??i qua mùa xuân m?i ch?c ???c vi?c ch? mùa thu không ch?c, qua mùa xuân v?n m?i thông. Môn ?ình s? có s? t?t lành, tài v?t th?ng th?ng s? có thêm, ki?n th?a s? e có ng??i ? xa t?i xúi gi?c. v? khoa thi mùa xuân m?i ??u, hôn nh?n thành, b?nh không sao.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="32">
+      <Hang>4</Hang>
+      <XamChu>Lao lao kh?t kh?t kính hà qui
+T?t b?nh kim da th? d? phi
+S? ?áo ??u lai h?n t? m?ng
+Hà nh? h?u y?n d?ng tâm c?.</XamChu>
+      <YNghia>Nh?c lòng l?n ??n ch?ng ra chi
+T?t b?nh r?t nhi?u thêm th? phi
+Vi?c ??n r?t r?i nh? gi?c m?ng
+Chi b?ng m?u c?i b?t hành vi.</YNghia>
+      <ThanhY>Ki?n không khá, ki?n ch?a thông, b?nh còn hi?m, tài khó ki?m, hôn nh?n tr?c tr?, tháng 6 e có b?nh ho?c m? cha, chuy?n gì c?ng có ??u mà không có ?uôi, ban ??u ???c sau không ???c.</ThanhY>
+      <ChieuNghiem>??i vua Thiên Kh?i n?m Giáp Tý m? h?i thi, ??t S?n ?ông có 3 ng??i ??ng ?i thi chi?m ???c qu? xâm này, trong lòng nói không ??u, té ra sau ??u ch?c Gi?i Ng??n vì h?p trúng nh?m b?n thi ?inh ?t và tu?i ?inh ?t.</ChieuNghiem>
+      <CoNhan>Châu Công gi?i m?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u l?m ph?i th?i b?, ph?i ?n n?n ch? th?i, b?ng không thì b? kh?u thi?t, th? phi nó t?i mà có h?a to. ??ng c??ng c?u , nh? c?i l?i thì b? ho?n n?n và b?nh ho?n. Mình mu?n tính vi?c chi thì không trúng gì h?t, có rán làm thì h?u danh vô th?c, ?i thi khó ??u, buôn bán không ???c, ch?c ch?n l? v?n, tháng 6 có tai n?n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="33">
+      <Hang>5</Hang>
+      <XamChu>B?t phân Nam B?c d? ?ông Tây
+Nhãn ?? hôn hôn nh? t? lung
+Th?c ??c Hu?nh ?ình kinh nh?t quy?n
+B?t lu?n qu?i ti?n d? cùng thông.</XamChu>
+      <YNghia>Khó phân Nam B?c v?i ?ông Tây
+Tai ?i?c m?t m? th? khó mong
+T?ng ??c Hu?nh ?ình kinh m?t quy?n
+Sang hèn ch? lu?n ph?i cho thông.</YNghia>
+      <ThanhY>??ng ki?n th?a, b?nh khó tr?, danh l?i ch?a có, hành nh?n ch?a v?, rán làm lành có th?n phò ph?, rán ??c kinh tiêu nghi?p ch??ng.</ThanhY>
+      <ChieuNghiem>Anh h?c trò ra ?i thi g?n treo b?ng, chi?m ??ng qu? xâm này thì t?t. M?t ng??i h?i vi?c tr?n ??i, chi?m ???c qu? xâm này, sau n?a ??i s? mù m?t, v? con ch?t bèn ??n ? ??u trong chùa, ??n khi già m?t sáng l?i, ???c bình an.</ChieuNghiem>
+      <CoNhan>Trang T? m? ??o.</CoNhan>
+      <LoiBanCuaDichGia>Chi?m ???c qu? xâm này vi?c gì c?ng không ch?c, vi?c mình mu?n làm mà làm không ???c, nó l?i tr? ra khác r?i, tình c? g?p vi?c khác mà ??ng t?t, ??ng v?ng t??ng ph?i th? c?u, ai nói gì c?ng ??ng nghe, g?p xâm này ??ng b?n ch?n ?? t? nhiên thì t?t, th?t ý ph?n thành ??c ý, vô v?ng ph?n thành h?u v?ng, làm vi?c chi b? qua ??ng t??ng thì ??ng, th?y cái chi c?ng ??ng tham, buôn bán l?, ?i thi r?t, c?u xin ?i tu thì t?t, ph?i làm lành.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="34">
+      <Hang>5</Hang>
+      <XamChu>Xuân H? tài hoa Thu h?u ?ông
+Phân phân m?u s? l?m tâm hung
+Q??i nh?n thi th? lai t??ng ti?p
+H?u b? t? tâm tình ý nung.</XamChu>
+      <YNghia>Xuân H? qua Thu r?i t?i ?ông
+Ch??c m?u r?n r?c ch?a trong lòng
+Quí nhân dìu d?t mau theo dõi
+Ch? ch?c tình riêng ph?i d?ng công.</YNghia>
+      <ThanhY>Ki?n còn lo, b?nh ch?a m?nh, tài l?c k? m?u s?, hành nh?n có vi?c ??ng, hôn nh?n khó c?u, phòng kh?u thi?t thì kh?i lo r?u, k? nghe l?i ph? nh?n.</ThanhY>
+      <ChieuNghiem>ng??i con ?i buôn bán xa, cha ? nhà chi?m qu? xâm này thì 2 n?m ng??i con v? tay không, vì l? h?t ti?n.</ChieuNghiem>
+      <CoNhan>Tiêu Hà ki?m Hàn Tín (Vì H?n Bái Công b?c ?ãi nên Hàn Tín b? ?i).</CoNhan>
+      <LoiBanCuaDichGia>Xâm không t?t, b?t c?u danh l?i ??ng h?i n?a, tài v?t hao t?n ??ng làm n?a, ??ng lo m?u k? chi n?a, chi?m ???c qu? xâm này thì ph?i phòng kh?u thi?t th? phi, n?u làm vi?c chi thì b? r?y rà t?c gi?n luôn. Mu?n cho ??ng hanh thông và kh?i tai h?a thì ??ng nghe l?i ai h?t, mà ??ng nghe l?i ?àn bà, n?u nghe l?i e s? th?t b?i, b?nh khó m?nh ph?i lo bu?n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="35">
+      <Hang>2</Hang>
+      <XamChu>Nh?t s?n nh?t h?a ??i thanh giang
+Môn lý ?oàn viên s? s? vong
+Th? li?u bàn ?? phân chi?c kh?
+Không vi vô ng? ??i ngân công.</XamChu>
+      <YNghia>M?t hòn nh? v? ??i sông trong
+Nhà c?a ?oàn viên ?? v? ch?ng
+Gãy gánh gi?a ???ng ai rõ th?u
+Qu?nh hiu v?ng v? ch?n phòng không.</YNghia>
+      <ThanhY>Ki?n vô ích, b?nh nguy hi?m, hành nh?n cách tr?, tài khó ki?m, hôn nh?n khó hi?p, theo bài xâm này nên phòng có tang hai tai n?n, ho?c v? ch?ng phân cách.</ThanhY>
+      <ChieuNghiem>M?t ng??i có m?t ng??i v? b? b?nh, chi?m qu? xâm này thì ch?c v? ch?t.</ChieuNghiem>
+      <CoNhan>V??ng Chiêu Quân c?ng H?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u làm vi?c gì c?ng không ??ng, dù cho rán s?c làm ???c ?i n?a, r?i n?a ch?ng c?ng h? vi?c, danh thành r?i b?i, l?i có r?i m?t, nên ?ó r?i l?i h? li?n vi?c gì c?ng không thu?n, lao kh? l?m, b?nh ch?c hung, c?t nh?c phân tranh, ph?i ch? th?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="36">
+      <Hang>2</Hang>
+      <XamChu>Công danh phú quí t? n?ng vi
+Ng?u tr??c tiên ti?n m?c v?n y
+V?n lý ??ng trình quân h?u t?n
+Ngô s?n ??nh th??ng h?o tâm qui.</XamChu>
+      <YNghia>T? mình c?u m?i ???c giàu sang
+Th?y k? ??c th?i ch? th? than
+Muôn d?m c? ?? ng??i có ph?n
+Lên non chót vót c?ng bình an.</YNghia>
+      <ThanhY>c?u danh l?i có mà ch?m, ki?n ??c lý, b?nh m?nh l?n,hành nh?n cách tr?, hôn nh?n h?p, c?u con ??ng, c?u tài thì h??ng Nam ??ng, h??ng B?c không khá.</ThanhY>
+      <ChieuNghiem>Ng??i ? ??t Bích Trung cha con b? gi?c, ch?y l?c lên núi Ngô S?n ??n c?a mi?u g?p nhau.</ChieuNghiem>
+      <CoNhan>La Ân c?u quan.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, vi?c chi ??i ch?m ch?m thì t?t l?m, mình c?ng ???c vinh hoa phú quí nh? ng??i ta v?y. Mình có ph?n giàu sang nh?ng lo bây gi? ch?a t?i th?i, v?y ??ng than th? sao mà mình ch?m tr?, thôi ??ng nóng n?y không t?t, ?? ch? ch?ng g?p v?n th?i thì s? ???c t?t ch?ng sai, ?i xa làm ?n bu?n bán khá, còn ? nhà thì tr?c tr? lôi thôi.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="37">
+      <Hang>2</Hang>
+      <XamChu>Ph?n h??ng lai cáo ph?c hà t?
+Thi?n ác bình phân nh? t? tri
+Bình ph??c mu?i công tâm lý s?
+Xu?t môn vô ng?i th? thông th?i.</XamChu>
+      <YNghia>Kh?n vái ??t h??ng c?u n?i gì
+D? lành phân ??nh t? mình tri
+B? ?i?u ám mu?i làm ?i?u chánh
+Th?i v?n hanh thông m?i ??n k?.</YNghia>
+      <ThanhY>Ki?n hòa thì t?t, b?nh c?u tr?i, tài ít, công danh ch?a g?p, hành nh?n v?, hôn nh?n hi?p ???c, ph?i làm lành.</ThanhY>
+      <ChieuNghiem>Ng??i làm vi?c quan chi?m qu? xâm này c?u buôn bán, sau ki?m ???c l?i nhi?u ???c giàu có, b?i ?ng v?i hai câu chót 3 và 4 có m?t ng?òi mu?n h?i ng??i ta t? nhiên h?i mình.</ChieuNghiem>
+      <CoNhan>Tri?u Nghiêu Phu chúc h??ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th??ng, chi?m ?u?c qu? xâm này thì làm vi?c chi c?ng ph?i ngay th?ng, tâm ph?i chánh tr?c, công bình công vi?c mình mu?n làm ?ây tuy ng??i phàm không bi?t, ch? thánh th?n ?ã th?y rõ, n?u mình mu?n làm gian d?i và mu?n h?i ng??i ta thì ?t tr? l?i h?i mình, b?ng làm lành, làm c?u ph??c thì t? nhiên cái x?u, cái tai h?a nó s? tiêu tan mà tr? l?i có ph??c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="38">
+      <Hang>4</Hang>
+      <XamChu>Trùng ngâm t?c túc th? cô di
+Thiên lý quy?n quy?n v?ng tín quy
+??ng ??c vinh huê công t? ?áo
+Thu ?ông khoát khoát võ phi.</XamChu>
+      <YNghia>D? ngâm réo r?t ch?u phòng không
+Tin t?c v?i v?i h?t s?c trông
+Ngóng ??i bông lông công t? ??n
+Thu ?ông m?a t?c v?n long ?ong.</YNghia>
+      <ThanhY>Tài l?c và ki?n th?a ??ng h?i ??n, ng??i ?i xa ch?a v?, b?nh còn n?ng, hôn nhân ch?a nên, hay chiêm bao th?y b?y b?, ph?i c?u tr?i, mùa Thu ?ông ch?ng t?t, e có tang ph?c.</ThanhY>
+      <ChieuNghiem>M?t ng??i mu?n h?i vi?c công danh, chi?m ???c qu? xâm này, r?i sau c? lo r?u hoài. M?t ng??i mu?n vào tr??ng h?c, chi?m qu? xâm này thì v? ch?t, ng??i h?c trò ?i thi chi?m qu? xâm này thì b? m?a d?m d? ?i thi không ???c.</ChieuNghiem>
+      <CoNhan>M?nh Kh??ng T? r?u nh? ch?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, chi?m ???c qu? xâm này thì ??ng có h?i n?a, ??ng ?i, ??ng làm chi h?t, 9 ngày r?u, 10 ngày s?. Vinh hoa phú quí nh? n?m chiêm bao, tr?m vi?c ch?ng có tình ngh?a gì h?t,?i ra r?i tr? v? không. Vi?c chi c?ng ??u h? danh và thi?t, công danh không ???c, buôn bán b?t l?i, m?t v?n mà v? con ?au.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="39">
+      <Hang>4</Hang>
+      <XamChu>B?c S?n môn h? h?o an c?
+Nh??c v?n chung th?i thân khuy?t s?
+Kham ti?u bao tàn h?a ?a s?
+Lân h?ng tùy ti?n m?c tu th?.</XamChu>
+      <YNghia>B?c S?n phía tr??c ???c bình an
+Mu?n h?i m?ng th?i tr??c ph?i toan
+C??i k? bao hàm thêm r?n vi?c
+Nh?n tin tùy ti?n ch? th? sang.</YNghia>
+      <ThanhY>B?nh ??i th?y, ki?n ph?i c?u hòa, tài không có, công danh không ??ng, hôn nh?n khó, hành nh?n cách tr?, ai d? m?c ai, ta c? làm lành hoài thì m?i ???c vô s?.</ThanhY>
+      <ChieuNghiem>M?t ng??i nhà giàu quê ? Giang H?u, ng? t?i ??t Kim Giang ki?m ??t ??ng chôn cha, chi?m ???c qu? xâm này l?a ??t không ???c, sau ra c?a K? Lân xem ??t, x?y th?y hòn núi, h?i ra m?i rõ tên là B?c S?n, bèn ki?m ??t chôn cha (?ng n?i câu ??u).</ChieuNghiem>
+      <CoNhan>?ào Nguyên Minh Th??ng cúc b? công danh.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, làm vi?c chi ph?i làm k? l??ng, c?n th?n, ??ng nghe l?i ng??i ta nói, ph?i phòng ng??i ta ?em h?a ??n cho mình, còn nh? th?y ng??i mu?n h?i mình thì c? làm thinh mà nh?n, c? an thân th? ph?n thì t?t, ??ng bàn tính v?i ng??i khác vì h? không có b?ng t?t v?i mình, v?y hãy an thân th? ph?n. B?nh s? khó.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="40">
+      <Hang>2</Hang>
+      <XamChu>Tân lai quán ??c h?o qui mô
+Hà d?ng tùy tha b? d? b?
+Ch? thính nh? biên tiêu t?c ?áo
+K? khu l?c t?n ki?n hanh cù.</XamChu>
+      <YNghia>??i m?i làm nên ??ng c?a nhà
+Tin theo ng??i ?t nh?c lòng lo
+Lóng tai nghe ??i tin lành ??n
+Cam kh? h?t r?i m?i thành gia.</YNghia>
+      <ThanhY>Danh l?i thành, ki?n ch?c th?ng, thai sanh trai, b?nh ph?i phòng tr??c thì an, t?i ?âu c?ng có tài, làm vi?c chi ch?m rãi thì t?t.</ThanhY>
+      <ChieuNghiem>??t Ngô có anh h?c trò giàu theo anh em b?n d?t qua Nam Kinh, chi?m ???c qu? xâm này, sau vì ch?i b?i trác táng tiêu xài h?t phân n?a gia tài mà vi?c ch?ng nên, r?t cu?c sau g?p ng??i h? Ki?u k?t tình bèn dùng nghi?p nho cho thi ??u.</ChieuNghiem>
+      <CoNhan>H?n Quan Võ b? vây, sau gi?i vây.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t mà x?u, vì t?i n?i mình tính khéo cùng d?ng hay ho?c d?, ch? nghe l?i ng??i ta mà b? th?t b?i, ph?i dè d?t gi? mình tùy c? ?ng bi?n, và rán s?c cho thi?t kh? m?i thành công, trong nhà l?i thêm vui vì vi?c c?a mình làm không gi?ng nh? ng??i ta nói, ph?i ??n ch? mà coi mà tính, còn nh? ngóng trông vi?c ?ó không ??ng, thì nên sang qua vi?c khác, làm vi?c chi mình ph?i ?i làm l?y thì ??ng t?t, B?o ng??i ta ?i làm thì x?u mà h? vi?c, t? d?ng t?c ki?t, d?ng nh?n t?c hung, danh l?i ch?m, công danh sau m?i thành.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="41">
+      <Hang>2</Hang>
+      <XamChu>T? Nam t? B?c t? Tây ?ông
+D?c ?áo thiên nhai thi tác ??
+Ng? th? phùng ng?u tam l?ng ??ch
+H?o t??ng danh tánh b?n ??u ??.</XamChu>
+      <YNghia>Cùng Nam c?c B?c chí ?ông Tây
+Ý mu?n lên tr?i thi?t khó mong
+G?p Tý S?u là ngày ki?t nh?t
+Tên ?? b?n qu? g?n nên công.</YNghia>
+      <ThanhY>Ki?n ch?a xong, b?nh ?a ?u, hôn nh?n ch?a hi?p, hành nh?n có tin, qua xuân thì khá, g?p n?m tháng ngày Tý S?u thì phát ??t. Bài xâm này b?nh x?u l?m, khó m?nh e s? không qua ???c tháng Tý, còn nh? qua ???c tháng Tý S?u thì còn may ch?y ???c.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi vào tr??ng g?p khoa thi Giáp Tý nên thi ??u.</ChieuNghiem>
+      <CoNhan></CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng ch?m v? h?u lai m?i t?t, tr?m vi?c gian nan l?m ch?a to?i lòng, v?y mà sau cu?i m?i ??ng vi?c, mùa ?ông tháng 10, 11, 12 thì làm nên vi?c. Phú quý t?i h?u, công danh mu?n, hôn nh?n t?t, sau m?i yên, b?nh thì khó ph?i l?a th?y gi?i và ch?m m?nh.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="42">
+      <Hang>3</Hang>
+      <XamChu>Ngã t?ng h?a nh? s? hòa giai
+Thùy li?u t? vi nh? t? oai
+??n c?i tân ?? m?c y c?u
+?inh m?u ?ng ??c x?ng tâm hoài.</XamChu>
+      <YNghia>Ta t?ng cho gã nh?ng ?i?u hay
+Nào l?i dè ?âu s? ch?ng may
+Canh c?i m?i thôi ??ng theo c?
+Kinh dinh m?u s? th?a lòng ngay.</YNghia>
+      <ThanhY>B?nh ??i th?y, ki?n gi?i hòa, hôn nh?n không trông ???c, hành nh?n ch?m v?, có thai sanh trai, mu?n có l?i ph?i c?i ngh? khác, công danh ch?a to?i, danh l?i ph?i ??i ch?, xu?t hành th?ng th?ng ?i.</ThanhY>
+      <ChieuNghiem>Anh h?c trò lâu nay h?c v?n, chi?m ???c qu? xâm này bèn c?i ngh?, b? v?n h?c võ, sau g?p vua m? khoa thi võ, anh h?c trò thi ??u t?n s?.</ChieuNghiem>
+      <CoNhan>??ng V?nh bán mình chôn cha (sau g?p v? tiên).</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, n?u chi?m ???c qu? xâm này thì ph?i c?i ngh? khác thì t?t, c?ng nh? h?c v?n b? ?i h?c võ sau thi ??u ???c. Tr?m vi?c chi c?ng ph?i ch?m rãi, c?n th?n ho?c c?i m?i, nhà c?a ph?i ??i ch?, b?nh ph?i ??i th?y, hôn nh?n ph?i ki?m ch? khác. Mình nói mình là anh hùng ?t ???c vi?c dè ?âu có ng??i anh hùng h?n mình mà tranh v?i mình.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="43">
+      <Hang>3</Hang>
+      <XamChu>Nh?t ch? quan th? h?a c?p thôi
+Bi?n chi t?c h? l?ng nh? lôi
+Tuy nhiên m?c h? ?a kinh hi?m
+B?o nh? bình an kh? ph?c h?i.</XamChu>
+      <YNghia>Có trác nhà quan g?i ??n quan
+Thuy?n con g?p sóng gió ba ?ào
+Tuy là tr??c m?t nhi?u nguy hi?m
+Ta h? kh? h?i ch?ng có sao.</YNghia>
+      <ThanhY>Công danh có, ki?n không khá, b?nh thêm lo, sonh không h? gì, sau ???c yên, m?t c?a ki?m ???c, hành nh?n h?i, c?u tài d?.</ThanhY>
+      <ChieuNghiem>Anh h?c trò ?i thi g?p nh?n m?ng, m?c ki?n th?a tr?c tr?, chi?m ?u?c qu? xâm này, sau quan Tri Hi?n th?y rõ bèn cho vào tr??ng thi ??u.</ChieuNghiem>
+      <CoNhan>L?u Huy?n ??c h?i y?n v?i Tào Tháo.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, ti?n hung h?u ki?t, tr??c lo sau m?ng, s? không thi?t s? mà m?ng thì thi?t m?ng, nh? mu?n m?u s? h?i ai, thì công vi?c nó r?i li?n li?n g? không ra. Công danh nh? ?i thi ??u, thi t?t. Còn không ??u thì e s? có b?nh ho?n và th? phi. Ki?n th?a hay b?nh thì nguy hi?m mà sau ???c b?nh yên, b?nh m?i mau m?nh, b?nh c? lâu m?nh ch? không sao.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="44">
+      <Hang>5</Hang>
+      <XamChu>Nh? th? nh?n trung t?i ki?t nh?n
+Ngô vi ng? tác t?n tinh th?n
+Kiên lao nh?t ni?m thù h??ng ni?m
+Phú quí vinh huê t?t nh? thân.</XamChu>
+      <YNghia>Ng??i thi?t lòng t?t ?? ngh?a nh?n
+Nghe l?m làm qu?y t?n tinh th?n
+??t h??ng trì chí th??ng c?u nguy?n
+Phú quí vinh hoa ???c ?m thân.</YNghia>
+      <ThanhY>ki?n ch? gây, b?nh c?u th?y u?ng thu?c s? m?nh,, hôn nh?n ??ng c?u, hành nh?n có v?, th??ng nên c?u kh?n thánh th?n phò h? cho.</ThanhY>
+      <ChieuNghiem>M?t ng??i con nhà giàu tánh hay kiêu ng?o, ch?ng kính m? cha, chi?m ???c qu? xâm này bèn c?i ch?a t?i l?i và hi?u th?o v?i cha m?, sau thi ??u Phó B?n, cha con ???c h??ng ph??c, b?i nh? ch?a l?i h?n ??t h??ng vái c?u.</ChieuNghiem>
+      <CoNhan>V??ng Mãn soán v?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, chi?m ???c qu? xâm này ph?i r?n mình ??ng kiêu c?ng thì m?i kh?i h?i h?n, tr?m vi?c ??ng nóng n?y, dè d?t c?n th?n lo l?ng thì m?i nên ???c, k? hay mà mình ph?i kiên tâm làm lành, thì sau dung thân c?ng ???c có c?a, c?ng ???c vinh hi?n, ch?ng c?n làm vi?c chi cho m?t công. Danh l?i ph?i nh?n nh?n ??ng g?p, ?i thi nên dè d?t thì ??u ???c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="45">
+      <Hang>5</Hang>
+      <XamChu>H?o t??ng tâm ??a l?c canh vân
+B? th? s?n ??u t?ng th? ph?n
+Âm ??a b?t nh? tâm ??a h?o
+Tu vi ?áo ?? kh??c du vân.</XamChu>
+      <YNghia>Toan lo g?ng s?c vi?c cày b?a
+??t cát mã m? ph?i l?c l?a
+Ru?ng ??t ?âu b?ng lòng d? t?t
+Trau d?i âm ??c ph??c d? th?a.</YNghia>
+      <ThanhY></ThanhY>
+      <ChieuNghiem>T?i qu?n Giang Nam có m?t anh h?c trò ? ??t Giang H?u ?i thi ???c Ph? huy?n tr?ng d?ng, nên b?n h?c trò kia phát ghét, nên ch?ng t?i tr??ng ???c bèn chi?m ???c qu? xâm này v? ch? c?.</ChieuNghiem>
+      <CoNhan>Cao T? tr?m Tr?nh Công.</CoNhan>
+      <LoiBanCuaDichGia>Chi?m ???c qu? xâm này thì ??ng c?u tài, có c?u c?ng không có, ph?i an thân th? ph?n, ph?i nh?n thua nh?n thi?t, r?i sau s? ??n cho mình s? t?t, lúc nào c?ng ph?i gi? mình dè d?t m?i ???c bình yên. Tr?m vi?c chi v?ng b? ? quy?n hi?p ch? mình, mình không th?ng ???c ph?i nh?n nh?n nó, th?ng th?ng tr?i c?ng cho mình làm ???c vi?c và ngày sau vi?c ?ó c?ng tr? v? mình, nh?ng mình ??ng có tranh h?n thua, ??ng h?i nó, mình ph?i l?y lòng t?t mà ? thì tr?i c?ng cho v? mình, công danh t?i h?u.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="46">
+      <Hang>5</Hang>
+      <XamChu>Quân th? s?n trung v?n h? h?u
+Tín tri k? mã th?ng k? 
+Kim triêu mã th??ng khán s?n s?c
+Tranh t? k? ng?u ??c t? do.</XamChu>
+      <YNghia>Ng??i thi?t trong ??i ??ng b?c H?u
+Nghe r?ng c?i ng?a s??ng h?n trâu
+Nay ng?i ng?a ch?ng nghe s?n th?y
+M?i bi?t c?i trâu kh?i s? âu.</YNghia>
+      <ThanhY>Danh l?i ch? tham c?u, ki?n th?a không th?ng, hành nh?n ch?m v?, hôn nh?n ??ng h?a, ?i ??ng ph?i cho c?n th?n, c?i trâu lâu mà yên, ngh?a là d?c t?c b?t ??t, g?p ngày S?u, tháng S?u ho?c ngày Ng? thì t?t.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò n?m S?u thi ??u tr??ng nh? Tam ??ng, qua n?m Ng? thi ??u Trung ??ng, qua tr??ng t?nh thi r?t vì nghèo b? ???ng xá xa xôi, không ti?n l? phí b? ng?t, nên nói ch?ng b?ng c?i trâu.</ChieuNghiem>
+      <CoNhan></CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, có nhi?u vi?c ng?n tr?, làm vi?c chi c?ng không ra gì h?t, ph?i an thân th? ph?n thì kh?i tai h?a, có chuy?n th? phi v?y ??ng h?i danh l?i. Thôi ph?i an ph?n ? nhà mình thì kh?i n?n tai, mình h??ng c?a mình ??ng làm vi?c chi h?t thì m?i bình an ???c, c?u b?nh khó m?nh, c?u danh thì khoa d??i ??u, khoa trên r?t, mà ph?i g?p ngày tháng n?m S?u, ho?c Ng? thì m?i ???c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="47">
+      <Hang>4</Hang>
+      <XamChu>D? quân v?n ng? ph?c thiên ngôn
+K? d?c bình hòa ti?t nh? oan
+T?ng ?áo trung hung quân k? th?
+Thi ? tr?ch d? b? tâm kiên.</XamChu>
+      <YNghia>D?u ng??i v?n ng? v?i thiên ngôn
+C?ng ch?ng b?ng hòa kh?i nghi?t khiên
+Th?a ki?n không xong ng??i nh? l?y
+?êm thanh gi? ch?t t?m lòng thi?n.</YNghia>
+      <ThanhY>Ki?n ch? gây ra s? e có hình ph?t, tài ch? tham b?nh ch?a an, hành nh?n tr?c tr?, hôn nh?n khó thành.</ThanhY>
+      <ChieuNghiem>M?t ng??i nhà giàu b? m?t ng??i nh? tu?i g?t 100 l??ng vàng mu?n ?i ki?n, nh?ng chi?m ???c qu? xâm này, ban ?êm xét: thu? tr??c mình ch?a giàu có m??n c?a m?t ng??i b?n 10 l??ng vàng mà ch?a tr? thì ng??i b?n ch?t và c?ng là ngày sanh c?a ng??i nh? kia, bèn th?t kinh h?i ng?, cho ng??i tu?i nh? 10 l??ng vàng và h?n ch?ng nào mày ch?t tao s? tr? gia b?i. T? ?ó m?i b? l??ng g?t.</ChieuNghiem>
+      <CoNhan>H?ng Võ ?ánh gi?c v?i Hán Bái Công ?? tranh công.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u ph?i ?n làm lành, ??ng sanh chuy?n thì h?a m?i tiêu, n?u tính x?o trá thì h?a tai t?i li?n li?n, ph?i t?nh trí mà trau d?i ??c h?nh m?i ???c. X?m này h?i ?i tu thì t?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="48">
+      <Hang>2</Hang>
+      <XamChu>??ng s?n thi?p th?y chánh ?ông hàn
+Huynh ?? hôn nh?n na ??c an
+B?t ng? h? ??u nh?n nh?t hoán
+Toàn gia nh? b?o h? trùng hoan.</XamChu>
+      <YNghia>Trèo non l?ng su?i lúc ?ông hàn
+Ch?ng v? anh em khó ??ng nhàn
+Ch?ng g?p qu?i nh?n ng?òi giúp ??
+C? nhà ai h? ???c toàn an.</YNghia>
+      <ThanhY>Ng? qu?i nh?n, ki?n ??ng yên, danh m?t c?u hao tài t?n c?a, hôn nh?n ph?i ?ình l?i, phòng bà con g?t g?m, g?p ngày D?n thì khá, m?t ?? ki?m ???c.</ThanhY>
+      <ChieuNghiem>??i vua Gia T?nh t?i thành Th??ng H?i b? gi?c vây g?p, ng??i trung thành chi?m ??ng qu? xâm này trong vài ngày có L? Tham T??ng kéo binh t?i gi?i vây.</ChieuNghiem>
+      <CoNhan>Tri?u Ng? N??ng tìm ch?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, nh? bàn vi?c gì ph?i có qu?i nh?n ?? ??u thì làm m?i nên ???c, b?ng không ph?i th?t b?i công vi?c. Tr?m vi?c nào khác nh? lên l?ng con h?c bay, thì ph?i ng?i cho ch?c ch?n, không thì ph?i té, khó d? hay nên h? c?ng t?i tr?i. Nh? b?nh thì s? t?n hao, l?i s? tang ph?c n?a.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="49">
+      <Hang>2</Hang>
+      <XamChu>B? th? gia c? ch? nh?t s?n
+Nh? hà t? cách qu? môn quan
+Nh?t nguy?t nh? than nh?n d? lão
+H?a ?a lao l?c b?t nh? nhàn.</XamChu>
+      <YNghia>Nhà c?a ?ó ?ây c?ng m?t ?àng
+C? sao tr?c tr? th? âm quan
+Ngày tháng thoi ??a ng??i già g?p
+Phú quí lao tâm thua ch? nhàn.</YNghia>
+      <ThanhY>Danh l?i khó, ki?n ph?i hòa, b?nh lâu m?nh, có l?i nguy?n, hôn nh?n ??ng mà s? b?t l?i, hành nh?n ch?m v?, ng??i ?i xa ph?i phòng 2 ng??i ?àn bà., trong nhà có tai b?nh, hành nh?n th?t v?t, s? ng??i trong nhà h?m h?i.</ThanhY>
+      <ChieuNghiem>Có m?t ng??i ? t?nh thành mu?n qua qu?n khác buôn bán chi?m ???c qu? xâm này không t?t, trong nhà c?ng không cho ?i, ng??i ?y ch?ng nghe c?ng ?i, tr?n n?m ?y không rãnh vi?c c?ng không ng??i ký thác, b n?m v? ch?a k?p và ch?t t?i x? ng??i.</ChieuNghiem>
+      <CoNhan>Tr??ng T? Phùng ?n tích (?i tu).</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, không nên vi?c gì h?t, ph?i th? c?u là cách hay nh?t, ??ng bày vi?c gì h?t, ph?i ch? th?i ?? lòng trong s?ch, b?n ph?n thong th? thì làm m?i nên công, ph?i coi ch?ng có ng??i ?àn bà m?u h?i, ph?i dè d?t ??ng t??ng ng??i ta thân v?i mình, nhìn b? ngoài h? thân ch? b? trong không có tình ngh?a gì h?t, ?i ???ng coi ch?ng có ác nhân xâm h?i. B?nh có tà ho?c có l?i vái.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="50">
+      <Hang>2</Hang>
+      <XamChu>Nh?n thuy?t kim niên th?ng c?u niên
+Gi? tu b? b? y?n châu truy?n
+Nh?t gia hòa khí ?a sanh ph??c
+Thê ph? xàm ngôn m?c thính biên.</XamChu>
+      <YNghia>N?m nay ng??i nói th?ng n?m r?i
+Gi? gìn t? b??c ch? lôi thôi
+Hòa hi?p m?t nhà sanh ph??c l?n
+Ch? nghe l?i xi?m t? ngoài môi.</YNghia>
+      <ThanhY>Xu?t hành t?t, c?u tài ??ng, b?nh v?ng vàng, hôn nh?n thành, ki?n mau hòa, hành nh?n v?.</ThanhY>
+      <ChieuNghiem>M?t ng??i l?m nghe l?i ng??i v? xúi, mu?n cùng ng??i em chia gia tài, chi?m ???c xâm này bèn rõ l?i gian n?nh c?a v?, bèn ?n n?n, m?i cùng ? chung v?i em nh? c?, ng??i em sau buôn bán xa ??ng l?i, giàu to cùng ng??i  anh t?n h??ng tr?n ??i.</ChieuNghiem>
+      <CoNhan>Tô ?ông Pha d?y dân.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng mà ??ng nghe l?i gièm, n?nh, ??ng nghe l?i ?àn bà nói ra nói vô v? gia ??o h?ng suy, b?i t?i n?i ?ó, tr?m s? ph?i dè d?t c?n th?n, s? trong nhà có lo?n h?a, ??ng tin ng??i ta vì nó mu?n l??ng g?t. Anh em ? chung thì tài l?c nhi?u, m?u s? qua mùa xuân m?i t?t, công danh ch?a to?i ??ng</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="51">
+      <Hang>2</Hang>
+      <XamChu>Quân kim bá s? th?a tùy duyên
+Th?y ?áo c? hành thính t? nhiên
+M?c thán niên lai b?t nh? ý
+H? phùng tân v?n x?ng tâm ?i?u.</XamChu>
+      <YNghia>Ng??i nay tr?m vi?c ph?i tùy duyên
+N??c ch?y nên sông l? t? nhiên
+Ch? s? sang n?m công vi?c th?t
+S? m?ng v?n t?t th?a lòng nguy?n.</YNghia>
+      <ThanhY>Danh g?n có, ki?n g?n ??ng, tài có, hành nh?n có tin v?, hôn nh?n hi?p, v?n m?ng hanh thông, thai sanh trai, bình an ???c.</ThanhY>
+      <ChieuNghiem>M?t ng??i chi?m ???c qu? xâm này, hành tr?i trong ch?n giang h? buôn bán ch?ng l?i, có m?t ng??i khác nói r?ng: nhà ng??i m?ng thu?c Th? thì ph?i dùng n??c làm tài, còn nh? t? t?c m?ng l?i là vô th?y nên buôn bán không có l?i. Ba n?m sau v?n t?i quí th?y, nên ng??i buôn bán ?y phát ??t (?ng nghi?m câu 'Th?y ?áo c? hành').</ChieuNghiem>
+      <CoNhan>Tích ông Ng? Câu: L?u H?ng ?i?p.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, tr??c th?y tr?c tr?, sau s? th?y thong th? và v?a lòng, d??i con m?t th?y s? lo s? l?m, nh?ng ch?ng th?i t?i t? nhiên th?y s? t?t, mà công chuy?n hanh thông, ngày nay có s? tr?c tr? và nh?c lòng l?m, công danh không v?a lòng, buôn bán không ???c, th?i ??ng than th?, nên tùy duyên ph?n, ch? th?i nó t?i, thì th?y s? t?t s? m?ng cho mình, ??ng lo n?a thì t? nhiên s? t?t. ?p khó l?m, xu?t nh?p t?t, n?m m?i h?n n?m c?.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="52">
+      <Hang>2</Hang>
+      <XamChu>Ng?t t? u c? thán t?ch liêu
+Cô ??ng y?m ánh ?? thanh tiêu
+Hu?nh kim h?t báo Thu quan h?o
+H??t k? bi?n chu ?? b?c tri?u.</XamChu>
+      <YNghia>M?t mình hiu qu?nh th? than hoài
+?èn sách ??i th?i rán công mài Tài l?i ch?m mà có
+Thu ??n b?ng vàng may g?p ??ng
+Thuy?n hay ??a ??n ch?n v??ng ?ài.</YNghia>
+      <ThanhY>Danh l?i có, b?nh t?m yên, ki?n ???c yên, thai yên ?n, hôn nh?n h?p, hành nh?n g?n v?.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?ang ?i thi ch?ng ??u, bèn xin h?i th?i v?n, chi?m ???c qu? xâm này, sau d?i nhà ? B?c trào m?i thi ??u th? khoa.</ChieuNghiem>
+      <CoNhan>Tri?u Khuông D?n ??c sách.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, danh l?i ??ng mà mu?n màng, v?n s? hi?m tr? mà sau ???c vi?c, lòng lo r?u l?m mà không thi?t lo r?u, ?i thi ph?i rán h?c m?i ch?c thành danh, khoa c? qua mùa Thu thì t?t. Tài l?i ch?m mà có, vi?c gì qua mùa thu c?ng ???c t?t h?t, s? có tin m?ng, c?ng nh? chi?c ghe nh? ?i gi?a tr?i mà vô s?. Thánh ý nói: ch?ng khác nào chi?u vàng ch? ng??i ng?c, chi?u ng?c ch? ng??i quý, t?t c? ??u t?t nh?ng h?i ch?m.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="53">
+      <Hang>4</Hang>
+      <XamChu>Gian nan hi?m tr? l? khê nghiêu
+Nam ?i?u cô nhi y B?c sào
+Kim nh?t qu?i nhân t?ng th?c di?u
+T??ng phùng kh??c tai h? thu giao.</XamChu>
+      <YNghia>L? ?? hi?m tr? lúc lao ?ao
+Nam ?i?u lìa qua ? B?c sào
+N?u g?p qu? nhân ng??i ti?n d?n
+Qua thu h? m?i hi?p cùng nhau.</YNghia>
+      <ThanhY>B?nh và ki?n ??u b?t l?i, danh l?i ch?a có, hành nh?n ch?a v?, ng??i có thai ph?i lo s?, qua mùa thu có ng??i ch? d?n làm chi c?ng khá.</ThanhY>
+      <ChieuNghiem>??i nhà T?ng, vua Thi?u H?ng có t??ng tên là Nghi Sinh b? gi?c vây, l?p k? hay c?u ra kh?i, chi?m ???c qu? xâm này vào Kim Phiên hi?n k?, chúa Phiên cho làm quan Th??ng Th? Th?a T??ng, sau ?i s? nhà T?ng ti?t l?u quân binh b? ?ày.</ChieuNghiem>
+      <CoNhan>L?u B? c?u hôn c??i em Ngô Tôn Quy?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, chi?m ???c xâm này thì ph?i dè d?t, c?n th?n, ??ng lo?n tâm, ??ng r?i trí, vi?c chi c?ng có qu?i nh?n dìu d?t m?i nên ???c, nh?ng sau c?ng không t?t, công danh ??i qua mùa Thu m?i khá, hôn nh?n ban ??u ???c mà sau không ? ??i, c?u b?nh ch?c ch?t vì con chim lìa t?, b? ? ?i ch? khác.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="54">
+      <Hang>5</Hang>
+      <XamChu>V?n nh?n tòng lý x?ng anh hào
+Ti?n d?c phi ??ng tiêu h?n cao
+Tranh n?i th?y l?u phong vi ti?n
+Thanh ??ng hu?nh quy?n th? c?n lao.</XamChu>
+      <YNghia>Tr??c muôn ng??i tr? s?c anh tài
+Ngàn d?m tr?i cao chí mu?n bay
+Ch?nh ng?t n??c xuôi mà gió ng??c
+Sách ?èn c?n ph?i rán d?i mài.</YNghia>
+      <ThanhY>Công danh b?t l?i, không h?i chi, ki?n không nên, hôn nh?n khó tin, hành nh?n cách tr?, ph?i ??i th?i, b?nh ch?a yên, lám ngh? này ch?a khá, ph?i làm ngh? khác.</ThanhY>
+      <ChieuNghiem>: M?t anh h?c trò tu?i nh? ?i thi, ??u th? khoa, ra tr??ng l?n chi?m qu? xâm này thi r?t, sau làm th?y giáo tr?n ??i.</ChieuNghiem>
+      <CoNhan>Tô T?n ??c th? ?âm kim ??u g?i.</CoNhan>
+      <LoiBanCuaDichGia>Xâm ch? th?i, tr?m vi?c kh? tâm, vi?c làm tuy coi nh? làm mà có s? tr?c tr? t?i bây gi?, nh? chi?c ghe ?i thu?n gió, nh?ng mà có s? ng?n c?n, n?u thành m?t vi?c thì ph?i b?i m?t vi?c, tr?m vi?c nên c?n th?n gi? mình m?i ???c bình an.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="55">
+      <Hang>5</Hang>
+      <XamChu>C?m canh l?c tác m?c la ?à
+Y th?c tùy th?i an ph?n quá
+Túng s? kinh th??ng thâu b?i l?i
+B?t nh? tr?c th? l?m hào ?a.</XamChu>
+      <YNghia>Cày b?a g?ng s?c ch? d?n dà
+?n m?c ttùy th?i ch? xí xa
+D?u có bán buôn thâu nhi?u l?i
+Ch?ng b?ng lúa thóc ch?a ??y nhà.</YNghia>
+      <ThanhY>Tài ch? tham, danh ??ng h?i, ki?n ph?i hòa, b?nh không lo, hôn nh?n hi?p, hành nh?n h?i, ?n b?n th? ph?n ??ng bôn chôn, ??ng làm gì h?t, c?m xu?t nh?p.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò hay th?t tín và ph? l?i ??c, n?m sau ?i buôn bán ???c l?i nhi?u, khi ?ó g?p c??p ?ánh gi?t h?t ??, sau s?a n?t l?i ???c ra làm quan.</ChieuNghiem>
+      <CoNhan>Bao Công d?y cày ru?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, h? cái tánh h?nh ??ng khi tâm, c? lo làm vi?c ph?i, c? ngay th?ng thì sau ???c nên danh, ph?i hìn gi? lòng t?t ??ng x?o trá, không tránh con m?t tr?i ???c, ph?i an ph?n làm ngh? c?, kh?i lo r?u mà ???c bình an, b?ng canh c?i tính làm ngh? khác, tuy th?y t?t th?y l?i mà té ra ch?ng may l?i thêm m?t v?n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="56">
+      <Hang>4</Hang>
+      <XamChu>Tâm ??u lý khúc c??ng c? giá
+Tr?c d?c khi quân hành l? toàn
+Nh?t ?án x? hình lâm nguy?t c?nh
+Thân ??u hi?n dõng m?t t? ta.</XamChu>
+      <YNghia>Lòng ta ch?ng c?i c? tranh ?ua
+Ch?nh d?i buôn quan l? m? mua
+Tà chánh g??ng soi ?ã t? rõ
+Thân vào tù ng?c h?t h?n thua.</YNghia>
+      <ThanhY>Tài ch? tham, ki?n ch? gây, B?nh ph?i lo, ?i ???ng có tin v?, hôn nh?n ch? nghe l?i mai m?i, c? ngay th?ng mà làm thì kh?i tai h?a.</ThanhY>
+      <ChieuNghiem>M?t ng??i h?c trò chi?m qu? xâm này sau ???c ch?m vào tr??ng h?c.</ChieuNghiem>
+      <CoNhan>??i nhà T?ng có V??ng Khu M?t nham hi?m.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u, ph?i th?i b?, vi?c m??i ph?n thì r?u chín ph?n, m?t ph?n lo ph?i làm s? chánh tr?c, ?n nói ngay th?ng, n?u có ý gian trá s? b? t?i hình oan khiên nh?c nhã, ph?i an thân th? ph?n, ph?i th?p h??ng c?u nguy?n cho tai qua n?n kh?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="57">
+      <Hang>5</Hang>
+      <XamChu>S? ?oan bá xu?t lu?n tri t??ng
+M?c thính nh?n ngôn t? ch? tr??ng
+Nh?t tr??c tiên c? quân ký th?
+Phân phân náo lý cánh tu h??ng.</XamChu>
+      <YNghia>?a ?oan tr?m m?i c? lo hoài
+Mình ch? tr??ng mình ch? ??ng ai
+Ch?ng nh? th?n tiên l?i mách b?o
+L?ng x?ng l?n x?n c? lo hoài.</YNghia>
+      <ThanhY>Ki?n mau phân, b?nh c?u thu?c ???c thì mau m?nh, tin lành ??n, thai sanh trai, ph?i cúng thánh, th?n tài nh? th??ng, phòng ng??i ta xâm h?i, hôn nh?n b?t thành.</ThanhY>
+      <ChieuNghiem>M?t ng??i ki?n th?a lâu mà ch? yên, chi?m ???c qu? xâm này, sau nh? m?t ng??i anh em b?n cùng ng??i ki?n kia ?ánh c?, khi ?y h?i th?m vi?c ki?n th?a, bèn khuyên gi?i ???c hòa.</ChieuNghiem>
+      <CoNhan>Hà Loan coi ?ánh c?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng, ph?i dè d?t gi? mình, s? có th? phi, n?u ? h? s? có tai h?a, vi?c làm có nhi?u n?i l?ng x?ng, l?n x?n. T? mình suy ngh?, r?i t? mình làm vi?c ?t thì m?i nên ???c, h?i ng??i ta thì h? vi?c. Tr?m vi?c gì mình ph?i ch? tr??ng ??ng tin ai h?t, mà ph?i coi ch?ng ti?u nh?n xâm h?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="58">
+      <Hang>2</Hang>
+      <XamChu>Tô T?n tam th?n túc bình sanh
+Phú quý công danh t?i th? hành
+Cánh h?o tu vi âm ch?t s?
+Ti?n trình v?n s? lý hanh thông.</XamChu>
+      <YNghia></YNghia>
+      <ThanhY>B?nh yên, hành nh?n h?i, hôn nh?n hi?p, thai sanh trai, tích âm ch?t thì ph??c l?i ?ng, phòng th? phi kh?u thi?t ch? nghe ai.</ThanhY>
+      <ChieuNghiem>công danh ban ??u th?t b?i, r?i hai phen m?i ??ng thành công nên vi?c, b?i vì Tô T?n hai phen c?u quan m?i ???c mang ?n tr??ng.</ChieuNghiem>
+      <CoNhan>Tô T?n ?eo ?n ki?m.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, chi?m ???c qu? xâm này thì ph?i rán làm hai l?n thì m?i nên danh, vi?c gì h? mu?n thì ???c, nh?ng mà ph?i c? g?ng m?i thành công, làm m?t mình t? lo li?u ch? ??ng nghe l?i ng??i ta, làm nên nh? mi?ng l??i mà nên vi?c. Tài l?i to?i mà có, công danh ráng h?t s?c m?i ???c, ?i xa thì t?t, c?u tài ?c ??ng, công danh c?ng v?y, làm vi?c gì c?ng ???c là nh? âm ch?t, ? ph?i có âm ch?t</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="59">
+      <Hang>5</Hang>
+      <XamChu>Môn duy h? lãnh kh? linh ?inh
+T? khán k? c?u b?t nh?t linh
+H?nh h?u T? tông âm ch?t t?i
+H??ng yên di ?o?n th?c minh linh.</XamChu>
+      <YNghia>C?a nhà hiu qu?nh c?nh tang th??ng
+C?u thánh ch?ng linh ?a c?m th??ng
+May có ông bà tu ph??c ??c
+Con nuôi, con n?i l?a và h??ng.</YNghia>
+      <ThanhY>danh có toàn h?o, tài khó ki?m, ki?n không khá, hôn nh?n ??ng hi?p, tin ch?a có, bây gi? ph?i an ph?n th? c?u.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò chi?m qu? xâm này thi không ??u, m?t ng??i n?a c?ng thi không ??u, bèn hai ng??i m?i ??i tên h?, ??i làng xóm m?i thi ??u Th? Khoa (?ng theo câu 'H??ng yên d? th?c ?o?n minh linh' ).</ChieuNghiem>
+      <CoNhan>??ng Bá ??o không con.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng, ph?i làm lành âm ch?t thì môn h? m?i ???c bình an, nh? h?i vi?c c?u con n?i dòng thì t?t l?m, v? công danh hay tài l?i thì khó ki?m, may g?p n?m tháng hay ngày Mùi thì t?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="60">
+      <Hang>6</Hang>
+      <XamChu>Kiên quân huynh ?? h?o danh thinh
+Ch? quán khiêm huy m?c t? c?n
+??n chi?u hu? qu?nh t??ng b?c c?n
+Nguy nguy khoa giáp l??ng ??ng ??ng.</XamChu>
+      <YNghia>Huynh ?? ?? tài c? l??c thao
+??ng quên khiêm nh??ng ch? tâm cao
+T?c thì ng?c chi?u nhà vua tri?u
+R?c r? ??ng khoa danh ph?m cao.</YNghia>
+      <ThanhY>M?u v?ng ???c, ki?n ???c yên, tài l?c v??ng, thai sanh trai, bình yên , hành nh?n h?i, tin lành ??n.</ThanhY>
+      <ChieuNghiem>M?t ng??i ?ang c?t nhà l?n, chi?m ???c qu? xâm này, sau m?c vi?c quan trót m?t n?m không r?nh ???c.</ChieuNghiem>
+      <CoNhan>T?ng Giao, T?ng Ng?c anh em ??ng khoa (thi ??u m?t l??t).</CoNhan>
+      <LoiBanCuaDichGia>Xâm bán hung, bán ki?t, ng??i chi?m ???c qu? xâm này thì t?t l?m, ng??i thi?u ph??c chi?m ???c qu? xâm này thì không hay, vì t?t quá nó ra x?u, c?u b?nh khó m?nh, c?u công danh không ??ng, ph?i lo làm lành, khiêm nh??ng, ??ng t? kiêu, t? ??c thì m?i mong ???c vi?c, ??i qua thu m?i khá.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="61">
+      <Hang>5</Hang>
+      <XamChu>Túc t? s?n lâm hung ác thú
+Thi?n l??ng vô s? kh? ti?n ?u
+Ch? nh?n ??i ti?u xu?t môn kh?
+B?t d?ng can qua ??o t?c h?u.</XamChu>
+      <YNghia>T? h?i s?n lâm chúng ??ng hung
+Khi?n nên l??ng thi?n c?ng lo hung
+Ch? nhà c??i l?n ?i ra c?a
+Ch?ng nh?c can qua ??o t?c tùng.</YNghia>
+      <ThanhY>Tài bình bình, b?nh t?m yên, ki?n gi?i tán, hành nh?n v?, hôn nh?n h?p, tuy th?y hi?m nguy mà ???c bình an, phòng k? ti?u nh?n xâm h?i.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi chi?m qu? xâm này thi không ??u.</ChieuNghiem>
+      <CoNhan>Khoái Tri?t ra m?t Hàn Tín, c?n Hàn Tín ??ng v? tri?u, c?n không ???c, sau Hàn Tín ch?t vì L? H?u h?i, Khoái Tri?t gi? ?iên tr?n m?t.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th??ng, chi?m xâm này ph?i dè d?t, c?n th?n m?i ???c yên, ??ng d? ng??i, ph?i làm lành thì h?a m?i kh?i. ???ng danh l?i có b? hi?m tr?, sau có th? qua kh?i, c?u danh b?t l?i, tài bình th??ng, c?u b?nh ??ng m?nh.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="62">
+      <Hang>5</Hang>
+      <XamChu>Bá thiên nh?n di?n h? lang tâm
+L?i nh? can qua d?ng l?c thâm
+??c th?ng h?i th?i thu tr?m lão
+H? ??u thành lý h? t??ng t?m.</XamChu>
+      <YNghia>Bá thiên nh?n di?n h? lang tâm
+L?i nh? can qua d?ng l?c thâm
+??c th?ng h?i th?i thu tr?m lão
+H? ??u thành lý h? t??ng t?m.</YNghia>
+      <ThanhY>Ki?n ??c th?ng, tài có, bình yên, hôn nh?n thành danh to?i, ?i xa có tin v?, cu?i thu t? tháng 9 s?p t?i t?t.</ThanhY>
+      <ChieuNghiem>??i nhà Minh, ông L?u Thi?n Ý chi?m qu? xâm này, sau giúp Thái T? h?ng V??ng nghi?p r?i t? ch?c tr? v? an ?n n?i ??t C?u Châu.</ChieuNghiem>
+      <CoNhan>Hàn Tín ?ánh S? Bá V??ng ??i b?i.</CoNhan>
+      <LoiBanCuaDichGia>Xâm thi?t t?t, nh?ng mà không t?t, tr?m vi?c chi nh? công danh tài l?i, tuy mình s?c y?u, rán công rán chí thì làm nên vi?c c?, ???c lâu dài miên vi?n, danh l?i chung cu?c b?t to?i chí.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="63">
+      <Hang>5</Hang>
+      <XamChu>Mãn th?i b?i b?c th? ?? Nam
+Cân l?c tuy suy th??ng nh?t kham
+D?c th?c sanh ti?n quân ??i 
+Ti?n tam tam d? h?u tam tam.</XamChu>
+      <YNghia></YNghia>
+      <ThanhY>B?nh tr? ??ng, tài t?m th??ng, danh ch?a ??ng, hôn nh?n ?ôi ba l?n m?i xong, ho?c c??i ba l?n v? m?i nên. Ki?n trung bình, danh ch?m.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò m?c vi?c nhà l?n ??n 10 n?m ??n kinh s? x?y g?p khoa thi, anh em b?n khuyên ra tr??ng, v?a chi?m ??ng xâm này bèn ôn nhu?n kinh s? ra thi ??u ??ng s? 60 làm quan ? ??t Kinh Châu ???c 1 n?m, thôi làm quan v? ngh?.</ChieuNghiem>
+      <CoNhan>V??ng L?nh Công ??p ??u Lý L?ng bài.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th??ng, thánh ý nói tr??c c?ng v?y, sau c?ng v?y, n?u tr??c ta giàu có ho?c làm quan, ho?c buôn bán, vì t?i n?i s? m?ng nh? v?y, n?u c??ng c?u thì r?t kh? tâm, chi b?ng tùy b?n ph?n li?u s?c mà làm ch? ??ng c?u may, kh?i hành làm vi?c chi thì c?ng nên mà không kén, không ??y, không thêm không b?t chút nào, vì tr?i ?ã ??nh tr??c r?i, còn mu?n nhi?u n?a thì l?i c?c kh? mà l?i vô ích, v? l?i mu?n cho nên ???c vi?c thì ph?i rán s?c cho nhi?u m?i th?y ch? nên nh?t là ta ph?i toan li?u ng??i qu?i nh?n già c? thì kh?i th?t b?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="64">
+      <Hang>5</Hang>
+      <XamChu>Ki?t nh?n t??ng ng? b?n hòa ??ng
+H??ng h?u trí m?u thiên th?y ông
+Nh?n l?c b?t lao công thu?n hi?p
+S? thành công b?i ti?u ?àm trung.</XamChu>
+      <YNghia>Ng??i lành h?i ng? chí hòa ??ng
+Thêm n?i nên h? t?i thiên công
+Ch?ng nh?c s?c mình nhi?u k? giúp
+S? thành r?i l?i c?ng nh? không.</YNghia>
+      <ThanhY>Danh l?i có, hôn nh?n h?o, tin t?c có, b?nh mau lành, ki?n ??c ý, ng? qu?i nh?n.</ThanhY>
+      <ChieuNghiem>M?t ng??i làm quan Huy?n b? cách ch?c, chi?m ???c qu? xâm này, sau nh? trong h??ng ch?c Qu?n L? Thành ra s?c che ch? m?i kh?i t?i.</ChieuNghiem>
+      <CoNhan>Qu?ng Bào phân kim.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng không t?t, xin ???c xâm này thì v?n s? bình an, vi?c gì c?ng không t?n không th?i, tr??c sau c?ng v?y, tr?m vi?c ??u lôi thôi r?i n?a ch?ng b? ph?, ho?c không có tin t?c chi n?a, ho?c b? l??ng g?t, ho?c ng??i ta nói d?i không ch?c chi h?t, còn nh? mu?n làm vi?c ?ó l?m, thì ph?i coi l?i cho k?, mà ph?i hi?p ý m?i có l? nên vi?c, nh?ng sau e c?ng b? ph?, danh l?i bình bình, buôn bán không ??ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="65">
+      <Hang>6</Hang>
+      <XamChu>S?c phong l?m l?m chánh cung ?ông
+?a s? môn ?ình l? khí mong
+Cánh nh?p tàn xuân nh?n s? h?u
+Lý ngôn t??ng ??c tín tiên dung.</XamChu>
+      <YNghia>Hiu hiu gió th?i cu?i mùa ?ông
+Gia ??o vui v?y muôn vi?c thông
+N?m m?i b??c qua ng??i ??ng to?i
+Công lao tin t?c tr??c ??u xong.</YNghia>
+      <ThanhY>Tài n?ng nhi?u, danh cao, ki?n ??c lý, hành nh?n có tin v?, bình yên, cu?i ?ông qua Xuân khá l?m, g?p qu?i nhân ch? d?n.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò khó ?i thi, ch?u nhi?u c?c kh?, chi?m ?u?c qu? xâm này sau thi ??u làm quan.</ChieuNghiem>
+      <CoNhan>Mông Chánh và M?c Lang hòa thi.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, vô ý ph?n thành ??c ý, coi vi?c bây gi? x?u mà sau nó t?t, vi?c mình mu?n mà không ??ng, còn cái vi?c t?t mình vô ý không t??ng t?i mà ??ng vi?c, cu?i ?ông qua Xuân tr?m vi?c ??u t?t (???c t?t ch?m r?i ??ng g?p).</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="66">
+      <Hang>6</Hang>
+      <XamChu>Canh vân ch? kh? t?i h??ng ban
+Hà d?ng c?u m?u h??ng ngo?i ph??ng
+Ki?n thi?t kim niên tân v?n h?o
+Môn lang h? khí s? song song.</XamChu>
+      <YNghia>Cày b?a ch? ? t?i làng ta
+Ch?ng ph?i c?n lo ??n x? xa
+Tin v?n th?i nay ?ã th?y t?t
+Gia ?ình vui v? l?c tài ?a.</YNghia>
+      <ThanhY>B?nh yên, tài g?n ??ng, ki?n không t?t, hành nh?n h?i, hôn nh?n hi?p, thai sanh trai, phong th?y t?t, gia tr?ch an, mu?n làm gì ? x? mình ??ng l?i, ?i qua x? khác b?t l?i. Không nên ?i xa.</ThanhY>
+      <ChieuNghiem></ChieuNghiem>
+      <CoNhan>?? Ph? du xuân, Gia Cát ?n Nam D??ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng mà ph?i th? c?u ??ng có t?n b?, ph?i an ph?n th? ph?n, ch?ng c?n làm vi?c chi khác thì ???c hi?n vinh kh?i lo r?u. Thánh ý d?y: ph?i ? nhà ??ng ?i xa, làm ?n buôn bán ho?c c?u công danh t?i x? mình ??ng t?t, mình n?m nhà t? nhiên tài l?c c?ng ??n, n?u c??ng c?u mà làm vi?c l?n, ?i xa thì e làm l?n mà hoá ra v?ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="67">
+      <Hang>2</Hang>
+      <XamChu>Chung phát quân tâm thiên ký tri
+Hà tu v?n ngã quy?t h? nghi
+Nguy?n t? c?i ?? tùng hi?u ??
+B?t s?u gia hoán b?t t??ng nghi.</XamChu>
+      <YNghia>Lòng ng??i mu?n tính tr?i ?ã ngh?
+C?n ph?i h?i ta d? hoài nghi
+C?i b? vi?c tà lo hi?u ??
+Trong gia ?ình ?t h?t suy vi.</YNghia>
+      <ThanhY>Ki?n hòa là h?n, b?nh ??i th?y, tài không có, hôn nh?n ch?m, hành nh?n ch?a v?, thai sanh trai, mau mau c?i hóa t? tâm, làm lành lánh d? thì h?a kh? ph??c lai, thi?n ác h?u báo, c?n gì ph?i h?i ta n?a.</ThanhY>
+      <ChieuNghiem>??i vua V?n L?ch, tên Qu?ng làm quan ??t Liêu T? (?) làm lo?n trong lòng s? bèn chi?m xâm này x?y g?p ??t Liêu v??ng b? vây, sau qua ??t H? Qu?ng, huy?n Hi?u C?m ???c bình yên và g?p s? t?t.</ChieuNghiem>
+      <CoNhan>Tô Hu?nh than khóc.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?m th??ng, làm lành g?p lành, làm d? g?p d?, v?y ph?i l?p chí tu hành, thì tr?i chuy?n h?a kh? ph??c lai và ???c ti?n nan h?u d? gia ??o yên, anh em thu?n hòa ???c, thì ???c ph??c.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="68">
+      <Hang>5</Hang>
+      <XamChu>Nam phiên trân châu B?c phiên diêm
+Niên lai k? h?i hóa tài thiêm
+Khuy?n quân ch? th? c?u ?i?n xá
+Tâm d?c ?a th?i há nh?t yên.</XamChu>
+      <YNghia>Nam bán trân châu B?c bán diêm
+Mong n?m t?i ???c c?a thêm ti?n
+Khuyên ng??i nhiêu ?ó mua nhà c?a
+N?u mu?n nhi?u vi?c lòng ch?ng yên.</YNghia>
+      <ThanhY>Ki?n g?n xong, ??ng tái chi?n, danh nên, hôn nh?n kh? ??nh, b?nh g?n m?nh, hành nh?n v?, thai sanh gái, khá an ph?n, buôn bán hay làm chi có ti?n thì mau mau mua ru?ng ??t c?t nhà, ? h??ng Nam h??ng B?c có l?i, nh?ng xin v? công danh thì x?u, còn xin mua bán thì t?t, nh?ng v?a thì thôi ??ng tham l?m thì có s? h?i.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi, chi?m ???c xâm này, sau ?i thi ?ng thí ch?ng vào ???c tr??ng thi.</ChieuNghiem>
+      <CoNhan>Ti?u Thiên V??ng bán mu?i.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, c?u tài và mua bán ???c, nh?ng mà v?a ph?i thôi ??ng ham nhi?u, vì ham nhi?u ?t h?a tai, công danh bình th??ng, còn nh? mu?n ???c thanh nhàn thì là an ph?n là hay, ??ng c?u h?i n?a.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="69">
+      <Hang>4</Hang>
+      <XamChu>Xã chu t??ng l? t?ng t??ng nghi
+Thân v?t hí du tr?c qu?i nh?
+Nh?t d? tôn ti?n huynh d? ??
+Minh triêu c?u ??ch h?u t??ng tùy.</XamChu>
+      <YNghia>?i b? b? ghe c?ng ??ng yên
+Ch? vui say ??m b? con hi?n
+M?t ?êm quá chén anh em ngh?ch
+C?u ??ch ngày mai tr? m?t li?n.</YNghia>
+      <ThanhY>Danh l?i ch? c??ng c?u, u?ng thu?c ph?i l?a th?y gi?i, hôn nh?n khó, hành nh?n v?, ki?n ph?i h?i, ?i ?âu ph?i c?n th?n, khuyên ch? quá chén, phòng ng??i bà con, anh em h?i, vi?c lành sanh d?, phòng kh?u thi?t.</ThanhY>
+      <ChieuNghiem>N??c S? có m?t ng??i h?c trò qua n??c T?n, ra m?t quan ??i phu, chi?m ???c qu? x?m này, sau cùng công t? vui ch?i nói bi?m nh?, bèn nh? l?i bài xâm này b? ra v?, s? b? h?i.</ChieuNghiem>
+      <CoNhan>Tôn T?n và Bàng Quyên ??u trí.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u, phòng ti?u nh?n xâm h?i, phòng th? th??ng, phòng thân nhân, bà con xâm h?i. ??ng tin, ??ng nghe, ??ng làm quen mà b? thi?t h?i, v?y ph?i phòng ng?a l?m m?i ???c bình an, công vi?c làm mình th?y ??c ý mà sau l?i th?y th?t b?i li?n li?n, b?nh ?au lâu m?nh, thai sanh trai, có thai ph?i phòng ti?u s?n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="70">
+      <Hang>5</Hang>
+      <XamChu>Lôi võ phong vân các h?u t?
+Chí thành ??o cáo m?c sanh nghi
+Gi? quân ??nh ??c vi lâm nh?t
+Chánh th? ôn long trung ph?c thi.</XamChu>
+      <YNghia>M?a gió có ch?ng ??nh m?i khi
+Chí thành c?u kh?n ch? h? nghi
+V?i ng??i ??nh ch?c qua canh nh?t
+V?n t?t n?i mùa h? phúc thi.</YNghia>
+      <ThanhY>Ki?n và b?nh t?m gi?i, danh l?i có mà ít, qua quí H? tháng 6 khá nhi?u, g?p ngày Canh thì t?t, hôn nh?n ph?i ??i, hành nh?n có tin v?, ti?n hung h?u ki?t, bài này xin nh?m mùa H? thì t?t.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i ?ng thí chi?m ???c qu? xâm này thi ??u nh? ??ng.</ChieuNghiem>
+      <CoNhan>???ng T?ng c?u ??o.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng ph?i ??i th?i, ph?i ch?m m?t chút m?i t?t, ph?n giàu nghèo ??u ?ã ??nh tr??c, mùa h? mà xin ???c x?m này thì t?t l?m, có l?i, công danh hay c??i h?i, ch? ??i vi?c gì c?ng trong 3 ngày có tin bi?t ???c ??c hay th?t, ho?c 3 tháng ho?c 3 n?m m?i ???c thành công. ??i qua Thu ?t ???c bình an.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="71">
+      <Hang>5</Hang>
+      <XamChu>H? Th??c khi?m ti?n báo h?o âm
+Tri quân thiên lý d?c qui tâm
+Tú vi trùng ki?t oan ??ng ??i
+L?c di?p s??ng phi hàng s?c xâm</XamChu>
+      <YNghia>Chim kêu tr??c c?a báo tin lành
+Ngàn d?m tính ng??i tính ph?i hành
+N?ng l?nh loan phòng nay tái hi?p
+Mùa ?ông gió th?i v?n hanh thông.</YNghia>
+      <ThanhY>Ki?n ???c hòa, danh v?a khá, hôn nh?n tái hi?p, b?nh hung, tài ch?a có, ??i qua Thu, ?ông thì v??ng, chim Th??c ?em tin lành ??n tr??c c?a, xin ???c x?m này phòng h? ng??i ?àn bà có b?nh.</ThanhY>
+      <ChieuNghiem>M?t ng??i kia có v? ?au nh?m mùa Thu, xin qu? x?m này u?ng thu?c không m?nh ph?i ch?t.</ChieuNghiem>
+      <CoNhan>Tô Võ h?i h??ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm bình th??ng, làm vi?c chi c?ng ph?i ch? th?i, ??n cu?i r?i m?i nên vi?c ch?c v?y, ??ng nghi ng?i chi h?t, vi?c hôn nhân ph?i 2 l?n, c?u b?nh s? khó và k? vi?c v? ch?ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="72">
+      <Hang>4</Hang>
+      <XamChu>Hà c? bàn l? h?u cao ?ê
+Kh? thán tr??ng ?? nh?t d? tây
+Túng h?u vinh huê h?o th?i ti?t
+Tr?c tu h?u khuy?n hoán kim kê.</XamChu>
+      <YNghia>Su?i sông ???ng xá ch? quanh co
+Tr?i x? ???ng dài th?m bi?t bao
+D?u có vinh huê th?i ti?t t?t
+??i Thân, Tu?t, D?u th?a k? ao.</YNghia>
+      <ThanhY>C?u tài ch?m, b?nh ng?t, hành nh?n ch?a v?, danh khó nên, ki?n ch?ng khá, hôn nh?n ch?m, thai lo s? m?t chút, g?p ngày tháng n?m Thân, D?u, Tu?t m?i ???c bình an.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i ?ng thí chi?m ???c qu? xâm này thi ??u nh? ??ng, nh?m ngày Bính Thân chi?u t?i.</ChieuNghiem>
+      <CoNhan>Ph?m Lãi du h?.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u, ng?i trong nhà h?a nó c?ng t?i, tai n?n r?t nhi?u, ??t ?ai hi?m tr?, khác nào c?nh thanh t?nh mà b?ng phát gió, d?u mình mu?n yên mà nó không yên. Còn ???ng xu?t hành c?ng nh? ???ng quanh co gò nõng, ph?i ??i qua n?m D?u ho?c n?m Tu?t m?i ???c hanh thông.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="73">
+      <Hang>4</Hang>
+      <XamChu>?c tích loan phòng phân bán xa
+Nhi kim h?t h?a tín âm hoài
+Suy tâm ch? v?ng thành thiên lý
+?áo ?? thùy tri s? b?t giai.</XamChu>
+      <YNghia>Oan ??ng g?i chích ?? phòng không
+Tin t?c t? ?ây khó n?i trông
+Mê mu?i lòng trong ?ôi b?n hi?p
+Ai ng? r?t cu?c vi?c không xong.</YNghia>
+      <ThanhY>Danh l?i không có, ki?n không xong, ??ng có h?i n?a, hôn nh?n ch?p n?i, thai không có, ??u s? b?nh hi?m tr?, hành nh?n ch?a có tin, e có vi?c lo cho ?àn bà.</ThanhY>
+      <ChieuNghiem>M?t ng??i mu?n c??i v? cho con, chi?m qu? xâm này mà ch?ng tin, g?ng công mà c??i cho con, ???c vài tháng ng??i con ra ngoài buôn bán l? không tr? v?, ng??i dâu b?n lòng gi? ti?t ? tr?n ??i.</ChieuNghiem>
+      <CoNhan>V??ng Chiêu Quân nh? H?n ??.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u l?m, tr?m vi?c ??u b? cách b?c, m?ng b?t thông, ph?i làm ph??c m?i ???c bình yên, m?u s? chi c?ng ph?i dè d?t c?n th?n, hay là ph?i ??i th?i, an ph?n th? th??ng, b?ng có c??ng c?u nó c?ng b?t thành, danh l?i bi?n ??i, hôn nh?n ch?ng hi?p, v? ch?ng lìa xa, con khó nuôi.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="74">
+      <Hang>6</Hang>
+      <XamChu>Thôi nguy, thôi nguy, ph?c thôi nguy
+Lý hi?m nh? di kh? ph?c lai
+Thân t? B? ??, tâm t? kính
+Tr??ng giang nh?t ??o phóng xuân h?i.</XamChu>
+      <YNghia>Vòi v?i ???ng quanh l?i hi?m nguy
+Gay go h?i kh? khó mà ?i
+Thân nh? t??ng Ph?t tâm nh? kính
+M?t n?o sông dài xuân ??n n?i.</YNghia>
+      <ThanhY>Ki?n và b?nh tr??c khó sau yên, danh l?i ???c hanh thông, mùa Thu qua ??n mùa ?ông làm ?n khá. Thánh ý b?o: M?t ch?a, hai ch?a ??ng làm gì h?t ??ng h?i n?a.</ThanhY>
+      <ChieuNghiem>M?t ng??i ? trong làng b?n phía ??u có gi?c, mu?n tr?n cho kh?i, chi?m ???c qu? xâm này bèn ch? ban ?êm tr?n ???c.</ChieuNghiem>
+      <CoNhan>Thôi Võ c?u quan.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không t?t, tr?m vi?c khó thành, hành s? b?t k? công sau r?t c?ng khó thành, làm ba b?n phen m?i xong, nh?ng sau r?t không nên vi?c, ph?i dè d?t k? l??ng s? e có s? h?a h?i nó t?i, m?u s? ph?i ? ngay th?ng, n?u có lòng gian d?i tà v?y thì b? h?i to, ch? có m?t k? hay là an ph?n ??ng làm chi h?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="75">
+      <Hang>3</Hang>
+      <XamChu>Sanh ti?n ki?t ??c h?o nh?n duyên
+Nh?t ti?u t??ng phùng tính t? thân
+T??ng ???ng nh?n v?t vô cao h?
+??c ý l?u lu?n phú d? b?n.</XamChu>
+      <YNghia>Ki?p tr??c nh?n duyên k?t ?ã ?ành
+M?ng vui g?p m?t d? thêm ?ành
+Sánh ?ôi v?a l?a không cao th?p
+Ch?ng lu?n giàu nghèo ch? quy?t thanh.</YNghia>
+      <ThanhY>Tài v?t t?u, b?nh khó m?nh, ki?n g?p qu?i nh?n, hành nh?n h?i, hôn nh?n hi?p, ch? ph?i thì thôi ch? nên kén sang giàu, thai sanh trai.</ThanhY>
+      <ChieuNghiem>M?t ng??i giàu l?n ?i buôn bán mu?n k?t b?n cùng ng??i nghèo, chi?m ???c xâm này sau ng??i nghèo ?ó buôn bán làm giàu (?ng nghi?m câu '??c ý l?u lu?n phú d? b?n').</ChieuNghiem>
+      <CoNhan>L?u ti?u th? th??ng Mông Chánh.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, phát tài h?u, nh?ng li?u v?a ph?i thì ngày sau t?t và phát ??t, c?n nh?t là ph?i c?n th?n và làm lành thì có th?n h?, hôn nh?n thì ph?i c??i mau b?t lu?n giàu nghèo, sau th?ng r? thi ??u làm quan, c?u b?nh s? e ph?i ch?t, nh? con chim H?ng nó g?p gió bay m?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="76">
+      <Hang>5</Hang>
+      <XamChu>Tam thiên pháp lu?t bát thiên v?n
+Th? s? nh? hà thuy?t d? quân
+Thi?n ác lu?ng ?? quân t? túc
+Nh?t sanh h?a ph??c th? trung phân.</XamChu>
+      <YNghia>Ba ngàn pháp lu?t tám ngàn v?n
+Khó nói v?i ng??i vi?c ki?p c?n
+Lành d? ?ôi bên ng??i t? xét
+M?t ??i h?a ph??c li?u mà phân.</YNghia>
+      <ThanhY>Ki?n g?n x?, tài l?c có, b?nh ph?i mau mau cúng th?n, hôn nh?n ph?i suy xét k?, c?u con ???c, làm lành thì h?n n?a n?m s?p t?i khá.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò vào quân binh nói mình h?c ngh? v?n t?t b?c, chi?m ???c qu? x?m này r?i, sau thi không ??u gì h?t, bèn l?y bài thi c?a mình bôi lem b?y b? ch?ng ra chi.</ChieuNghiem>
+      <CoNhan>Tiêu Hà l?p lu?t.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không t?t, ph?i làm lành lánh d? thì m?i an gia ??o, coi ch?ng mang h?a, tr?m vi?c chi ??ng g?p ph?i ch?m rãi ??i th?i thì t?t, ti?n nan h?u v?, tr??c lo r?u sau m?ng, vi?c chi tr?i c?ng ?ã ??nh r?i khó c?i ???c, c?u danh trung niên m?i ???c công danh, ban ??u th?t b?i sau m?i nên, buôn bán ph?i th?t thà, ??ng tham háo th?ng thì m?i kh?i h?a.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="77">
+      <Hang>4</Hang>
+      <XamChu>M?c h?u c?n cai th?y h?u nguyên
+Quân ???ng t? th? c?u k? nguyên
+M?c tùy ??o l? nh?n nhàn ng?
+T?ng cáo chung hung th? chí ngôn.</XamChu>
+      <YNghia>Cây thì có c?i n??c có ngu?n
+T? ?ây ng??i ph?i xét dè luôn
+Ch? nghe dèm xi?m ngoài ?àng xá
+Th?a ki?n khó t??ng tròn hay vuông.</YNghia>
+      <ThanhY>Ki?n ??ng ham, b?nh ph?i c?u th?n, phòng ph?m thu?c, hôn nh?n khó thành, phòng kh?u thi?t, hành nh?n ch?a v?, ??ng tin ai, b?ch th? thành tài khó ??ng ngày Tý thì khá.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò h?i công danh ??ng qu? x?m này, nhi?u khoa không ??u ??n n?m Giáp Tý m?i thi ?? Th? khoa, sau làm quan ??n ch?c Ty Lý ?oán ?n h?i l? b? cách ch?c.</ChieuNghiem>
+      <CoNhan>L? H?u h?i Hàn Tín.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u, ph?i c?u th?n m?i kh?i lo r?u, tr?m vi?c nên c?n th?n ??ng nóng n?y, ph?i dè d?t l?i nói, l? mi?ng là c?a h?a, ki?n th?a ch?ng l?i ph?i gi? mình thì có ph??c, phòng kh?u thi?t, b?nh khó m?nh, ph?i c?u ??o, n?u kh?i ??u</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="78">
+      <Hang>4</Hang>
+      <XamChu>Gia ??o ph??ng phong phi t? b?o ôn
+Dã tu tráng lý l?p càn khôn
+Tài ?a h?i k? quân d??ng t?nh
+Ph??c h?u hoài ?a h?a h?u môn.</XamChu>
+      <YNghia>Gia ??o sang giàu ??ng ?m no
+Có tr?i có ??t ??o h?ng lo
+C?a nhi?u h?i m?ng ng??i t?ng bi?t
+Ph??c h?t r?i e g?p h?a to.</YNghia>
+      <ThanhY>tài ??ng tham, vì ?a tài thì h?a h?i, ki?n ??ng tranh ??u, b?nh c?u th?n, thai sanh trai, hôn nh?n ki?m n?i l??ng thi?n, hành nh?n v?, phòng kh?u thi?t.</ThanhY>
+      <ChieuNghiem>??i vua Thiên Kh?i có m?t v? quan ?aòi Ngh? ch?ng thu?n v?i ho?n quan, nó nói lo m?u th?m h?i, sau l?u c? m?u, ho?n quan b? cách ch?c. Ông ?oàn Nghi ???c ph?c ch?c, rõ ràng h?a ph??c t? rõ,</ChieuNghiem>
+      <CoNhan>Viên An Th? kh?n.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u, mu?n làm vi?c chi ph?i suy xét cho ?áo ?? r?i s? làm, ??ng ? c??ng th?, n?u bi?t làm lành thì s? hóa nó ra vi?c lành, mình làm vi?c gì thì ph?i lo làm l?y, ??ng tin c?y nói v?i ai h?t thì m?i nên vi?c ???c, công danh mu?n r?t sau m?i thành danh, công danh mu?n mà không m?t ph?n. U th?y vi?c t?t thì sau m?i t?t, còn ban ??u x?u thì sau th?t b?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="79">
+      <Hang>5</Hang>
+      <XamChu>Càn H?i lai long t? t? khang
+Kh?m c? Ng? h??ng t? ???ng an
+Nh??c di S?u C?n âm d??ng ngh?ch
+Môn h? ?i?u linh gia ??o an.</XamChu>
+      <YNghia>Lo gì r?ng ? H?i cung Càn
+V? Kh?m h??ng Ng? m?i ??ng an
+S?u C?n d?i âm d??ng ch?c ngh?ch
+C?a nhà h? nát ch?u gian nan.</YNghia>
+      <ThanhY>L?i danh ít, ki?n ch? tin b?n h?u, hôn nh?n c?ng ??ng tin nghe anh em b?n, b?nh ??i th?y, hành nh?n v?, âm d??ng ??a lý ch?ng nên d?i ??i, c?u danh l?i qua n?m Thìn n?m H?i m?i nên, cùng l?m là n?m Tý n?m Ng? ho?c ngày tháng ?ó, tùy vi?c mà ?oán ho?c tu?i Ng?-Thìn-T? h?p nhau m?i khá. Câu xâm này th?y bói bi?t qu? di?c ?oán m?i hay.</ThanhY>
+      <ChieuNghiem>M?t ng??i kén r?, chi?m ???c qu? xâm này sau ???c r? quí.</ChieuNghiem>
+      <CoNhan>V?n V??ng thêm qu? di?c.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng, tuy qui mô t?t nh?ng lòng ??ng x?o, n?u dùng ?i?u x?o, thì vi?c khéo nó s? hóa ra v?ng, ph?i t?nh tâm c?u ph??c, ph??c m?i sanh, công danh không ???c ch? khá c??ng c?u, tài l?i y l? ph?i mà c?u.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="80">
+      <Hang>4</Hang>
+      <XamChu>Nh?t triêu vô s? h?t t?o quan
+Dã th? môn suy ph?n v? an
+C?i oán âm d??ng di h?a ph??c
+Khuyên quân m?c tác ??ng nhàn khang.</XamChu>
+      <YNghia>Khi không vô s? ph?i h?u quan
+Nhà c?a mã m? ??ng ch?ng an
+??i c?i âm d??ng d?i h?a ph??c
+Khuyên ng??i ch? khá t??ng là nhàn.</YNghia>
+      <ThanhY>Danh l?i ph?i c?i th? khác mà làm, ki?n hòa gi?i, b?nh ??i th?y, hành nh?n h?i, hôn nh?n ??nh ch? khác,phong th?y b?t l?i, nhà c?a ph?i phòng h?a ho?n, ho?c ?n tr?m, qua h?t tháng 10 m?i ??ng an.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi võ, chi?m ???c qu? xâm này t?i tr??ng r?y l?n, ki?n th?a m?c vi?c quan bán h?t gia s?n.</ChieuNghiem>
+      <CoNhan>Quách Thoát chôn m?.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u h?t, coi ch?ng ti?u nh?n xâm h?i, ph?i mau mau làm lành làm ph??c, vì s? e b?n nó t?i bây gi?, n?u g?p vi?c t?t là tr?i cho, kh?i c?n c?u ??a lý, sao h?n, ph?i r?n mình không nên ? l?i, th??ng c?u kh?n tr?i Ph?t thì h?a ph?i tiêu.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="81">
+      <Hang>5</Hang>
+      <XamChu>Dã quân tài v?t t? ???ng qu?n
+M?u t?i tâm khi tha t? gian
+H?nh h?u cao dày minh nguy?t kính
+Thinh lai ??i chi?u phá c? quan.</XamChu>
+      <YNghia>C?a ng??i th? l?y ph?i lo toan
+Lòng d?i âm m?u tính k? gian
+May có trên cao g??ng sáng r?
+Gian ngay ?ng hi?n rõ hình tàn.</YNghia>
+      <ThanhY>Ki?n ch? khi, b?nh g?p th?y, danh ch? h?i, hôn nh?n thong th? mà coi ??ng g?p, thai yên, hành nh?n có tin v?, c?u tài theo b?n ph?n mình, xâm này xin t? mùng 1 t?i r?m thì b?t l?i, mà ph?i phòng ti?u nh?n xâm h?i, xin t? r?m s?p lên ??n 30 thì c?u gì c?ng ??ng.</ThanhY>
+      <ChieuNghiem>T?i ??t Giang H?u có m?t ng??i ch?u hàm oan, c? ?i ki?n mà ch?a ??t lý, sau l?i g?p ng??i S?n ?ông h? Tri?u tên Quí làm quan Án Sát thì vi?c oan ?c m?i rành, ông quan h? Tri?u này v?n là ng??i thanh liêm.</ChieuNghiem>
+      <CoNhan>Kh?u Công Tr?n nh?n Lôi D??ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không t?t mà không x?u, ph?i làm lành thì có th?n gúp, n?u làm vi?c chi có ý d?i trá thì s? b? h?i, vi?c gì c?ng ph?i làm cho công bình chánh tr?c thì m?i ??ng yên.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="82">
+      <Hang>2</Hang>
+      <XamChu>B? th? thù trung nh?t b?i hi?n
+Khuy?n quân ??t ??t gi? châu tuy?n
+Th? th?i tân ch? quan t??ng h?i
+Tha nh?t v??ng h?u kh??c tinh kiên.</XamChu>
+      <YNghia>?ây ?ó c?ng trong m?t b?n hi?n
+Khuyên ng??i khá g?n gi? l?i nguy?n
+B?i nay ch? khách ??ng vui hi?p
+V??ng bá ngày sau sánh v?i quy?n.</YNghia>
+      <ThanhY>Tài ??ng, công danh có ng??i ti?n c?, ki?n ??ng l?, b?nh yên, hôn nh?n thànhhành nh?n có tin v?, thai sanh trai, c?u tài mình không dè mà nó t?i cho mình, làm cái chi c?ng có qu?i nh?n ??, gia ??o h?ng v??ng.</ThanhY>
+      <ChieuNghiem>??i vua Gia T?nh t?i ??t Phùng Thành, có tên Lôi L? thi ch?ng ??u, c?u ???c xâm này bèn vô khoa thi, khoa gi?a ??ng ??u, sau l?i có hai ng??i n?a c?ng chi?m ???c bài xâm này, sau thi ??u làm quan c? hai.</ChieuNghiem>
+      <CoNhan>T?ng Nh?n Tôn t?m m?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, các vi?c ??u t?t, b?t c?u t? chí, không c?u c?ng ??ng to?i chí, c?u danh ??u ???c t?t, nh?ng mình ph?i s?a mình cho có cái ??c h?nh thì ngày sau ch?c làm quan l?n l?m, vi?c gì c?ng suy xét, l?a ng??i mà dùng m?i có l?i, b?nh có vái mà ch?a tr? l?i nguy?n, tr? r?i thì b?nh m?nh.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="83">
+      <Hang>4</Hang>
+      <XamChu>Tùy ph?n ???ng ti?n phú chúc chiên
+Hà tu v?ng t??ng kh? ?u ti?n
+Ch? tr??ng môn h? thi?n nan s?
+Bá tu? an nhàn ??c k? niên.</XamChu>
+      <YNghia>An ph?n tùy duyên b?a cháo rau
+Tham tâm ?t ph?i ch?u lao ?ao
+T? gia n?i tr? thi?t là khó
+Tr?m tu?i an nhàn ki?p r?t mau.</YNghia>
+      <ThanhY>Danh l?i ch? tham, ki?n ph?i hòa, hành nh?n ch?a v?, b?nh lâu m?nh, hôn nh?n khoan tính, ??i ng??i vui ??ng có bao lâu.</ThanhY>
+      <ChieuNghiem>Trong m?t cái chùa l?n kia, có ông th?y kia mu?n làm tr? trì, chi?m ??ng xâm này bèn thôi, sau m?i th?y ông ch? chùa ?ó lo làm l?ng x?ng, thi?t là ch?ng b?ng mình ???c r?nh rang, m?i t?nh ng? l?i x?m nói ch?ng l?m.</ChieuNghiem>
+      <CoNhan>Kh?ng Minh h?c ??o.</CoNhan>
+      <LoiBanCuaDichGia>Xâm không ???c, ph?i th?i b? thì t?t, n?u v?ng ??ng thì hung, tùy duyên th? ph?n, gi? mình dè d?t thì m?i ???c yên, ??ng làm qu?y, ??ng khi tâm, ??ng ch?c có qu?i nh?n giúp mình là s? không th?t, gia ??o ph?i gìn gi? thì m?i yên ???c, chi b?ng ?n cháo rau ch? th?i là k? hay, c? vi?c c? mà làm, ??ng nghe l?i ai h?t ham t??ng t?i danh l?i mà h?a ??n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="84">
+      <Hang>5</Hang>
+      <XamChu>Cá trung s? ch? canh phân nhiên
+???ng cu?c tu tri nh?t tr??c tiên
+Tr??ng thi?t ph? nh?n h?u ?àm thuy?t
+L?c hành l? ngh?a y?u tâm kiên.</XamChu>
+      <YNghia>Trong ??i nhi?u vi?c r?n chàng ràng
+G?p cu?c bi?t toan tính m?i hay
+Ch?ng khá tin l?i ng??i ph? n?
+Rán làm l? ngh?a ??ng an nhàn.</YNghia>
+      <ThanhY>Ki?n nghi gi?i, ch? nghe k? xàm, c?u tài ch?m, danh ch? tham,Thai sanh gái, hành nh?n h?i, hôn nh?n ph?i suy xét l?i, ?àn bà nhi?u chuy?n ??ng nghe.</ThanhY>
+      <ChieuNghiem>M?t ng??i kia nghe l?i v?, mu?n cùng em chia gia tài, chi?m ???c xâm này bèn thôi, sau ng??i em buôn bán làm giàu anh em cùng h??ng.</ChieuNghiem>
+      <CoNhan>Tu C? h?i Ph?m th?.</CoNhan>
+      <LoiBanCuaDichGia>X?m x?u, ph?i th?i b?, vi?c gì c?ng ph?i ng?ng l?i ??ng làm n?a, ??ng nghe l?i ai h?t, ch?c có vi?c âm m?u kín ?áo làm r?c r?i cho mình lo s? l?m, ph?i ch? th?i nh? ông chài câu cá v?y, còn nh? c??ng c?u mà làm, thì ph?i suy xét cho k?, mình làm m?t mình ??ng nghe ai, tin ai, nh?t là tr??c c?n sau dãi mà b? th?t b?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="85">
+      <Hang>5</Hang>
+      <XamChu>Nh?t xuân phong võ chánh tiêu tiêu
+Thiên lý ch?n hành kh? l? diêu
+Di qu? t?u ?a quân ??c k?
+Nh? hà qui l? chuy?n vô liêu.</XamChu>
+      <YNghia>Mùa xuân m?a gió r?t t? t?i
+Ngàn d?m rán ?i cho k?p th?i
+Buôn bán ít nhi?u t??ng ??c ý
+Nh? hà qui l? chuy?n vô liêu.</YNghia>
+      <ThanhY>Tùy b?n ph?n, ch? tham nhi?u, ki?n không ???c t?t, phòng tai h?i, hôn nh?n ch?ng ??ng, hành nh?n h?i, c?u th?n giúp thì ph??c ??n nh?ng làm vi?c chi nh? thì khá, còn làm vi?c l?n thì không khá.</ThanhY>
+      <ChieuNghiem>M?t ng??i giàu có m?i nói v?i ng??i b?n r?ng: Tôi mu?n làm Tri Huy?n, ông b?n rán lo cho tôi, tôi ??a cho ông 10 l??ng vàng, chi?m ???c xâm này sau m?c án ph?i lo h?t 30 l??ng vàng r?i b? ch?c ?y, ch?ng ?y m?i ?n n?n h?i ng? l?i c?a xâm d?y.</ChieuNghiem>
+      <CoNhan>Kh??ng N? tìm ch?ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm bán hung bán ki?t, ph?i phòng tai h?a, ph?i gi? mình cho l?m, tùy duyên an ph?n thì m?i yên, n?u c??ng c?u làm vi?c l?n thì tai h?a ??n li?n, làm nh? thì ??ng yên còn l?n thì th?t b?i, coi ch?ng tài nhi?u thì h?a l?n.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="86">
+      <Hang>6</Hang>
+      <XamChu>Nh?t bàn hành hóa h?o chiêu yên
+Tích ti?u thành ?a t? phú nhiêu
+Th??ng b? tha nh?n t? t? k?
+Qu?ng tu nh?t h?u th?ng kim triêu.</XamChu>
+      <YNghia>Buôn bán nh? v?y t?t bi?t bao
+Bán nhi?u mua ít m?i làm giàu
+Sánh ng??i xét ph?n h?ng lo ph?n
+Bu?i này tuy khá thua ngày sau.</YNghia>
+      <ThanhY>Tài l?i nhi?u, ki?n ??c lý, hôn nh?n h?p, b?nh g?n lành, hành nh?n v?, ti?n nan h?u v?, thai sanh trai, có tr?i giúp s?c.</ThanhY>
+      <ChieuNghiem>M?t ng??i buôn bán gi?y, ch? b?ng ghe b? n??c ng??c và b?o t?, gi?y b? ??t h?t phân n?a, còn phân n?a b? chìm d??i bi?n. Ng??i ch? ghe xin bán ghe ??ng th??ng s? gi?y ??t, ng??i buôn gi?y không nói gì c?, ??n khi t?i ch? thì th?y giá gi?y th?t cao, v? ph?i khô r?i l?i ?em bán l?i thêm gia b?i.</ChieuNghiem>
+      <CoNhan>Qu?ng Bào ?i buôn bán.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, song ph?i c?n th?n, vì có s? gay go ??ng ?em lòng ích k? h?i nh?n, ?n ? b?ng cho t?t có tr?i giúp cho.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="87">
+      <Hang>4</Hang>
+      <XamChu>Âm lý tr??ng khan quái nhi tào
+Châu trung ??nh qu?c ti?u trung ?ao
+Phân ly ph?n phá h?n vô s?
+Nh?t ch??ng thiên sanh tích võ mao.</XamChu>
+      <YNghia>Tính th?m hai phía th?y âm m?u
+Ai bi?t chung ghe l?i ??ch c?u
+L?p qu?c ??nh ranh là vi?c khó
+Tr?i sanh m?t gi?ng khác t? ?u.</YNghia>
+      <ThanhY>Danh l?i không có, b?nh có qu? ph?i c?u th?n không h? chi, ki?n ??ng gây n?a, hòa là quí, tài m?c tham, hôn nh?n b?t l?i, hành nh?n ch?a v?, ki?n là ng??i thân t?c ki?n, tài e thân quy?n phá hao.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi ?em theo ?? ??t r?t nhi?u, c?u ???c x?m này bèn xu?ng ghe ?i, g?p m?t ng??i ?i quá giang, tr??t chân té d??i n??c ??t h?t c? ng??i, anh h?c trò v?i vàng c?i áo c?a mình ??a cho anh kia m?c, anh quá giang c?m ?n và thú th?t tôi là ng??i ?n tr?m c?a ông ch? không ph?i là ng??i hành khách.</ChieuNghiem>
+      <CoNhan>Kh?ng Minh và L? Túc ??ng ??n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm x?u l?m, ph?i lo làm lành, làm ph??c nó m?i tiêu h?a, có ti?n nh?n ch?c s?n hãm h?i, lo s? c?t nh?c c?ng ph?i ly tan, khác nào nuôi con chim ?? lông ?? cánh r?i nó bay m?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="88">
+      <Hang>2</Hang>
+      <XamChu>Túng ti?n bá s? t?ng ?? lao
+Tài ki?m tân xuân th?i ti?m lao
+Bá k? dinh c?u ?? ??c ý
+Cánh tu th? k? m?c tâm cao.</XamChu>
+      <YNghia>B?y lâu tr?m vi?c tính không xong
+X?y ??n mùa xuân g?p v?n thông
+Tr?m k? toan c?u ??u ??c ý
+Ch? tham ??ng ? gi? lòng trong.</YNghia>
+      <ThanhY>Danh l?i tùy duyên, ki?n ph?i hòa thì t?t, b?nh yên m?nh, hôn nh?n hi?p, hành nh?n h?i, thai sanh trai, danh l?i qua Xuân khá l?m, mùa Thu, ?ông n?m nay bình th??ng, n?u g?p n?m M?o, D?n, Thìn càng t?t.</ThanhY>
+      <ChieuNghiem>? n??c S? có m?t anh h?c trò ?i thi, chi?m ???c xâm này thi ??u, k? ?ó ng??i ta bi?u anh ??n c?u thân v?i quan T??ng T??ng ??ng c?u ti?n ?i, r?i quan T??ng T??ng ch?t nên vi?c không thành.</ChieuNghiem>
+      <CoNhan>Cao V?n ??nh th? kh?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, nh?ng ph?i tùy duyên an ph?n ??ng t? kiêu, ??ng ? tài tân, lo li?u tính toán cho khéo, ???c v?y ?c có l?i có tài và ch?c g?p th?i t?t muôn vi?c tr?n, còn nh? th?i v?n ch?a t?i, thì ch?u lao ?ao l?n ??n l?m, m?u v?ng ch? qua xuân n?m m?i ???c t?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="89">
+      <Hang>5</Hang>
+      <XamChu>Tôn ti?n vô s? th? cao ca
+Th?i v? lai th?i n?i nh??c hà
+B?ch mã ?? giang tuy nh?t m?
+H? ??u thành lý khán nguy nga.</XamChu>
+      <YNghia>R?nh rang chén r??u l?i ca hát
+Ch?a g?p v?n th?i ch? khá nài
+Ng?a tr?ng qua sông tuy vi?c khó
+H? ??u thành kh?i m?i là tài.</YNghia>
+      <ThanhY>B?nh g?n m?nh, hành nh?n v?, ki?n khá gi?i, thai yên, hôn nh?n th?ng th?ng, ??ng g?p, g?p nh?m tháng ho?c n?m, hay là ngày D?u, Ng?, S?u là khá, ph?i phòng kh?u thi?t trong lúc ?n u?ng r??u quá chén.</ThanhY>
+      <ChieuNghiem>T?i ??t Lâm Xuyên, có tên Tr?n ??i S? thu? nh? chi?m ??ng qu? xâm này ??n 57 tu?i m?i thi ??u. M?t ng??i tu?i Giáp vâng l?i chi?u phong làm quan, m?c áo g?m mà v? qu?n Ki?t An, x? Tri?u Châu hi?u là H? ??u.</ChieuNghiem>
+      <CoNhan>Mã Siêu qui v? Ng?c môn quan.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng công danh mu?n, tài l?i phát ch?m, thánh ý nói tuy xa là v?n c?nh mu?n màng, nh?ng ngày sau tr?i xoay tr? l?i nh?t kh?c thì ???c danh nghi?p t?c thì, và chúng nh?n khâm ph?c, song có s? lao kh? l?m m?i ???c danh to, ph?i lo tích c?c phòng c?, ph?i phòng kh?u thi?t, nh?t là dè d?t trong vi?c ?n u?ng r??u chè. Qua n?m Ng?, D?u, S?u ?t có ng??i qu?i nh?n giúp </LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="90">
+      <Hang>5</Hang>
+      <XamChu>Không ??ng hành, lý s? nh? ma
+Vô s? nh? quân h?u k? gia
+Khuy?n nh? b?t tu c?u trí ??o
+?? lao sanh s? kh? tri ta.</XamChu>
+      <YNghia>Th? ??i b?n kh? ch? n? hà
+Vô s? nh? ng??i có m?y nhà
+Khuyên ?ó ch? nhi?u l?n kh?n ??o
+Th?t công lu?ng nh?c r?t thi?t tha.</YNghia>
+      <ThanhY>Ki?n hòa là hay, tài ch?m, hôn nh?n thành, b?nh kh?i lo, tin t?c ch?a t?i, ch? nghe l?i xàm, thai ph?i b?o h? và c?n gìn gi?, tr?m vi?c ??u ph?i ch?m rãi.</ThanhY>
+      <ChieuNghiem>Hai ng??i ki?n nhau chi?m ???c xâm này, trong ý không can h?i nhau.</ChieuNghiem>
+      <CoNhan>D??ng V?n Qu?ng b? vây t?i D??ng Châu.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, nh?ng mà ph?i ? nhà an ph?n thì t?t, ph?i t?nh ??ng ??ng, n?u ??ng thì h?a nó t?i li?n, ch? có c??i chê xàm ?àm ti?u k? khác, ??ng tham, ??ng ghét, ??ng chê ng??i ta d?i, ??ng gi?n, ??ng mu?n gì h?t, thì m?i kh?i tai h?a, ph?i ? t?i nhà an ph?n thì t?t. ??ng làm vi?c qu?y thì kh?i c?u, kh?i h?i chi h?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="91">
+      <Hang>5</Hang>
+      <XamChu>Ph?t thuy?t ?ào sa th?y ki?n kim
+Ch? duyên quân t? kh? lao tâm
+Vinh huê t?ng ??c thi th? hi?u
+Di?u lý công phu t? t? t?m.</XamChu>
+      <YNghia>Ph?t nói ?ãi cát m?i th?y vàng
+Ch? ng??i quân t? khó an nhàn
+Vinh huê phú quí nh? kinh s?
+G?ng s?c s?m khuya m?i ??ng toàn.</YNghia>
+      <ThanhY>N?u mà c?u danh c?u l?i thì ph?i lao kh? m?i thành, ki?n thì nh?c lòng mà sau không h? gì, hôn nh?n ph?i ch?n l?i, h?i hành nh?n th? trong 3, 6 ho?c 9 ngày có tin v?, tài hay danh n?u g?p ngày Canh hay ngày Tân thì ??ng, mình ráng công tr?i giúp s?c, Ph?t ch? ch? có vàng mà mình không tin thì làm sao mình có cho ???c.</ThanhY>
+      <ChieuNghiem>M?t ng??i con ?au trái r?t nguy hi?m mu?n dùng n??c ph?n cho u?ng, mà còn nghi nan ch?a quy?t ??nh, bèn c?u ??ng xâm này vì có ch? kim, mau mau cho u?ng ???c m?nh, m?t tháng ???c an.</ChieuNghiem>
+      <CoNhan>Tri?u T? Long ???ng d??ng tr??ng b?n.</CoNhan>
+      <LoiBanCuaDichGia></LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="92">
+      <Hang>4</Hang>
+      <XamChu>Kim niên hòa c?c b?t nh? ti?n
+V?t giá quyên ??ng b?i bá niên
+Tai s? l?u hành ?a t?t b?nh
+Nh?t d??ng ph?c h?n th?y an toàn.</XamChu>
+      <YNghia>N?m nay lúa thóc kém n?m r?i
+V?t th?c còn thêm m?c s?p ?ôi
+D?ch l?, tai tr?i s? ?ã ??nh
+Mùa ?ông v?a m?i ???c an ng?i.</YNghia>
+      <ThanhY>Ki?n cáo còn dây d?a, b?nh ho?n nhi?u, song c?ng vô h?i, tài khó ki?m ph?i ch? th?i, thai sanh trai r?i sau m?i g?p ph??c, qua tháng 10 thì làm ?n khá ???c t?n phát.</ThanhY>
+      <ChieuNghiem>M?t ng??i bán ?? n? trang, nay mu?n b? ngh? c?, bèn xin bài xâm này, bèn gi? ngh? c?, sau g?p ?ám c??i nhà giàu, v?a lúc trong ch? h?t ?? n? trang nên bán ???c gia b?i.</ChieuNghiem>
+      <CoNhan>Cao T? d?y dân.</CoNhan>
+      <LoiBanCuaDichGia>Hao t?n tài c?a, kh?u thi?t th? phi, b?nh ho?n li?n li?n mà sau r?t ???c yên, n?u ki?n cáo thì sanh d? nhi?u h?n, ph?i dè d?t c?n th?n, ??ng khinh ??ng, ??i qua Thu m?i ???c yên, ch? qua t?i ?ông m?i có vi?c t?t.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="93">
+      <Hang>5</Hang>
+      <XamChu>Xuân lai võ th?y thái liên miên
+Nh?p h? tinh càng võ h?u khiên
+Ti?t khí ph?c giao tam ph?c h?n
+H? phùng bàn ?ã túc ?i?n viên.</XamChu>
+      <YNghia>Mùa xuân m?a gió ti?p liên miên
+Qua h? càng thêm n?i ch?ng yên
+Ti?t khí qua thu m?i ???c thu?n
+?t m?ng n??c n?i ng?p ?i?n viên.</YNghia>
+      <ThanhY>Tài khi t? khi tán, b?nh c?ng tr? ?i tr? l?i, nên ph?i c?u an, hôn nh?n thì thành nh?ng hay ph?n phúc, nhi?u chuy?n, cu?i tháng 6 m?i yên t?nh.</ThanhY>
+      <ChieuNghiem>M?t ng??i h?i chuy?n tr?n ??i, chi?m ???c qu? xâm này bèn nói ta nay là Canh Thân, Canh Ng?, Canh Thìn, Canh D?n, Canh Tý, thi?t là ng? Canh tr??c s? tam ph?c, v?y quy?t ch?c sau nên danh ???c.</ChieuNghiem>
+      <CoNhan>Kh??ng Ti?t ??nh âm d??ng.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng, không t?t gì l?m, ph?i an t?nh thì kh?i lo s? r?i ro, mu?n làm vi?c chi thì b? kh? c?c và tr?c tr? l?m, bây gi? nên nh?n nh?n ??ng c?u t?t, r?i sau này cái x?u tr? l?i, cái t?t ??n cho, b?nh ph?n phúc, c?u tài ??ng r?i sau hao t?n. V?y nên làm ph??c thì m?i an, mu?n h?i vi?c chi thì trong 3 ngày có tin t?c. Tháng 4 và tháng 5 không có l?i chi h?t, qua Thu s?p ??n m?i có s? m?ng vui và ???c yên.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="94">
+      <Hang>5</Hang>
+      <XamChu>Nh?t ban khí d?ng d? nh?n ??ng
+X?o k? lu?n d? t? t??ng công
+Phàm s? h?u duyên th?a tùy ph?n
+Thu ?ông ph??ng ng? ch? nhân ông.</XamChu>
+      <YNghia>Ban khí d?ng ai ai c?ng ??ng
+Khéo hay nh? s?c th? dày công
+Vi?c chi c?ng ph?i tùy duyên ph?n
+Thu ??n, qua ?ông g?p qu?i ông.</YNghia>
+      <ThanhY>Ng? qu?i nh?n, ki?n ??c lý, tài còn ch?m, b?nh ch?a lành, hành nh?n còn cách tr?, qua mùa Thu, ?ông m?i có qu?i nh?n ch? d?n m?i ???c h?n tr??c, thai sanh gái, bây gi? không nên v?n ??ng chi h?t, ch? qua ?ông m?i yên, xong qua thu ?ông công vi?c m?i thành.</ThanhY>
+      <ChieuNghiem>Có anh h?c trò h? Lâm, chi?m ???c qu? xâm này ?i thi không ??u, sau g?p m?t v? tôn s? h? Kim thi m?i ??u, m?i bi?t h? Lâm là thu?c h? M?c g?p h? Kim m?i thành thân.</ChieuNghiem>
+      <CoNhan>?? Ki?t qua c?a nhà ông Tr??ng gi?.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng, ph?i an thân th? ph?n, gi? mình ??ng khinh ??ng thì m?i có ph??c, ??i th?i m?i có tài l?c, danh l?i tr??c khó sau d?. Nh?ng mà bây gi? ??ng v?ng ??ng ??ng làm gì h?t, ?? ch? qua ?ông ?t ???c vi?c và g?p qu?i nh?n, tài ch?m phát, hôn nh?n ch?a thành, ki?n ??c lý, nh?ng mà ch? qua ?ông m?i yên xong, qua Thu ?ông muôn vi?c m?i ??ng.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="95">
+      <Hang>5</Hang>
+      <XamChu>Tri quan tr?c lý h?u l? châu
+Sanh b?t phùng th?i b?t c??ng ??
+Khá thán ??u l?u d? nh? h?a
+Nh? kim ph??ng ??c quí nh?n phò.</XamChu>
+      <YNghia>Bi?t ng??i trong túi có minh châu
+Sanh ch?ng g?p th?i khó c??ng c?u
+Than th? ng?c lành còn ??i giá
+Quí nh?n g?p ??ng kh?i lo r?u.</YNghia>
+      <ThanhY>tài phát ch?m, ki?n không khá, danh còn mu?n, hôn nh?n ch?a ??nh, hành nh?n ch?a v? g?p ngày Thìn thì nên vi?c, qua Thu ?ông thì khá.</ThanhY>
+      <ChieuNghiem>??i vua V?n L?ch có anh h?c trò ? ??t Kinh S? làm giáo t?p, c?n vi?c su?t ??i, c?u ???c qu? xâm này làm ?n không khá, ??n khi tu?i 60, ng??i ?? t? tên là H?u Thìn làm Phò Mã r??c th?y v? d?y ? trong làng, khi có ???c 1.000 l??ng vàng m?i bi?t ch? Thìn tên là Thìn Thi?t.</ChieuNghiem>
+      <CoNhan>Tr??ng Vi?n c?u quan.</CoNhan>
+      <LoiBanCuaDichGia>Xâm n?a t?t, n?a x?u, ph?i tu tâm l??ng thi?n, ??ng tham nên ?n ??i th?i, n?u c??ng c?u làm vi?c thì làm khéo hóa v?ng, danh l?i mu?n, sau cu?i m?i có ng??i dìu d?t thì m?i v?a ý thành công, nên ph?i bi?t khi th?i v?n ch?a có, d?u có h?t minh châu b?c ? trong mình, ng??i ta c?ng không tin, ??i qua n?m hay là tháng Thìn thì m?i có ph??c l?i.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="96">
+      <Hang>2</Hang>
+      <XamChu>Hôn nh?n t? t?c m?c hi?m trì
+??ng b? tinh th?n tr??ng Ph?t tiên
+T? th?p niên ti?n tu báo ?ng
+Công danh hành mãn d?c hành vi.</XamChu>
+      <YNghia>V? con tuy mu?n ch? than phi?n
+C? gi? lòng gìn t??ng Ph?t tiên
+B?n ch?c n?m r?i tr?i nh? ph??c
+Giàu sang danh c? thêm con hi?n.</YNghia>
+      <ThanhY>Danh l?i ch?m sau m?i nên, ki?n còn lâu, b?nh gi?m l?n, hôn nh?n hi?p, c?u con có và t?t, hành nh?n h?i n?m tháng ho?c ngày M?o hay Tý thì t?t và vô s?.</ThanhY>
+      <ChieuNghiem>M?t ng??i b? m?c m?a, trú m?a ???c giây lát, khi mu?n c?i áo ra thì th?y t?nh m?a.</ChieuNghiem>
+      <CoNhan>S?n ??o ra m?t V??ng Vi?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng mà ??ng nóng n?y, ch?m ch?m m?i t?t, danh l?i mu?n mà ch?c, c?ng ??ng than sao mà ch?m tr?, ki?n sau cu?i m?i ??ng lý, b?nh th?nh tho?ng lành, hôn nh?n hi?p sau sanh con cháu ?ông.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="97">
+      <Hang>6</Hang>
+      <XamChu>Ng? th?p công danh tâm d? khôi
+Ma tri phú qu?i b?c nh? lai
+Cánh hành h?o s? t?n ph??ng 
+Th? t? cang l?ng v? ??nh thai.</XamChu>
+      <YNghia>N?m ch?c công danh ?ã h?t mong
+Dè ?âu phú quí t?i khinh không
+C? gìn lòng t?t tu âm ch?t
+Ph??c th? l?c quy?n con cháu ?ông.</YNghia>
+      <ThanhY>Ki?n ???c gi?i, danh thành, tài t?m có, b?nh ??ng an, hành nh?n v?, ti?n nan h?u v?.</ThanhY>
+      <ChieuNghiem>M?t ng??i ?i thi chi?m ???c xâm này, ?i thi không ??u tr? v?, sau t?i 49 tu?i b?nh ch?t (vì ?ng câu ??u). M?t ng??i ?i thi mà chi?m ???c qu? xâm này, thi không ??u, ng??i nào c?u mà h?i s? ph?n chi?m ???c xâm này công danh ??c th?ng và ???c hi?n vinh vì tu?i già 50 (?ng câu nhì). Còn ng??i 50 tu?i n?u g?p c?nh t?t thì t?t, n?u g?p c?nh x?u thì x?u.</ChieuNghiem>
+      <CoNhan>Châu Mãi Th?u 50 tu?i m?i ???c giàu sang.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, nh?ng mà danh l?i ch?m l?m, h?a ph??c do mình làm ra ho?c d? ho?c lành, ng??i trên 50 tu?i xin ???c xâm này thì t?t, d??i 50 thì x?u, n?u c?u b?nh mà b?nh trên 50 tu?i thì ???c m?nh, còn d??i 50 tu?i e khó m?nh.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="98">
+      <Hang>5</Hang>
+      <XamChu>Kinh dinh nh?t xu?t phí tâm th?n
+Nam B?c bôn trì v?n d? tân
+Ng?c th? giao th?i ???ng ??c ý
+H?p nh? khô m?c tái phùng xuân.</XamChu>
+      <YNghia>Kinh dinh cu?c th? t?n tinh th?n
+T?o B?c bôn Nam ch?a g?p ph?n
+Ngày th? ra ??ng mình ??c ý
+Nh? cây khô l?i g?p mùa xuân.</YNghia>
+      <ThanhY>Danh l?i có, ki?n g?n yên, b?nh g?n m?nh, thai sanh trai, hành nh?n còn cách tr? ch?a v?, qua Xuân thì t?t, ph?i ??i th?i, d?u có bôn Nam t?u B?c c?ng không ???c chi h?t, mà u?ng công lao.</ThanhY>
+      <ChieuNghiem></ChieuNghiem>
+      <CoNhan>Ti?t Nh?n Quí ??u quân b? Tr??ng S? Quý y?m tài.</CoNhan>
+      <LoiBanCuaDichGia>Xâm khá, nh?ng danh l?i còn ch?m, sau m?i nên, làm vi?c gì c?ng ph?i ch?m rãi ??i th?i, có h?i ch?m ch?m m?i t?t, vì th?i không có, d?u có lên tr?i c?ng không có ???ng ?i. Ph?i ??i qua n?m tháng M?o, D?u m?i nên vi?c, c?u công danh thì n?m M?o thi ??u, qua n?m D?u m?i làm quan.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="99">
+      <Hang>5</Hang>
+      <XamChu>Quí nh?n lao ng? th?y vân h??ng
+Lãnh ??m giao tình t? v? tr??ng
+Hu?nh các khai th?i viên c? khách
+Huê l?u ?ng ??c v?n kh??ng trang.</XamChu>
+      <YNghia>Qu?i nh?n g?p g? ch?n non tùng
+??m b?c tình giao r?t m?n n?ng
+L?u các y?n viên m?ng b?n c?
+Ng?a hay ch? quí v?n hanh thông.</YNghia>
+      <ThanhY>Ki?n ??ng yên , danh l?i có, gai ??o bình yên, thai sanh trai, hôn nh?n thành, hành nh?n chí, g?p n?m tháng ngày Ng? làm nên vi?c.</ThanhY>
+      <ChieuNghiem>M?t anh h?c trò ?i thi, chi?m ???c qu? xâm này sau ??u Võ T?n S?.</ChieuNghiem>
+      <CoNhan>Bá Lý Hu? ??u T?n.</CoNhan>
+      <LoiBanCuaDichGia>Xâm t?t, thánh ý nói c?ng nh? con chim H?ng g?p gió xuôi, chi?c ghe c?ng g?p gió làm vi?c chi thì c? vi?c c? mà làm, ??ng ??i m?i, b?n c? t?t h?n ng??i b?n m?i, n?u mu?n ??i m?i e s? kh? tâm.</LoiBanCuaDichGia>
+    </TheXam>
+    <TheXam SoThe="100">
+      <Hang>6</Hang>
+      <XamChu>Ngã b?n thiên tiên lôi võ s?
+Ki?t hung h?a ph??c ngã tiên tri
+Chí thi?n ??o cáo giai linh ?ng
+Tr?c ??t trung xâm bá s? nghi.</XamChu>
+      <YNghia>S?m sét trên ??i v?n m?t ta
+Tiên tri h?a ph??c c?ng là ta
+Chí thành kh?n vái ??u linh ?ng
+Xin ???c xâm này tr?m vi?c hòa.</YNghia>
+      <ThanhY>Xâm này b?t k? xin ?i?u gì c?ng t?t.</ThanhY>
+      <ChieuNghiem>??i vua Long Khánh, Thi?u ??nh tiên sinh chi?m ???c xâm này bèn thi ??u s? 300, T?n S?, làm quan ??n ch?c Th??ng Th? h??ng th?.</ChieuNghiem>
+      <CoNhan>???ng Minh Hoàng c?u tr?i.</CoNhan>
+      <LoiBanCuaDichGia>Xâm th??ng th??ng, tuy là t?t nh?ng cu?i cùng không t?t, vì xin nh?m xâm chót nên không ??nh ch?c, có ph??c thì có th?n phù tr?, còn vô ph??c thì vi?c khó, vi?c chi t??ng t?i không thành, mà vi?c không t??ng ??n mà ???c, h?a cùng ph??c t?i n?i mình, n?u c?u b?nh ch?c khó m?nh, sinh ?? ???c an, sanh trai.</LoiBanCuaDichGia>
+    </TheXam>
+  </DanhSachTheXam>
+</Root>
